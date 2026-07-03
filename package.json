@@ -22,12 +22,12 @@
       "import": "./dist/esm/index.js",
       "require": "./dist/cjs/index.js"
     },
-    "./icons/*": {
+    "./manifest.json": "./manifest.json",
+    "./*": {
       "types": "./dist/types/icons/*.d.ts",
       "import": "./dist/esm/icons/*.js",
       "require": "./dist/cjs/icons/*.js"
-    },
-    "./manifest.json": "./manifest.json"
+    }
   },
   "scripts": {
     "generate": "tsx scripts/generate.ts",
@@ -36,7 +36,15 @@
     "build:cjs": "tsx scripts/build-cjs.ts",
     "build:types": "tsc -p tsconfig.build-types.json",
     "test": "vitest run",
-    "verify:treeshake": "tsx scripts/verify-treeshake.ts"
+    "verify:treeshake": "tsx scripts/verify-treeshake.ts",
+    "build:explorer-data": "tsx scripts/build-explorer-data.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Your-Job-Search-Genius/icons.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "peerDependencies": {
     "react": "^18.0.0 || ^19.0.0"
