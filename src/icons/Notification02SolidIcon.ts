@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Notification02SolidIcon = createIcon({"name":"Notification02SolidIcon","figmaName":"notification-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M3.928 9.277C3.928 4.842 7.544 1.25 12 1.25s8.072 3.592 8.072 8.027c0 1.032.07 1.81.545 2.51.066.096.154.216.25.347.167.229.358.49.503.716.255.4.505.882.591 1.444.28 1.833-1.012 3.02-2.298 3.551-4.533 1.873-10.793 1.873-15.326 0-1.286-.531-2.579-1.718-2.298-3.55.086-.563.336-1.045.591-1.444.145-.227.336-.489.503-.717a12 12 0 0 0 .25-.347c.475-.7.545-1.478.545-2.51"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M7.743 17.784a1 1 0 0 1 1.224.71c.34 1.278 1.554 2.256 3.033 2.256 1.48 0 2.694-.978 3.034-2.257a1 1 0 1 1 1.933.514C16.39 21.18 14.37 22.75 12 22.75s-4.39-1.571-4.966-3.743a1 1 0 0 1 .71-1.223","clipRule":"evenodd"}]]);

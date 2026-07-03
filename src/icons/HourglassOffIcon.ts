@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const HourglassOffIcon = createIcon({"name":"HourglassOffIcon","figmaName":"hourglass-off","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M5 5a7 7 0 0 0 7 7 7 7 0 0 0-7 7v3m14-3v3"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M19 22H4"}],["path",{"fill":"currentColor","d":"M19.75 2a.75.75 0 0 0-1.5 0zm-4.172 8.38a.75.75 0 0 0 .844 1.24L16 11zM20 2.75a.75.75 0 0 0 0-1.5zM6.5 1.25a.75.75 0 0 0 0 1.5zM19 2h-.75v3h1.5V2zm0 3h-.75c0 2.315-1.093 4.304-2.672 5.38L16 11l.422.62C18.438 10.246 19.75 7.778 19.75 5zm1-3v-.75H6.5v1.5H20z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m2 2 20 20"}]]);

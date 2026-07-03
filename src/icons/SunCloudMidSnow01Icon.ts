@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const SunCloudMidSnow01Icon = createIcon({"name":"SunCloudMidSnow01Icon","figmaName":"sun-cloud-mid-snow-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M9 3.655A3.84 3.84 0 0 0 5.844 2 3.85 3.85 0 0 0 2 5.857C2 7.154 2.638 8.3 3.616 9"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M17.478 9.01h.022c2.485 0 4.5 2.017 4.5 4.506 0 1.962-1.252 3.365-3 3.984m-1.522-8.49q.021-.249.022-.502A5.504 5.504 0 0 0 12 3a5.504 5.504 0 0 0-5.48 5.03m10.958.98a5.5 5.5 0 0 1-1.235 3.004M10 9.009a4.97 4.97 0 0 0-3.48-.979A5.005 5.005 0 0 0 2 13.015C2 15.07 3.234 16.71 5 17.5"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M12 14v6m2.5-4.5-5 3m0-3 5 3"}]]);

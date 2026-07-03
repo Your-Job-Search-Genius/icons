@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const UserAccountIcon = createIcon({"name":"UserAccountIcon","figmaName":"user-account","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M14 9h4"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M14 12.5h3"}],["rect",{"width":20,"height":18,"x":2,"y":3,"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":1.5,"rx":5}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M5 16c1.208-2.581 5.712-2.75 7 0"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M10.5 9a2 2 0 1 1-4 0 2 2 0 0 1 4 0Z"}]]);

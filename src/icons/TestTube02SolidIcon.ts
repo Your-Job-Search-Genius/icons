@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const TestTube02SolidIcon = createIcon({"name":"TestTube02SolidIcon","figmaName":"test-tube-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M6 2.25a1 1 0 0 1 1-1h10a1 1 0 1 1 0 2H7a1 1 0 0 1-1-1","clipRule":"evenodd"}],["path",{"fill":"currentColor","d":"M15.8 1.25c.524 0 .95.438.95.978v15.635c0 2.699-2.127 4.887-4.75 4.887s-4.75-2.188-4.75-4.887V2.228c0-.54.426-.978.95-.978.525 0 .95.438.95.978V8c.794.03 1.767.622 2.85 1.317 1.216.78 2.166.806 2.85.5v-7.59c0-.54.425-.978.95-.978M11.966 17.74a.995.995 0 0 0-1.219-.707l-.009.003a1 1 0 0 0 .515 1.932l.009-.003a1 1 0 0 0 .704-1.225m2-4a.995.995 0 0 0-1.219-.707l-.009.003a1 1 0 0 0 .515 1.932l.009-.003a1 1 0 0 0 .704-1.225"}]]);

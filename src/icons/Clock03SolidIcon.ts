@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Clock03SolidIcon = createIcon({"name":"Clock03SolidIcon","figmaName":"clock-03","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M9.77 3.509C5.045 4.77 2.247 9.596 3.507 14.28s6.107 7.473 10.833 6.21a8.83 8.83 0 0 0 6.467-7.188.977.977 0 0 1 1.932.295 10.79 10.79 0 0 1-7.894 8.782c-5.759 1.537-11.683-1.855-13.226-7.592S3.506 3.158 9.266 1.62c5.407-1.444 10.96 1.46 12.895 6.568a.978.978 0 0 1-.855 1.322l-2.453.15a.977.977 0 0 1-1.035-.917c-.012-.202 0-.422.133-.555l1.008-1.007a.48.48 0 0 0 .044-.64A8.87 8.87 0 0 0 9.77 3.51"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M12 7a1 1 0 0 1 1 1v3.586l1.707 1.707a1 1 0 0 1-1.414 1.414l-2-2A1 1 0 0 1 11 12V8a1 1 0 0 1 1-1","clipRule":"evenodd"}]]);

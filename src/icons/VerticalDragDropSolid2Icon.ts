@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const VerticalDragDropSolid2Icon = createIcon({"name":"VerticalDragDropSolid2Icon","figmaName":"vertical-drag-&-drop","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M4 6a2 2 0 0 1 2-2h.006a2 2 0 1 1 0 4H6a2 2 0 0 1-2-2m5.997 0a2 2 0 0 1 2-2h.006a2 2 0 0 1 0 4h-.006a2 2 0 0 1-2-2m5.997 0a2 2 0 0 1 2-2H18a2 2 0 1 1 0 4h-.006a2 2 0 0 1-2-2M4 12a2 2 0 0 1 2-2h.006a2 2 0 1 1 0 4H6a2 2 0 0 1-2-2m5.997 0a2 2 0 0 1 2-2h.006a2 2 0 0 1 0 4h-.006a2 2 0 0 1-2-2m5.997 0a2 2 0 0 1 2-2H18a2 2 0 1 1 0 4h-.006a2 2 0 0 1-2-2M4 18a2 2 0 0 1 2-2h.006a2 2 0 1 1 0 4H6a2 2 0 0 1-2-2m5.997 0a2 2 0 0 1 2-2h.006a2 2 0 0 1 0 4h-.006a2 2 0 0 1-2-2m5.997 0a2 2 0 0 1 2-2H18a2 2 0 1 1 0 4h-.006a2 2 0 0 1-2-2","clipRule":"evenodd"}]]);

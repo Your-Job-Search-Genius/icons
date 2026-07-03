@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const PointingRight02Icon = createIcon({"name":"PointingRight02Icon","figmaName":"pointing-right-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M10 11h10.25a1.75 1.75 0 1 1 0 3.5H14.5c.076 1.708-.317 4.69-2.462 6.82-1.36 1.353-4.25.386-5.727-.322-.799-.382-1.767-1.106-2.693-1.106H2M14 11c-.018-.024-2.175-2.878-3.609-3.376-1.283-.446-2.425.408-3.482 1.05C6.089 9.173 4.069 11 2.995 11H2"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M22 4.5h-6m6 0c0-.7-1.994-2.008-2.5-2.5M22 4.5c0 .7-1.994 2.008-2.5 2.5"}]]);

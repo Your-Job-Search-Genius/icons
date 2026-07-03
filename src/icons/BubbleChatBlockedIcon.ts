@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const BubbleChatBlockedIcon = createIcon({"name":"BubbleChatBlockedIcon","figmaName":"bubble-chat-blocked","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M18.5 18.835a10.23 10.23 0 0 1-6.5 2.298q-.977 0-1.935-.18c-.459-.085-.688-.128-.848-.104s-.388.145-.842.387a6.5 6.5 0 0 1-4.224.657 5.3 5.3 0 0 0 1.087-2.35c.1-.53-.148-1.045-.52-1.422C3.034 16.408 2 14.1 2 11.56S3.033 6.713 4.719 5"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M7.5 3.021A10.3 10.3 0 0 1 12 2c5.522 0 10 4.284 10 9.567 0 1.6-.41 3.108-1.137 4.433"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"m2 2 20 20"}]]);

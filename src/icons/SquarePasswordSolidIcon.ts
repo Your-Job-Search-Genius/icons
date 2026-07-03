@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const SquarePasswordSolidIcon = createIcon({"name":"SquarePasswordSolidIcon","figmaName":"square-password","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M12 8.25c1.596 0 3.046.034 4.475.1 2.058.094 3.729 1.689 4 3.706.149 1.1.275 2.256.275 3.444s-.126 2.344-.274 3.444c-.272 2.017-1.943 3.612-4.001 3.706-1.429.066-2.88.1-4.475.1a96 96 0 0 1-4.475-.1c-2.058-.094-3.729-1.689-4-3.706-.149-1.1-.275-2.256-.275-3.444s.126-2.344.274-3.444c.272-2.017 1.943-3.612 4.001-3.706A96 96 0 0 1 12 8.25M9.5 14.5a1 1 0 1 0 0 2h.009a1 1 0 1 0 0-2zm4.991 0a1 1 0 1 0 0 2h.009a1 1 0 1 0 0-2z"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M12 3.25a3.5 3.5 0 0 0-3.5 3.5v2.5a1 1 0 0 1-2 0v-2.5a5.5 5.5 0 1 1 11 0v2.5a1 1 0 1 1-2 0v-2.5a3.5 3.5 0 0 0-3.5-3.5","clipRule":"evenodd"}]]);

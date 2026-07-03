@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const SunglassesIcon = createIcon({"name":"SunglassesIcon","figmaName":"sunglasses","viewBox":"0 0 24 24","width":24,"height":24}, [["circle",{"cx":12,"cy":12,"r":10,"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M9 16c.836.628 1.874 1 3 1a4.98 4.98 0 0 0 3-1"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M11.5 9.5C9 8 6 8 4 8c0 0 0 5 3 5 2.5 0 4.5-3.5 4.5-3.5"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M12.5 9.5C15 8 18 8 20 8c0 0 0 5-3 5-2.5 0-4.5-3.5-4.5-3.5"}]]);

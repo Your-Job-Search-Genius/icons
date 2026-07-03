@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const TaskRemove01Icon = createIcon({"name":"TaskRemove01Icon","figmaName":"task-remove-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"m21.5 16-3 3m0 0-3 3m3-3 3 3m-3-3-3-3"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M7 16h4m-4-5h8"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M6.5 3.5c-1.556.047-2.483.22-3.125.862-.879.88-.879 2.295-.879 5.126v6.506c0 2.832 0 4.247.879 5.127C4.253 22 5.668 22 8.496 22H12m3.492-18.5c1.556.047 2.484.22 3.125.862.88.88.88 2.295.88 5.126V12.5"}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":1.5,"d":"M6.496 3.75c0-.966.784-1.75 1.75-1.75h5.5a1.75 1.75 0 1 1 0 3.5h-5.5a1.75 1.75 0 0 1-1.75-1.75Z"}]]);

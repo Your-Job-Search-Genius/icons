@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const ArrowUp02RoundSolidIcon = createIcon({"name":"ArrowUp02RoundSolidIcon","figmaName":"arrow-up-02-round","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M12 3a1 1 0 0 1 1 1v16a1 1 0 1 1-2 0V4a1 1 0 0 1 1-1","clipRule":"evenodd"}],["path",{"fill":"currentColor","d":"M12 5.028a5 5 0 0 0-.675.503c-.482.425-1.032 1.012-1.564 1.625a43 43 0 0 0-1.956 2.437 1 1 0 0 1-1.61-1.186l.003-.004c.109-.144.425-.563.61-.8A45 45 0 0 1 8.25 5.845c.553-.637 1.17-1.3 1.75-1.812a6.3 6.3 0 0 1 .89-.674C11.162 3.195 11.557 3 12 3s.838.195 1.11.358c.298.18.6.419.89.674.578.512 1.196 1.175 1.75 1.812a45 45 0 0 1 2.052 2.559l.003.004a1 1 0 0 1-1.61 1.186 43 43 0 0 0-1.956-2.437c-.532-.613-1.082-1.2-1.564-1.625A5 5 0 0 0 12 5.028"}]]);

@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Basketball02Icon = createIcon({"name":"Basketball02Icon","figmaName":"basketball-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M22 12c0 5.523-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2s10 4.477 10 10Z"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M2 12c2.28 2.429 5.91 4 10 4s7.72-1.571 10-4"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M12 2v20"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M5.156 5c-.382 1.5-.116 4 1.41 6 1.605 2.103 2.616 5-1.197 8"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M18.844 5c.382 1.5.116 4-1.41 6-1.605 2.103-2.616 5 1.197 8"}]]);

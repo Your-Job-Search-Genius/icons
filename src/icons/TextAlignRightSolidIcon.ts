@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const TextAlignRightSolidIcon = createIcon({"name":"TextAlignRightSolidIcon","figmaName":"text-align-right","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M4 4.5a1 1 0 0 1 1-1h10a1 1 0 1 1 0 2H5a1 1 0 0 1-1-1","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M9 9.5a1 1 0 0 1 1-1h5a1 1 0 1 1 0 2h-5a1 1 0 0 1-1-1","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M4 14.5a1 1 0 0 1 1-1h10a1 1 0 1 1 0 2H5a1 1 0 0 1-1-1","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M9 19.5a1 1 0 0 1 1-1h5a1 1 0 1 1 0 2h-5a1 1 0 0 1-1-1","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M19 2a1 1 0 0 1 1 1v18a1 1 0 1 1-2 0V3a1 1 0 0 1 1-1","clipRule":"evenodd"}]]);

@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const FolderShared03Icon = createIcon({"name":"FolderShared03Icon","figmaName":"folder-shared-03","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M7 5.778h9.75c2.107 0 3.16 0 3.917.477.327.207.608.473.827.782.506.715.506 1.71.506 3.7 0 3.315 0 4.973-.843 6.164a4.9 4.9 0 0 1-1.38 1.303C18.518 19 16.762 19 13.25 19H12c-4.714 0-7.071 0-8.536-1.383S2 14.007 2 9.556V6.67c0-1.716 0-2.574.38-3.217a2.9 2.9 0 0 1 1.158-1.094C4.22 2 5.128 2 6.944 2 8.108 2 8.69 2 9.2 2.18c1.163.412 1.643 1.41 2.168 2.401L12 5.778"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M12 19v3"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M20 22H4"}]]);

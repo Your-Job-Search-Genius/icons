@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const VerticalScrollPointSharpSolidIcon = createIcon({"name":"VerticalScrollPointSharpSolidIcon","figmaName":"vertical-scroll-point-sharp","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M11.15 2.285A1.47 1.47 0 0 1 12 2c.378 0 .663.155.85.285.155.108.314.252.445.371l.027.024 2.848 2.58A1 1 0 0 1 15.5 7h-7a1 1 0 0 1-.671-1.741l2.85-2.579.026-.024c.13-.119.29-.263.445-.37"}],["path",{"fill":"currentColor","d":"M9 12a3 3 0 1 1 6 0 3 3 0 0 1-6 0"}],["path",{"fill":"currentColor","d":"M7.567 17.64A1 1 0 0 1 8.5 17h7a1 1 0 0 1 .671 1.741l-2.876 2.603a5 5 0 0 1-.445.37A1.47 1.47 0 0 1 12 22a1.47 1.47 0 0 1-.85-.285 5 5 0 0 1-.445-.371L7.829 18.74a1 1 0 0 1-.262-1.1"}]]);

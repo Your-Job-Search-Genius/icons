@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const SpermIcon = createIcon({"name":"SpermIcon","figmaName":"sperm","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M9.89 14.11c2.235 2.233 5.299 2.792 8.092 0 2.793-2.794 4.045-8.092 2.023-10.115-2.023-2.022-7.321-.77-10.114 2.023s-2.234 5.857 0 8.091Z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M3 21c.413-.548 1.055-1.118 2.178-1.392.894-.219 1.342-.328 1.508-.442.335-.227.44-.41.459-.802.01-.195-.096-.495-.306-1.097s-.315-.902-.306-1.097c.02-.392.124-.575.458-.803.167-.113.614-.222 1.509-.44.799-.196 1.286-.548 1.5-.927"}]]);

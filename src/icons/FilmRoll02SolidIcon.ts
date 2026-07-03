@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const FilmRoll02SolidIcon = createIcon({"name":"FilmRoll02SolidIcon","figmaName":"film-roll-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M10.5 1.25a9.25 9.25 0 1 1 0 18.5 9.25 9.25 0 0 1 0-18.5M8.707 12.293a1 1 0 0 0-1.414 0l-1 1a1 1 0 1 0 1.414 1.414l1-1a1 1 0 0 0 0-1.414m5 0a1 1 0 1 0-1.414 1.414l1 1a1 1 0 1 0 1.414-1.414zM10.5 9.5a1 1 0 0 0 0 2h.008a1 1 0 0 0 0-2zM7.707 6.293a1 1 0 1 0-1.414 1.414l1 1a1 1 0 1 0 1.414-1.414zm7 0a1 1 0 0 0-1.414 0l-1 1a1 1 0 1 0 1.414 1.414l1-1a1 1 0 0 0 0-1.414"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M21 19.75c0-.761-.704-1.37-1.506-1.23l-.04.006-7.323.965a1 1 0 1 1-.262-1.982l7.304-.963C21.157 16.214 23 17.722 23 19.75c0 1.808-1.482 3.25-3.28 3.25H18.7a1 1 0 1 1 0-2h1.019c.72 0 1.281-.573 1.281-1.25","clipRule":"evenodd"}]]);

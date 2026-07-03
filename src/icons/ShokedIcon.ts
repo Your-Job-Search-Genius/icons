@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const ShokedIcon = createIcon({"name":"ShokedIcon","figmaName":"shoked","viewBox":"0 0 24 24","width":24,"height":24}, [["circle",{"cx":12,"cy":12,"r":10,"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M9 17c.836-.628 1.874-1 3-1s2.164.372 3 1"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M10 9.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M17 9.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0"}]]);

@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const BridgeSolidIcon = createIcon({"name":"BridgeSolidIcon","figmaName":"bridge","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M6 4a1 1 0 0 1 1 1v.692C8.023 7.163 9.7 9 12 9s3.977-1.837 5-3.308V5a1 1 0 1 1 2 0v.679c.366.47.79.796 1.173 1.01.222.123.425.205.584.254.144.045.224.054.24.056Q21.004 7 21 7a1 1 0 1 1 0 2c-.48 0-1.15-.203-1.798-.563A6 6 0 0 1 19 8.319V14h3a1 1 0 1 1 0 2h-3v3a1 1 0 1 1-2 0v-3H7v3a1 1 0 1 1-2 0v-3H2a1 1 0 1 1 0-2h3V8.319q-.102.061-.202.118C4.15 8.797 3.48 9 3 9a1 1 0 0 1 0-2h.002c.017-.003.097-.012.24-.057.16-.05.363-.131.585-.255A3.9 3.9 0 0 0 5 5.678V5a1 1 0 0 1 1-1m1 4.79V14h2v-3.747a8.7 8.7 0 0 1-2-1.464m4 2.131V14h2v-3.079a6.3 6.3 0 0 1-2 0m4-.668V14h2V8.79a8.7 8.7 0 0 1-2 1.463","clipRule":"evenodd"}]]);

@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const BitcoinSquareIcon = createIcon({"name":"BitcoinSquareIcon","figmaName":"bitcoin-square","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M2.5 12c0-4.478 0-6.718 1.391-8.109S7.521 2.5 12 2.5c4.478 0 6.718 0 8.109 1.391S21.5 7.521 21.5 12c0 4.478 0 6.718-1.391 8.109S16.479 21.5 12 21.5c-4.478 0-6.718 0-8.109-1.391S2.5 16.479 2.5 12Z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M9 12h4.2M9 12V9.296c0-.471 0-.707.146-.853.147-.147.383-.147.854-.147h3.2c.994 0 1.8.83 1.8 1.852S14.194 12 13.2 12M9 12v2.704c0 .471 0 .707.146.853.147.147.383.147.854.147h3.2c.994 0 1.8-.83 1.8-1.852S14.194 12 13.2 12m-2.706-3.704V7m0 10v-1.296m2.404-7.408V7m0 10v-1.296"}]]);

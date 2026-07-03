@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const ArrowDownRight01RoundSolidIcon = createIcon({"name":"ArrowDownRight01RoundSolidIcon","figmaName":"arrow-down-right-01-round","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M17.707 17.707a1 1 0 0 0 0-1.414l-11-11a1 1 0 0 0-1.414 1.414l11 11a1 1 0 0 0 1.414 0","clipRule":"evenodd"}],["path",{"fill":"currentColor","d":"M17.244 18.71c.281-.082.663-.225.952-.514s.432-.671.514-.952c.09-.31.15-.661.192-1.014.083-.709.103-1.54.097-2.314a43 43 0 0 0-.114-2.745l-.02-.253v-.001a1 1 0 0 0-1.993.167l.018.232a44 44 0 0 1 .11 2.615c.005.742-.016 1.479-.085 2.067a5 5 0 0 1-.15.766 5 5 0 0 1-.767.151c-.588.069-1.325.09-2.066.084a41 41 0 0 1-2.616-.11l-.232-.017a1 1 0 0 0-.168 1.993h.002l.253.02a46 46 0 0 0 2.745.114c.773.006 1.605-.014 2.314-.097a6.3 6.3 0 0 0 1.014-.192"}]]);

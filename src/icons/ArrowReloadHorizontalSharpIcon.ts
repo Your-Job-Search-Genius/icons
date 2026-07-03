@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const ArrowReloadHorizontalSharpIcon = createIcon({"name":"ArrowReloadHorizontalSharpIcon","figmaName":"arrow-reload-horizontal-sharp","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M20.5 5.5h-11C5.787 5.5 3 8.185 3 12"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M3.5 18.5h11c3.713 0 6.5-2.685 6.5-6.5"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m18.5 8 1.955-1.793c.363-.333.545-.5.545-.707s-.182-.374-.545-.707L18.5 3"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m5.5 16-1.955 1.793c-.363.333-.545.5-.545.707s.182.374.545.707L5.5 21"}]]);

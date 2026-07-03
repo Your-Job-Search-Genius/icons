@@ -1,0 +1,2491 @@
+{
+  "fileKey": "L1Tjy8S8lUAbQNQnvr4bJN",
+  "canvasNodeId": "68:195",
+  "counts": {
+    "instancesSeen": 7328,
+    "uniqueIcons": 7328,
+    "generated": 7328,
+    "stroke": 3664,
+    "solid": 3664,
+    "duplicatePlacementsRemoved": 0,
+    "textLabelsIgnored": 7333,
+    "multicolor": 40
+  },
+  "categoryFrames": {
+    "stroke": [
+      "Wifi & Signal",
+      "Weather",
+      "Users",
+      "Transportation",
+      "Security",
+      "Search",
+      "Science & Technology",
+      "Setting",
+      "Smiley & Emojis",
+      "Presentation",
+      "Programming language",
+      "Note and Task",
+      "Media",
+      "More Menu",
+      "Medical",
+      "Mathematics",
+      "Mouse & Courses",
+      "Link Unlink",
+      "Login and Logout",
+      "Location & Maps",
+      "Layout & Boarders",
+      "Legal",
+      "Kitchen",
+      "Image, Camera & Video",
+      "Islamic",
+      "Home",
+      "Hierarchy",
+      "Hand Gestures",
+      "Geometric Shapes",
+      "Game & Sports",
+      "Gym & Fitness",
+      "Git",
+      "Filter Sorting",
+      "Files Folders",
+      "Food & Drinks",
+      "Furniture",
+      "Edit Formatting",
+      "Education",
+      "E-Commerce",
+      "Dashboard",
+      "Devices",
+      "Download and Upload",
+      "Date and time",
+      "Communications",
+      "Check Validation",
+      "Cloth & Accessories",
+      "Building, Landmark & Places",
+      "Bookmark Favorite",
+      "Business and finance",
+      "Brand Logo",
+      "Animation",
+      "Award Reward",
+      "Alert Notification",
+      "Add Remove Delete",
+      "Arrows (sharp)",
+      "Energy",
+      "Arrows (Round)"
+    ],
+    "solid": [
+      "Add Remove Delete",
+      "Award Reward",
+      "Presentation",
+      "Animation",
+      "Wifi & Signal",
+      "Brand Logo",
+      "Git",
+      "Download and Upload",
+      "Dashboard",
+      "Check Validation",
+      "Alert Notification",
+      "Images",
+      "Cloth & Accessories",
+      "Users",
+      "Legal",
+      "Bookmark Favorite",
+      "Security",
+      "Media",
+      "Transportation",
+      "Building, Landmark & Places",
+      "Islamic",
+      "Devices",
+      "Business",
+      "Food & Drinks",
+      "Files Folders",
+      "Link Unlink",
+      "Search",
+      "Setting",
+      "Login and Logout",
+      "Layout & Boarders",
+      "Filter Sorting",
+      "Geometric Shapes",
+      "Home",
+      "More Menu",
+      "Kitchen",
+      "Science & Technology",
+      "Energy",
+      "Date and time",
+      "Gym & Fitness",
+      "Programming language",
+      "Medical",
+      "Furniture",
+      "Game & Sports",
+      "Weather",
+      "Hierarchy",
+      "Mouse & Courses",
+      "Smiley & Emojis",
+      "Note and Task",
+      "Location & Maps",
+      "Mathematics",
+      "Education",
+      "Edit Formatting",
+      "Communications",
+      "Arrows (sharp)",
+      "E-Commerce",
+      "Hand Gestures",
+      "Arrows (Round)"
+    ]
+  },
+  "renames": [
+    {
+      "nodeId": "68:89368",
+      "figmaName": "angle",
+      "variant": "stroke",
+      "from": "AngleIcon",
+      "to": "Angle2Icon",
+      "collidedWith": "68:88540"
+    },
+    {
+      "nodeId": "68:89382",
+      "figmaName": "angle",
+      "variant": "stroke",
+      "from": "AngleIcon",
+      "to": "Angle3Icon",
+      "collidedWith": "68:88540"
+    },
+    {
+      "nodeId": "68:101207",
+      "figmaName": "angle",
+      "variant": "solid",
+      "from": "AngleSolidIcon",
+      "to": "AngleSolid2Icon",
+      "collidedWith": "68:100690"
+    },
+    {
+      "nodeId": "68:101221",
+      "figmaName": "angle",
+      "variant": "solid",
+      "from": "AngleSolidIcon",
+      "to": "AngleSolid3Icon",
+      "collidedWith": "68:100690"
+    },
+    {
+      "nodeId": "68:94586",
+      "figmaName": "apple",
+      "variant": "stroke",
+      "from": "AppleIcon",
+      "to": "Apple2Icon",
+      "collidedWith": "68:91808"
+    },
+    {
+      "nodeId": "68:98254",
+      "figmaName": "apple",
+      "variant": "solid",
+      "from": "AppleSolidIcon",
+      "to": "AppleSolid2Icon",
+      "collidedWith": "68:96101"
+    },
+    {
+      "nodeId": "68:91129",
+      "figmaName": "bicycle",
+      "variant": "stroke",
+      "from": "BicycleIcon",
+      "to": "Bicycle2Icon",
+      "collidedWith": "68:88113"
+    },
+    {
+      "nodeId": "68:100039",
+      "figmaName": "bicycle",
+      "variant": "solid",
+      "from": "BicycleSolidIcon",
+      "to": "BicycleSolid2Icon",
+      "collidedWith": "68:97236"
+    },
+    {
+      "nodeId": "68:91248",
+      "figmaName": "boxing-glove",
+      "variant": "stroke",
+      "from": "BoxingGloveIcon",
+      "to": "BoxingGlove2Icon",
+      "collidedWith": "68:91111"
+    },
+    {
+      "nodeId": "68:100021",
+      "figmaName": "boxing-glove",
+      "variant": "solid",
+      "from": "BoxingGloveSolidIcon",
+      "to": "BoxingGloveSolid2Icon",
+      "collidedWith": "68:99398"
+    },
+    {
+      "nodeId": "68:98068",
+      "figmaName": "briefcase-06",
+      "variant": "solid",
+      "from": "Briefcase06SolidIcon",
+      "to": "Briefcase06Solid2Icon",
+      "collidedWith": "68:98067"
+    },
+    {
+      "nodeId": "68:93634",
+      "figmaName": "bubble-chat-download",
+      "variant": "stroke",
+      "from": "BubbleChatDownloadIcon",
+      "to": "BubbleChatDownload2Icon",
+      "collidedWith": "68:93614"
+    },
+    {
+      "nodeId": "68:102175",
+      "figmaName": "bubble-chat-download",
+      "variant": "solid",
+      "from": "BubbleChatDownloadSolidIcon",
+      "to": "BubbleChatDownloadSolid2Icon",
+      "collidedWith": "68:102155"
+    },
+    {
+      "nodeId": "68:94357",
+      "figmaName": "calculator",
+      "variant": "stroke",
+      "from": "CalculatorIcon",
+      "to": "Calculator2Icon",
+      "collidedWith": "68:89364"
+    },
+    {
+      "nodeId": "68:101203",
+      "figmaName": "calculator",
+      "variant": "solid",
+      "from": "CalculatorSolidIcon",
+      "to": "CalculatorSolid2Icon",
+      "collidedWith": "68:98070"
+    },
+    {
+      "nodeId": "68:96478",
+      "figmaName": "camera-automatically-01",
+      "variant": "solid",
+      "from": "CameraAutomatically01SolidIcon",
+      "to": "CameraAutomatically01Solid2Icon",
+      "collidedWith": "68:96475"
+    },
+    {
+      "nodeId": "68:96266",
+      "figmaName": "checkmark-badge-03",
+      "variant": "solid",
+      "from": "CheckmarkBadge03SolidIcon",
+      "to": "CheckmarkBadge03Solid2Icon",
+      "collidedWith": "68:96265"
+    },
+    {
+      "nodeId": "68:94211",
+      "figmaName": "c",
+      "variant": "stroke",
+      "from": "CIcon",
+      "to": "C2Icon",
+      "collidedWith": "68:88715"
+    },
+    {
+      "nodeId": "68:93657",
+      "figmaName": "comment add-02",
+      "variant": "stroke",
+      "from": "CommentAdd02Icon",
+      "to": "CommentAdd022Icon",
+      "collidedWith": "68:93655"
+    },
+    {
+      "nodeId": "68:102193",
+      "figmaName": "comment add-02",
+      "variant": "solid",
+      "from": "CommentAdd02SolidIcon",
+      "to": "CommentAdd02Solid2Icon",
+      "collidedWith": "68:102191"
+    },
+    {
+      "nodeId": "68:89901",
+      "figmaName": "compass",
+      "variant": "stroke",
+      "from": "CompassIcon",
+      "to": "Compass2Icon",
+      "collidedWith": "68:89384"
+    },
+    {
+      "nodeId": "68:101223",
+      "figmaName": "compass",
+      "variant": "solid",
+      "from": "CompassSolidIcon",
+      "to": "CompassSolid2Icon",
+      "collidedWith": "68:100891"
+    },
+    {
+      "nodeId": "68:97713",
+      "figmaName": "computer-add",
+      "variant": "solid",
+      "from": "ComputerAddSolidIcon",
+      "to": "ComputerAddSolid2Icon",
+      "collidedWith": "68:97469"
+    },
+    {
+      "nodeId": "68:97714",
+      "figmaName": "computer-add",
+      "variant": "solid",
+      "from": "ComputerAddSolidIcon",
+      "to": "ComputerAddSolid3Icon",
+      "collidedWith": "68:97469"
+    },
+    {
+      "nodeId": "68:93106",
+      "figmaName": "database-sync",
+      "variant": "stroke",
+      "from": "DatabaseSyncIcon",
+      "to": "DatabaseSync2Icon",
+      "collidedWith": "68:88683"
+    },
+    {
+      "nodeId": "68:99552",
+      "figmaName": "database-sync",
+      "variant": "solid",
+      "from": "DatabaseSyncSolidIcon",
+      "to": "DatabaseSyncSolid2Icon",
+      "collidedWith": "68:97474"
+    },
+    {
+      "nodeId": "68:93669",
+      "figmaName": "dial-sqare",
+      "variant": "stroke",
+      "from": "DialSqareIcon",
+      "to": "DialSqare2Icon",
+      "collidedWith": "68:93665"
+    },
+    {
+      "nodeId": "68:102201",
+      "figmaName": "dial-sqare",
+      "variant": "solid",
+      "from": "DialSqareSolidIcon",
+      "to": "DialSqareSolid2Icon",
+      "collidedWith": "68:102199"
+    },
+    {
+      "nodeId": "68:102203",
+      "figmaName": "dial-sqare",
+      "variant": "solid",
+      "from": "DialSqareSolidIcon",
+      "to": "DialSqareSolid3Icon",
+      "collidedWith": "68:102199"
+    },
+    {
+      "nodeId": "68:102205",
+      "figmaName": "dial-sqare",
+      "variant": "solid",
+      "from": "DialSqareSolidIcon",
+      "to": "DialSqareSolid4Icon",
+      "collidedWith": "68:102199"
+    },
+    {
+      "nodeId": "68:93667",
+      "figmaName": "dial-square",
+      "variant": "stroke",
+      "from": "DialSquareIcon",
+      "to": "DialSquare2Icon",
+      "collidedWith": "68:93663"
+    },
+    {
+      "nodeId": "68:91081",
+      "figmaName": "diamond",
+      "variant": "stroke",
+      "from": "DiamondIcon",
+      "to": "Diamond2Icon",
+      "collidedWith": "68:90932"
+    },
+    {
+      "nodeId": "68:94255",
+      "figmaName": "diamond",
+      "variant": "stroke",
+      "from": "DiamondIcon",
+      "to": "Diamond3Icon",
+      "collidedWith": "68:90932"
+    },
+    {
+      "nodeId": "68:98917",
+      "figmaName": "diamond",
+      "variant": "solid",
+      "from": "DiamondSolidIcon",
+      "to": "DiamondSolid2Icon",
+      "collidedWith": "68:97870"
+    },
+    {
+      "nodeId": "68:99991",
+      "figmaName": "diamond",
+      "variant": "solid",
+      "from": "DiamondSolidIcon",
+      "to": "DiamondSolid3Icon",
+      "collidedWith": "68:97870"
+    },
+    {
+      "nodeId": "68:94257",
+      "figmaName": "discount",
+      "variant": "stroke",
+      "from": "DiscountIcon",
+      "to": "Discount2Icon",
+      "collidedWith": "68:92808"
+    },
+    {
+      "nodeId": "68:102770",
+      "figmaName": "discount",
+      "variant": "solid",
+      "from": "DiscountSolidIcon",
+      "to": "DiscountSolid2Icon",
+      "collidedWith": "68:97868"
+    },
+    {
+      "nodeId": "68:92538",
+      "figmaName": "dna",
+      "variant": "stroke",
+      "from": "DnaIcon",
+      "to": "Dna2Icon",
+      "collidedWith": "68:89062"
+    },
+    {
+      "nodeId": "68:94858",
+      "figmaName": "eraser",
+      "variant": "stroke",
+      "from": "EraserIcon",
+      "to": "Eraser2Icon",
+      "collidedWith": "68:92176"
+    },
+    {
+      "nodeId": "68:101756",
+      "figmaName": "eraser",
+      "variant": "solid",
+      "from": "EraserSolidIcon",
+      "to": "EraserSolid2Icon",
+      "collidedWith": "68:95598"
+    },
+    {
+      "nodeId": "68:94538",
+      "figmaName": "github",
+      "variant": "stroke",
+      "from": "GithubIcon",
+      "to": "Github2Icon",
+      "collidedWith": "68:91287"
+    },
+    {
+      "nodeId": "68:96146",
+      "figmaName": "github",
+      "variant": "solid",
+      "from": "GithubSolidIcon",
+      "to": "GithubSolid2Icon",
+      "collidedWith": "68:95978"
+    },
+    {
+      "nodeId": "68:90926",
+      "figmaName": "hexagon",
+      "variant": "stroke",
+      "from": "HexagonIcon",
+      "to": "Hexagon2Icon",
+      "collidedWith": "68:89150"
+    },
+    {
+      "nodeId": "68:100989",
+      "figmaName": "hexagon",
+      "variant": "solid",
+      "from": "HexagonSolidIcon",
+      "to": "HexagonSolid2Icon",
+      "collidedWith": "68:98911"
+    },
+    {
+      "nodeId": "68:96540",
+      "figmaName": "high-heels",
+      "variant": "solid",
+      "from": "HighHeelsSolidIcon",
+      "to": "HighHeelsSolid2Icon",
+      "collidedWith": "68:96538"
+    },
+    {
+      "nodeId": "68:96457",
+      "figmaName": "image-add-02",
+      "variant": "solid",
+      "from": "ImageAdd02SolidIcon",
+      "to": "ImageAdd02Solid2Icon",
+      "collidedWith": "68:96399"
+    },
+    {
+      "nodeId": "68:90124",
+      "figmaName": "kettle",
+      "variant": "stroke",
+      "from": "KettleIcon",
+      "to": "Kettle2Icon",
+      "collidedWith": "68:90112"
+    },
+    {
+      "nodeId": "68:99071",
+      "figmaName": "kettle",
+      "variant": "solid",
+      "from": "KettleSolidIcon",
+      "to": "KettleSolid2Icon",
+      "collidedWith": "68:99059"
+    },
+    {
+      "nodeId": "68:93784",
+      "figmaName": "kurta",
+      "variant": "stroke",
+      "from": "KurtaIcon",
+      "to": "Kurta2Icon",
+      "collidedWith": "68:90352"
+    },
+    {
+      "nodeId": "68:97413",
+      "figmaName": "kurta",
+      "variant": "solid",
+      "from": "KurtaSolidIcon",
+      "to": "KurtaSolid2Icon",
+      "collidedWith": "68:96548"
+    },
+    {
+      "nodeId": "68:97494",
+      "figmaName": "laptop-phone-sync",
+      "variant": "solid",
+      "from": "LaptopPhoneSyncSolidIcon",
+      "to": "LaptopPhoneSyncSolid2Icon",
+      "collidedWith": "68:97493"
+    },
+    {
+      "nodeId": "68:92128",
+      "figmaName": "layer-mask",
+      "variant": "stroke",
+      "from": "LayerMaskIcon",
+      "to": "LayerMask2Icon",
+      "collidedWith": "68:92126"
+    },
+    {
+      "nodeId": "68:101708",
+      "figmaName": "layer-mask",
+      "variant": "solid",
+      "from": "LayerMaskSolidIcon",
+      "to": "LayerMaskSolid2Icon",
+      "collidedWith": "68:101706"
+    },
+    {
+      "nodeId": "68:92118",
+      "figmaName": "left-to-right-list-star",
+      "variant": "stroke",
+      "from": "LeftToRightListStarIcon",
+      "to": "LeftToRightListStar2Icon",
+      "collidedWith": "68:92116"
+    },
+    {
+      "nodeId": "68:101698",
+      "figmaName": "left-to-right-list-star",
+      "variant": "solid",
+      "from": "LeftToRightListStarSolidIcon",
+      "to": "LeftToRightListStarSolid2Icon",
+      "collidedWith": "68:101696"
+    },
+    {
+      "nodeId": "68:92508",
+      "figmaName": "locker",
+      "variant": "stroke",
+      "from": "LockerIcon",
+      "to": "Locker2Icon",
+      "collidedWith": "68:91220"
+    },
+    {
+      "nodeId": "68:101340",
+      "figmaName": "locker",
+      "variant": "solid",
+      "from": "LockerSolidIcon",
+      "to": "LockerSolid2Icon",
+      "collidedWith": "68:99370"
+    },
+    {
+      "nodeId": "68:93671",
+      "figmaName": "mailbox",
+      "variant": "stroke",
+      "from": "MailboxIcon",
+      "to": "Mailbox2Icon",
+      "collidedWith": "68:93490"
+    },
+    {
+      "nodeId": "68:102207",
+      "figmaName": "mailbox",
+      "variant": "solid",
+      "from": "MailboxSolidIcon",
+      "to": "MailboxSolid2Icon",
+      "collidedWith": "68:102048"
+    },
+    {
+      "nodeId": "68:95643",
+      "figmaName": "medal-03",
+      "variant": "solid",
+      "from": "Medal03SolidIcon",
+      "to": "Medal03Solid2Icon",
+      "collidedWith": "68:95639"
+    },
+    {
+      "nodeId": "68:97922",
+      "figmaName": "money-01",
+      "variant": "solid",
+      "from": "Money01SolidIcon",
+      "to": "Money01Solid2Icon",
+      "collidedWith": "68:97917"
+    },
+    {
+      "nodeId": "68:94201",
+      "figmaName": "money-02",
+      "variant": "stroke",
+      "from": "Money02Icon",
+      "to": "Money022Icon",
+      "collidedWith": "68:94185"
+    },
+    {
+      "nodeId": "68:93780",
+      "figmaName": "monocle",
+      "variant": "stroke",
+      "from": "MonocleIcon",
+      "to": "Monocle2Icon",
+      "collidedWith": "68:88494"
+    },
+    {
+      "nodeId": "68:100647",
+      "figmaName": "monocle",
+      "variant": "solid",
+      "from": "MonocleSolidIcon",
+      "to": "MonocleSolid2Icon",
+      "collidedWith": "68:96552"
+    },
+    {
+      "nodeId": "68:92504",
+      "figmaName": "moon",
+      "variant": "stroke",
+      "from": "MoonIcon",
+      "to": "Moon2Icon",
+      "collidedWith": "68:87853"
+    },
+    {
+      "nodeId": "68:101344",
+      "figmaName": "moon",
+      "variant": "solid",
+      "from": "MoonSolidIcon",
+      "to": "MoonSolid2Icon",
+      "collidedWith": "68:100222"
+    },
+    {
+      "nodeId": "68:98979",
+      "figmaName": "more-horizontal-circle-02",
+      "variant": "solid",
+      "from": "MoreHorizontalCircle02SolidIcon",
+      "to": "MoreHorizontalCircle02Solid2Icon",
+      "collidedWith": "68:98978"
+    },
+    {
+      "nodeId": "68:88938",
+      "figmaName": "more-horizontal-square-02",
+      "variant": "stroke",
+      "from": "MoreHorizontalSquare02Icon",
+      "to": "MoreHorizontalSquare022Icon",
+      "collidedWith": "68:88932"
+    },
+    {
+      "nodeId": "68:98973",
+      "figmaName": "more-horizontal-square-02",
+      "variant": "solid",
+      "from": "MoreHorizontalSquare02SolidIcon",
+      "to": "MoreHorizontalSquare02Solid2Icon",
+      "collidedWith": "68:98972"
+    },
+    {
+      "nodeId": "68:98981",
+      "figmaName": "more-horizontal-square-02",
+      "variant": "solid",
+      "from": "MoreHorizontalSquare02SolidIcon",
+      "to": "MoreHorizontalSquare02Solid3Icon",
+      "collidedWith": "68:98972"
+    },
+    {
+      "nodeId": "68:98976",
+      "figmaName": "more-vertical-circle-02",
+      "variant": "solid",
+      "from": "MoreVerticalCircle02SolidIcon",
+      "to": "MoreVerticalCircle02Solid2Icon",
+      "collidedWith": "68:98975"
+    },
+    {
+      "nodeId": "68:98970",
+      "figmaName": "more-vertical-square-02",
+      "variant": "solid",
+      "from": "MoreVerticalSquare02SolidIcon",
+      "to": "MoreVerticalSquare02Solid2Icon",
+      "collidedWith": "68:98969"
+    },
+    {
+      "nodeId": "68:93879",
+      "figmaName": "mosque-01",
+      "variant": "stroke",
+      "from": "Mosque01Icon",
+      "to": "Mosque012Icon",
+      "collidedWith": "68:90348"
+    },
+    {
+      "nodeId": "68:97366",
+      "figmaName": "mosque-01",
+      "variant": "solid",
+      "from": "Mosque01SolidIcon",
+      "to": "Mosque01Solid2Icon",
+      "collidedWith": "68:97365"
+    },
+    {
+      "nodeId": "68:97409",
+      "figmaName": "mosque-01",
+      "variant": "solid",
+      "from": "Mosque01SolidIcon",
+      "to": "Mosque01Solid3Icon",
+      "collidedWith": "68:97365"
+    },
+    {
+      "nodeId": "68:93877",
+      "figmaName": "mosque-02",
+      "variant": "stroke",
+      "from": "Mosque02Icon",
+      "to": "Mosque022Icon",
+      "collidedWith": "68:90346"
+    },
+    {
+      "nodeId": "68:93040",
+      "figmaName": "mouse-01",
+      "variant": "stroke",
+      "from": "Mouse01Icon",
+      "to": "Mouse012Icon",
+      "collidedWith": "68:89505"
+    },
+    {
+      "nodeId": "68:100482",
+      "figmaName": "mouse-01",
+      "variant": "solid",
+      "from": "Mouse01SolidIcon",
+      "to": "Mouse01Solid2Icon",
+      "collidedWith": "68:97577"
+    },
+    {
+      "nodeId": "68:93038",
+      "figmaName": "mouse-02",
+      "variant": "stroke",
+      "from": "Mouse02Icon",
+      "to": "Mouse022Icon",
+      "collidedWith": "68:89503"
+    },
+    {
+      "nodeId": "68:91690",
+      "figmaName": "mushroom",
+      "variant": "stroke",
+      "from": "MushroomIcon",
+      "to": "Mushroom2Icon",
+      "collidedWith": "68:91019"
+    },
+    {
+      "nodeId": "68:99931",
+      "figmaName": "mushroom",
+      "variant": "solid",
+      "from": "MushroomSolidIcon",
+      "to": "MushroomSolid2Icon",
+      "collidedWith": "68:98145"
+    },
+    {
+      "nodeId": "68:89755",
+      "figmaName": "navigation-01",
+      "variant": "stroke",
+      "from": "Navigation01Icon",
+      "to": "Navigation012Icon",
+      "collidedWith": "68:89451"
+    },
+    {
+      "nodeId": "68:100771",
+      "figmaName": "navigation-01",
+      "variant": "solid",
+      "from": "Navigation01SolidIcon",
+      "to": "Navigation01Solid2Icon",
+      "collidedWith": "68:100428"
+    },
+    {
+      "nodeId": "68:89753",
+      "figmaName": "navigation-02",
+      "variant": "stroke",
+      "from": "Navigation02Icon",
+      "to": "Navigation022Icon",
+      "collidedWith": "68:89449"
+    },
+    {
+      "nodeId": "68:100769",
+      "figmaName": "navigation-02",
+      "variant": "solid",
+      "from": "Navigation02SolidIcon",
+      "to": "Navigation02Solid2Icon",
+      "collidedWith": "68:100426"
+    },
+    {
+      "nodeId": "68:90922",
+      "figmaName": "pentagon",
+      "variant": "stroke",
+      "from": "PentagonIcon",
+      "to": "Pentagon2Icon",
+      "collidedWith": "68:89152"
+    },
+    {
+      "nodeId": "68:100991",
+      "figmaName": "pentagon",
+      "variant": "solid",
+      "from": "PentagonSolidIcon",
+      "to": "PentagonSolid2Icon",
+      "collidedWith": "68:98907"
+    },
+    {
+      "nodeId": "68:89186",
+      "figmaName": "percent-circle",
+      "variant": "stroke",
+      "from": "PercentCircleIcon",
+      "to": "PercentCircle2Icon",
+      "collidedWith": "68:89170"
+    },
+    {
+      "nodeId": "68:101025",
+      "figmaName": "percent-circle",
+      "variant": "solid",
+      "from": "PercentCircleSolidIcon",
+      "to": "PercentCircleSolid2Icon",
+      "collidedWith": "68:101009"
+    },
+    {
+      "nodeId": "68:96460",
+      "figmaName": "play-list-add",
+      "variant": "solid",
+      "from": "PlayListAddSolidIcon",
+      "to": "PlayListAddSolid2Icon",
+      "collidedWith": "68:96459"
+    },
+    {
+      "nodeId": "68:96461",
+      "figmaName": "play-list",
+      "variant": "solid",
+      "from": "PlayListSolidIcon",
+      "to": "PlayListSolid2Icon",
+      "collidedWith": "68:96364"
+    },
+    {
+      "nodeId": "68:96462",
+      "figmaName": "play-list",
+      "variant": "solid",
+      "from": "PlayListSolidIcon",
+      "to": "PlayListSolid3Icon",
+      "collidedWith": "68:96364"
+    },
+    {
+      "nodeId": "68:89314",
+      "figmaName": "prism",
+      "variant": "stroke",
+      "from": "PrismIcon",
+      "to": "Prism2Icon",
+      "collidedWith": "68:88334"
+    },
+    {
+      "nodeId": "68:101153",
+      "figmaName": "prism",
+      "variant": "solid",
+      "from": "PrismSolidIcon",
+      "to": "PrismSolid2Icon",
+      "collidedWith": "68:99161"
+    },
+    {
+      "nodeId": "68:94121",
+      "figmaName": "qr-code",
+      "variant": "stroke",
+      "from": "QrCodeIcon",
+      "to": "QrCode2Icon",
+      "collidedWith": "68:88185"
+    },
+    {
+      "nodeId": "68:98001",
+      "figmaName": "qr-code",
+      "variant": "solid",
+      "from": "QrCodeSolidIcon",
+      "to": "QrCodeSolid2Icon",
+      "collidedWith": "68:96879"
+    },
+    {
+      "nodeId": "68:90918",
+      "figmaName": "rectangular",
+      "variant": "stroke",
+      "from": "RectangularIcon",
+      "to": "Rectangular2Icon",
+      "collidedWith": "68:89310"
+    },
+    {
+      "nodeId": "68:101149",
+      "figmaName": "rectangular",
+      "variant": "solid",
+      "from": "RectangularSolidIcon",
+      "to": "RectangularSolid2Icon",
+      "collidedWith": "68:98903"
+    },
+    {
+      "nodeId": "68:90916",
+      "figmaName": "rhombus",
+      "variant": "stroke",
+      "from": "RhombusIcon",
+      "to": "Rhombus2Icon",
+      "collidedWith": "68:89154"
+    },
+    {
+      "nodeId": "68:100993",
+      "figmaName": "rhombus",
+      "variant": "solid",
+      "from": "RhombusSolidIcon",
+      "to": "RhombusSolid2Icon",
+      "collidedWith": "68:98901"
+    },
+    {
+      "nodeId": "68:92350",
+      "figmaName": "rotate-bottom-left",
+      "variant": "stroke",
+      "from": "RotateBottomLeftIcon",
+      "to": "RotateBottomLeft2Icon",
+      "collidedWith": "68:92348"
+    },
+    {
+      "nodeId": "68:101818",
+      "figmaName": "rotate-bottom-left",
+      "variant": "solid",
+      "from": "RotateBottomLeftSolidIcon",
+      "to": "RotateBottomLeftSolid2Icon",
+      "collidedWith": "68:101816"
+    },
+    {
+      "nodeId": "68:93008",
+      "figmaName": "satellite",
+      "variant": "stroke",
+      "from": "SatelliteIcon",
+      "to": "Satellite2Icon",
+      "collidedWith": "68:87662"
+    },
+    {
+      "nodeId": "68:97722",
+      "figmaName": "satellite",
+      "variant": "solid",
+      "from": "SatelliteSolidIcon",
+      "to": "SatelliteSolid2Icon",
+      "collidedWith": "68:95852"
+    },
+    {
+      "nodeId": "68:93861",
+      "figmaName": "school",
+      "variant": "stroke",
+      "from": "SchoolIcon",
+      "to": "School2Icon",
+      "collidedWith": "68:92476"
+    },
+    {
+      "nodeId": "68:101294",
+      "figmaName": "school",
+      "variant": "solid",
+      "from": "SchoolSolidIcon",
+      "to": "SchoolSolid2Icon",
+      "collidedWith": "68:97281"
+    },
+    {
+      "nodeId": "68:92330",
+      "figmaName": "scissor",
+      "variant": "stroke",
+      "from": "ScissorIcon",
+      "to": "Scissor2Icon",
+      "collidedWith": "68:88841"
+    },
+    {
+      "nodeId": "68:101798",
+      "figmaName": "scissor",
+      "variant": "solid",
+      "from": "ScissorSolidIcon",
+      "to": "ScissorSolid2Icon",
+      "collidedWith": "68:97019"
+    },
+    {
+      "nodeId": "68:92883",
+      "figmaName": "sidebar-left",
+      "variant": "stroke",
+      "from": "SidebarLeftIcon",
+      "to": "SidebarLeft2Icon",
+      "collidedWith": "68:88635"
+    },
+    {
+      "nodeId": "68:92885",
+      "figmaName": "sidebar-right",
+      "variant": "stroke",
+      "from": "SidebarRightIcon",
+      "to": "SidebarRight2Icon",
+      "collidedWith": "68:88633"
+    },
+    {
+      "nodeId": "68:99454",
+      "figmaName": "sidebar-right",
+      "variant": "solid",
+      "from": "SidebarRightSolidIcon",
+      "to": "SidebarRightSolid2Icon",
+      "collidedWith": "68:96225"
+    },
+    {
+      "nodeId": "68:95245",
+      "figmaName": "solar-energy",
+      "variant": "stroke",
+      "from": "SolarEnergyIcon",
+      "to": "SolarEnergy2Icon",
+      "collidedWith": "68:95243"
+    },
+    {
+      "nodeId": "68:99192",
+      "figmaName": "solar-energy",
+      "variant": "solid",
+      "from": "SolarEnergySolidIcon",
+      "to": "SolarEnergySolid2Icon",
+      "collidedWith": "68:99190"
+    },
+    {
+      "nodeId": "68:92978",
+      "figmaName": "speaker",
+      "variant": "stroke",
+      "from": "SpeakerIcon",
+      "to": "Speaker2Icon",
+      "collidedWith": "68:88831"
+    },
+    {
+      "nodeId": "68:97643",
+      "figmaName": "speaker",
+      "variant": "solid",
+      "from": "SpeakerSolidIcon",
+      "to": "SpeakerSolid2Icon",
+      "collidedWith": "68:97009"
+    },
+    {
+      "nodeId": "68:90908",
+      "figmaName": "square",
+      "variant": "stroke",
+      "from": "SquareIcon",
+      "to": "Square2Icon",
+      "collidedWith": "68:89332"
+    },
+    {
+      "nodeId": "68:101171",
+      "figmaName": "square",
+      "variant": "solid",
+      "from": "SquareSolidIcon",
+      "to": "SquareSolid2Icon",
+      "collidedWith": "68:98893"
+    },
+    {
+      "nodeId": "68:100766",
+      "figmaName": "task-01",
+      "variant": "solid",
+      "from": "Task01SolidIcon",
+      "to": "Task01Solid2Icon",
+      "collidedWith": "68:100765"
+    },
+    {
+      "nodeId": "68:100729",
+      "figmaName": "task-02",
+      "variant": "solid",
+      "from": "Task02SolidIcon",
+      "to": "Task02Solid2Icon",
+      "collidedWith": "68:100728"
+    },
+    {
+      "nodeId": "68:92014",
+      "figmaName": "text-align-left",
+      "variant": "stroke",
+      "from": "TextAlignLeftIcon",
+      "to": "TextAlignLeft2Icon",
+      "collidedWith": "68:92002"
+    },
+    {
+      "nodeId": "68:101484",
+      "figmaName": "text-align-left",
+      "variant": "solid",
+      "from": "TextAlignLeftSolidIcon",
+      "to": "TextAlignLeftSolid2Icon",
+      "collidedWith": "68:101472"
+    },
+    {
+      "nodeId": "68:92010",
+      "figmaName": "text-align-right",
+      "variant": "stroke",
+      "from": "TextAlignRightIcon",
+      "to": "TextAlignRight2Icon",
+      "collidedWith": "68:92000"
+    },
+    {
+      "nodeId": "68:101480",
+      "figmaName": "text-align-right",
+      "variant": "solid",
+      "from": "TextAlignRightSolidIcon",
+      "to": "TextAlignRightSolid2Icon",
+      "collidedWith": "68:101470"
+    },
+    {
+      "nodeId": "68:92018",
+      "figmaName": "text-indent",
+      "variant": "stroke",
+      "from": "TextIndentIcon",
+      "to": "TextIndent2Icon",
+      "collidedWith": "68:91998"
+    },
+    {
+      "nodeId": "68:101488",
+      "figmaName": "text-indent",
+      "variant": "solid",
+      "from": "TextIndentSolidIcon",
+      "to": "TextIndentSolid2Icon",
+      "collidedWith": "68:101468"
+    },
+    {
+      "nodeId": "68:88990",
+      "figmaName": "tongue",
+      "variant": "stroke",
+      "from": "TongueIcon",
+      "to": "Tongue2Icon",
+      "collidedWith": "68:88448"
+    },
+    {
+      "nodeId": "68:100601",
+      "figmaName": "tongue",
+      "variant": "solid",
+      "from": "TongueSolidIcon",
+      "to": "TongueSolid2Icon",
+      "collidedWith": "68:99565"
+    },
+    {
+      "nodeId": "68:90749",
+      "figmaName": "touch-06",
+      "variant": "stroke",
+      "from": "Touch06Icon",
+      "to": "Touch062Icon",
+      "collidedWith": "68:90677"
+    },
+    {
+      "nodeId": "68:103129",
+      "figmaName": "touch-06",
+      "variant": "solid",
+      "from": "Touch06SolidIcon",
+      "to": "Touch06Solid2Icon",
+      "collidedWith": "68:102908"
+    },
+    {
+      "nodeId": "68:90906",
+      "figmaName": "triangle",
+      "variant": "stroke",
+      "from": "TriangleIcon",
+      "to": "Triangle2Icon",
+      "collidedWith": "68:88322"
+    },
+    {
+      "nodeId": "68:99115",
+      "figmaName": "triangle",
+      "variant": "solid",
+      "from": "TriangleSolidIcon",
+      "to": "TriangleSolid2Icon",
+      "collidedWith": "68:98891"
+    },
+    {
+      "nodeId": "68:87717",
+      "figmaName": "tropical-storm-tracks",
+      "variant": "stroke",
+      "from": "TropicalStormTracksIcon",
+      "to": "TropicalStormTracks2Icon",
+      "collidedWith": "68:87715"
+    },
+    {
+      "nodeId": "68:100245",
+      "figmaName": "tropical-storm-tracks",
+      "variant": "solid",
+      "from": "TropicalStormTracksSolidIcon",
+      "to": "TropicalStormTracksSolid2Icon",
+      "collidedWith": "68:100244"
+    },
+    {
+      "nodeId": "68:88320",
+      "figmaName": "ufo",
+      "variant": "stroke",
+      "from": "UfoIcon",
+      "to": "Ufo2Icon",
+      "collidedWith": "68:88005"
+    },
+    {
+      "nodeId": "68:99113",
+      "figmaName": "ufo",
+      "variant": "solid",
+      "from": "UfoSolidIcon",
+      "to": "UfoSolid2Icon",
+      "collidedWith": "68:97101"
+    },
+    {
+      "nodeId": "68:92615",
+      "figmaName": "user",
+      "variant": "stroke",
+      "from": "UserIcon",
+      "to": "User2Icon",
+      "collidedWith": "68:87987"
+    },
+    {
+      "nodeId": "68:101310",
+      "figmaName": "user",
+      "variant": "solid",
+      "from": "UserSolidIcon",
+      "to": "UserSolid2Icon",
+      "collidedWith": "68:96664"
+    },
+    {
+      "nodeId": "68:92207",
+      "figmaName": "vertical-drag-&-drop",
+      "variant": "stroke",
+      "from": "VerticalDragDropIcon",
+      "to": "VerticalDragDrop2Icon",
+      "collidedWith": "68:92203"
+    },
+    {
+      "nodeId": "68:101787",
+      "figmaName": "vertical-drag-&-drop",
+      "variant": "solid",
+      "from": "VerticalDragDropSolidIcon",
+      "to": "VerticalDragDropSolid2Icon",
+      "collidedWith": "68:101783"
+    },
+    {
+      "nodeId": "68:94095",
+      "figmaName": "wallet-02",
+      "variant": "stroke",
+      "from": "Wallet02Icon",
+      "to": "Wallet022Icon",
+      "collidedWith": "68:94085"
+    },
+    {
+      "nodeId": "68:98033",
+      "figmaName": "wallet-02",
+      "variant": "solid",
+      "from": "Wallet02SolidIcon",
+      "to": "Wallet02Solid2Icon",
+      "collidedWith": "68:98023"
+    },
+    {
+      "nodeId": "68:91198",
+      "figmaName": "weight-scale",
+      "variant": "stroke",
+      "from": "WeightScaleIcon",
+      "to": "WeightScale2Icon",
+      "collidedWith": "68:90078"
+    },
+    {
+      "nodeId": "68:99348",
+      "figmaName": "weight-scale",
+      "variant": "solid",
+      "from": "WeightScaleSolidIcon",
+      "to": "WeightScaleSolid2Icon",
+      "collidedWith": "68:99026"
+    },
+    {
+      "nodeId": "68:95249",
+      "figmaName": "wind-power",
+      "variant": "stroke",
+      "from": "WindPowerIcon",
+      "to": "WindPower2Icon",
+      "collidedWith": "68:87705"
+    },
+    {
+      "nodeId": "68:99199",
+      "figmaName": "wind-power",
+      "variant": "solid",
+      "from": "WindPowerSolidIcon",
+      "to": "WindPowerSolid2Icon",
+      "collidedWith": "68:99164"
+    },
+    {
+      "nodeId": "68:100239",
+      "figmaName": "wind-power",
+      "variant": "solid",
+      "from": "WindPowerSolidIcon",
+      "to": "WindPowerSolid3Icon",
+      "collidedWith": "68:99164"
+    }
+  ],
+  "trimmedNames": [
+    {
+      "nodeId": "68:88138",
+      "from": "accident ",
+      "to": "accident"
+    },
+    {
+      "nodeId": "68:97231",
+      "from": "accident ",
+      "to": "accident"
+    },
+    {
+      "nodeId": "68:94890",
+      "from": "add-01 ",
+      "to": "add-01"
+    },
+    {
+      "nodeId": "68:95620",
+      "from": "add-01 ",
+      "to": "add-01"
+    },
+    {
+      "nodeId": "68:94888",
+      "from": "add-02 ",
+      "to": "add-02"
+    },
+    {
+      "nodeId": "68:95568",
+      "from": "add-02 ",
+      "to": "add-02"
+    },
+    {
+      "nodeId": "68:94884",
+      "from": "add-circle ",
+      "to": "add-circle"
+    },
+    {
+      "nodeId": "68:95572",
+      "from": "add-circle ",
+      "to": "add-circle"
+    },
+    {
+      "nodeId": "68:94886",
+      "from": "add-square ",
+      "to": "add-square"
+    },
+    {
+      "nodeId": "68:95570",
+      "from": "add-square ",
+      "to": "add-square"
+    },
+    {
+      "nodeId": "68:91153",
+      "from": "american-football ",
+      "to": "american-football"
+    },
+    {
+      "nodeId": "68:100061",
+      "from": "american-football ",
+      "to": "american-football"
+    },
+    {
+      "nodeId": "68:91139",
+      "from": "baseball-bat ",
+      "to": "baseball-bat"
+    },
+    {
+      "nodeId": "68:100048",
+      "from": "baseball-bat ",
+      "to": "baseball-bat"
+    },
+    {
+      "nodeId": "68:91141",
+      "from": "baseball ",
+      "to": "baseball"
+    },
+    {
+      "nodeId": "68:100050",
+      "from": "baseball ",
+      "to": "baseball"
+    },
+    {
+      "nodeId": "68:93138",
+      "from": "bluetooth-square ",
+      "to": "bluetooth-square"
+    },
+    {
+      "nodeId": "68:97705",
+      "from": "bluetooth-square ",
+      "to": "bluetooth-square"
+    },
+    {
+      "nodeId": "68:91939",
+      "from": "cabinet-01 ",
+      "to": "cabinet-01"
+    },
+    {
+      "nodeId": "68:99822",
+      "from": "cabinet-01 ",
+      "to": "cabinet-01"
+    },
+    {
+      "nodeId": "68:94850",
+      "from": "cancel-02 ",
+      "to": "cancel-02"
+    },
+    {
+      "nodeId": "68:94846",
+      "from": "cancel-circle ",
+      "to": "cancel-circle"
+    },
+    {
+      "nodeId": "68:88095",
+      "from": "caravan ",
+      "to": "caravan"
+    },
+    {
+      "nodeId": "68:97192",
+      "from": "caravan ",
+      "to": "caravan"
+    },
+    {
+      "nodeId": "68:87891",
+      "from": "celsius ",
+      "to": "celsius"
+    },
+    {
+      "nodeId": "68:100215",
+      "from": "celsius ",
+      "to": "celsius"
+    },
+    {
+      "nodeId": "68:92222",
+      "from": "character-phonetic ",
+      "to": "character-phonetic"
+    },
+    {
+      "nodeId": "68:101576",
+      "from": "character-phonetic ",
+      "to": "character-phonetic"
+    },
+    {
+      "nodeId": "68:95576",
+      "from": "clear-01 ",
+      "to": "clear-01"
+    },
+    {
+      "nodeId": "68:95578",
+      "from": "clear-02 ",
+      "to": "clear-02"
+    },
+    {
+      "nodeId": "68:95582",
+      "from": "clear-circle ",
+      "to": "clear-circle"
+    },
+    {
+      "nodeId": "68:95580",
+      "from": "clear-square ",
+      "to": "clear-square"
+    },
+    {
+      "nodeId": "68:90376",
+      "from": "clothes ",
+      "to": "clothes"
+    },
+    {
+      "nodeId": "68:97435",
+      "from": "clothes ",
+      "to": "clothes"
+    },
+    {
+      "nodeId": "68:91091",
+      "from": "cricket-bat ",
+      "to": "cricket-bat"
+    },
+    {
+      "nodeId": "68:100001",
+      "from": "cricket-bat ",
+      "to": "cricket-bat"
+    },
+    {
+      "nodeId": "68:92909",
+      "from": "dashboard-circle ",
+      "to": "dashboard-circle"
+    },
+    {
+      "nodeId": "68:96233",
+      "from": "dashboard-circle ",
+      "to": "dashboard-circle"
+    },
+    {
+      "nodeId": "68:92836",
+      "from": "delivered-sent ",
+      "to": "delivered-sent"
+    },
+    {
+      "nodeId": "68:102750",
+      "from": "delivered-sent ",
+      "to": "delivered-sent"
+    },
+    {
+      "nodeId": "68:92808",
+      "from": "discount ",
+      "to": "discount"
+    },
+    {
+      "nodeId": "68:102770",
+      "from": "discount ",
+      "to": "discount"
+    },
+    {
+      "nodeId": "68:90136",
+      "from": "dish-washer ",
+      "to": "dish-washer"
+    },
+    {
+      "nodeId": "68:99083",
+      "from": "dish-washer ",
+      "to": "dish-washer"
+    },
+    {
+      "nodeId": "68:90655",
+      "from": "do-not-touch-02 ",
+      "to": "do-not-touch-02"
+    },
+    {
+      "nodeId": "68:102886",
+      "from": "do-not-touch-02 ",
+      "to": "do-not-touch-02"
+    },
+    {
+      "nodeId": "68:88231",
+      "from": "door-lock ",
+      "to": "door-lock"
+    },
+    {
+      "nodeId": "68:96925",
+      "from": "door-lock ",
+      "to": "door-lock"
+    },
+    {
+      "nodeId": "68:93822",
+      "from": "dress-01 ",
+      "to": "dress-01"
+    },
+    {
+      "nodeId": "68:96510",
+      "from": "dress-01 ",
+      "to": "dress-01"
+    },
+    {
+      "nodeId": "68:93980",
+      "from": "fire-pit ",
+      "to": "fire-pit"
+    },
+    {
+      "nodeId": "68:97362",
+      "from": "fire-pit ",
+      "to": "fire-pit"
+    },
+    {
+      "nodeId": "68:91497",
+      "from": "folder-details-reference ",
+      "to": "folder-details-reference"
+    },
+    {
+      "nodeId": "68:98416",
+      "from": "folder-details-reference ",
+      "to": "folder-details-reference"
+    },
+    {
+      "nodeId": "68:90930",
+      "from": "geometric-shapes-01 ",
+      "to": "geometric-shapes-01"
+    },
+    {
+      "nodeId": "68:98915",
+      "from": "geometric-shapes-01 ",
+      "to": "geometric-shapes-01"
+    },
+    {
+      "nodeId": "68:88344",
+      "from": "gravity ",
+      "to": "gravity"
+    },
+    {
+      "nodeId": "68:99134",
+      "from": "gravity ",
+      "to": "gravity"
+    },
+    {
+      "nodeId": "68:90051",
+      "from": "handcuffs ",
+      "to": "handcuffs"
+    },
+    {
+      "nodeId": "68:96741",
+      "from": "handcuffs ",
+      "to": "handcuffs"
+    },
+    {
+      "nodeId": "68:94813",
+      "from": "help-circle ",
+      "to": "help-circle"
+    },
+    {
+      "nodeId": "68:96317",
+      "from": "help-circle ",
+      "to": "help-circle"
+    },
+    {
+      "nodeId": "68:93790",
+      "from": "hoodie ",
+      "to": "hoodie"
+    },
+    {
+      "nodeId": "68:96542",
+      "from": "hoodie ",
+      "to": "hoodie"
+    },
+    {
+      "nodeId": "68:94805",
+      "from": "information-circle ",
+      "to": "information-circle"
+    },
+    {
+      "nodeId": "68:96297",
+      "from": "information-circle ",
+      "to": "information-circle"
+    },
+    {
+      "nodeId": "68:90047",
+      "from": "investigation ",
+      "to": "investigation"
+    },
+    {
+      "nodeId": "68:96737",
+      "from": "investigation ",
+      "to": "investigation"
+    },
+    {
+      "nodeId": "68:90118",
+      "from": "knife-01 ",
+      "to": "knife-01"
+    },
+    {
+      "nodeId": "68:99065",
+      "from": "knife-01 ",
+      "to": "knife-01"
+    },
+    {
+      "nodeId": "68:90122",
+      "from": "knives ",
+      "to": "knives"
+    },
+    {
+      "nodeId": "68:99069",
+      "from": "knives ",
+      "to": "knives"
+    },
+    {
+      "nodeId": "68:88508",
+      "from": "laughing ",
+      "to": "laughing"
+    },
+    {
+      "nodeId": "68:100661",
+      "from": "laughing ",
+      "to": "laughing"
+    },
+    {
+      "nodeId": "68:89938",
+      "from": "layout-2-column ",
+      "to": "layout-2-column"
+    },
+    {
+      "nodeId": "68:98765",
+      "from": "layout-2-column ",
+      "to": "layout-2-column"
+    },
+    {
+      "nodeId": "68:89936",
+      "from": "layout-3-column ",
+      "to": "layout-3-column"
+    },
+    {
+      "nodeId": "68:98763",
+      "from": "layout-3-column ",
+      "to": "layout-3-column"
+    },
+    {
+      "nodeId": "68:92124",
+      "from": "left-to-right-block-quote ",
+      "to": "left-to-right-block-quote"
+    },
+    {
+      "nodeId": "68:101704",
+      "from": "left-to-right-block-quote ",
+      "to": "left-to-right-block-quote"
+    },
+    {
+      "nodeId": "68:92122",
+      "from": "left-to-right-list-dash ",
+      "to": "left-to-right-list-dash"
+    },
+    {
+      "nodeId": "68:101702",
+      "from": "left-to-right-list-dash ",
+      "to": "left-to-right-list-dash"
+    },
+    {
+      "nodeId": "68:91702",
+      "from": "lollipop ",
+      "to": "lollipop"
+    },
+    {
+      "nodeId": "68:98153",
+      "from": "lollipop ",
+      "to": "lollipop"
+    },
+    {
+      "nodeId": "68:93780",
+      "from": "monocle ",
+      "to": "monocle"
+    },
+    {
+      "nodeId": "68:96552",
+      "from": "monocle ",
+      "to": "monocle"
+    },
+    {
+      "nodeId": "68:88948",
+      "from": "more-horizontal ",
+      "to": "more-horizontal"
+    },
+    {
+      "nodeId": "68:98991",
+      "from": "more-horizontal ",
+      "to": "more-horizontal"
+    },
+    {
+      "nodeId": "68:92500",
+      "from": "mortarboard-02 ",
+      "to": "mortarboard-02"
+    },
+    {
+      "nodeId": "68:101348",
+      "from": "mortarboard-02 ",
+      "to": "mortarboard-02"
+    },
+    {
+      "nodeId": "68:91690",
+      "from": "mushroom ",
+      "to": "mushroom"
+    },
+    {
+      "nodeId": "68:98145",
+      "from": "mushroom ",
+      "to": "mushroom"
+    },
+    {
+      "nodeId": "68:92786",
+      "from": "package-add ",
+      "to": "package-add"
+    },
+    {
+      "nodeId": "68:102625",
+      "from": "package-add ",
+      "to": "package-add"
+    },
+    {
+      "nodeId": "68:92788",
+      "from": "package ",
+      "to": "package"
+    },
+    {
+      "nodeId": "68:92774",
+      "from": "package-open ",
+      "to": "package-open"
+    },
+    {
+      "nodeId": "68:102613",
+      "from": "package-open ",
+      "to": "package-open"
+    },
+    {
+      "nodeId": "68:92784",
+      "from": "package-remove ",
+      "to": "package-remove"
+    },
+    {
+      "nodeId": "68:102623",
+      "from": "package-remove ",
+      "to": "package-remove"
+    },
+    {
+      "nodeId": "68:102627",
+      "from": "package ",
+      "to": "package"
+    },
+    {
+      "nodeId": "68:93776",
+      "from": "perfume ",
+      "to": "perfume"
+    },
+    {
+      "nodeId": "68:96556",
+      "from": "perfume ",
+      "to": "perfume"
+    },
+    {
+      "nodeId": "68:90187",
+      "from": "play-square ",
+      "to": "play-square"
+    },
+    {
+      "nodeId": "68:96366",
+      "from": "play-square ",
+      "to": "play-square"
+    },
+    {
+      "nodeId": "68:89006",
+      "from": "prescription ",
+      "to": "prescription"
+    },
+    {
+      "nodeId": "68:99581",
+      "from": "prescription ",
+      "to": "prescription"
+    },
+    {
+      "nodeId": "68:88560",
+      "from": "projector ",
+      "to": "projector"
+    },
+    {
+      "nodeId": "68:95701",
+      "from": "projector ",
+      "to": "projector"
+    },
+    {
+      "nodeId": "68:87813",
+      "from": "rain-double-drop ",
+      "to": "rain-double-drop"
+    },
+    {
+      "nodeId": "68:100146",
+      "from": "rain-double-drop ",
+      "to": "rain-double-drop"
+    },
+    {
+      "nodeId": "68:94880",
+      "from": "remove-01 ",
+      "to": "remove-01"
+    },
+    {
+      "nodeId": "68:94878",
+      "from": "remove-02 ",
+      "to": "remove-02"
+    },
+    {
+      "nodeId": "68:95604",
+      "from": "remove-02 ",
+      "to": "remove-02"
+    },
+    {
+      "nodeId": "68:94874",
+      "from": "remove-circle ",
+      "to": "remove-circle"
+    },
+    {
+      "nodeId": "68:95608",
+      "from": "remove-circle ",
+      "to": "remove-circle"
+    },
+    {
+      "nodeId": "68:94876",
+      "from": "remove-square ",
+      "to": "remove-square"
+    },
+    {
+      "nodeId": "68:92368",
+      "from": "right-to-left-block-quote ",
+      "to": "right-to-left-block-quote"
+    },
+    {
+      "nodeId": "68:101834",
+      "from": "right-to-left-block-quote ",
+      "to": "right-to-left-block-quote"
+    },
+    {
+      "nodeId": "68:92364",
+      "from": "right-to-left-list-dash ",
+      "to": "right-to-left-list-dash"
+    },
+    {
+      "nodeId": "68:101830",
+      "from": "right-to-left-list-dash ",
+      "to": "right-to-left-list-dash"
+    },
+    {
+      "nodeId": "68:89729",
+      "from": "road-wayside ",
+      "to": "road-wayside"
+    },
+    {
+      "nodeId": "68:100915",
+      "from": "road-wayside ",
+      "to": "road-wayside"
+    },
+    {
+      "nodeId": "68:90492",
+      "from": "scheme ",
+      "to": "scheme"
+    },
+    {
+      "nodeId": "68:100353",
+      "from": "scheme ",
+      "to": "scheme"
+    },
+    {
+      "nodeId": "68:87644",
+      "from": "signal-medium-01 ",
+      "to": "signal-medium-01"
+    },
+    {
+      "nodeId": "68:95835",
+      "from": "signal-medium-01 ",
+      "to": "signal-medium-01"
+    },
+    {
+      "nodeId": "68:88159",
+      "from": "square-lock-remove ",
+      "to": "square-lock-remove"
+    },
+    {
+      "nodeId": "68:96848",
+      "from": "square-lock-remove ",
+      "to": "square-lock-remove"
+    },
+    {
+      "nodeId": "68:88762",
+      "from": "sticky-note-01 ",
+      "to": "sticky-note-01"
+    },
+    {
+      "nodeId": "68:100734",
+      "from": "sticky-note-01 ",
+      "to": "sticky-note-01"
+    },
+    {
+      "nodeId": "68:87785",
+      "from": "sunrise ",
+      "to": "sunrise"
+    },
+    {
+      "nodeId": "68:100231",
+      "from": "sunrise ",
+      "to": "sunrise"
+    },
+    {
+      "nodeId": "68:91847",
+      "from": "table-01 ",
+      "to": "table-01"
+    },
+    {
+      "nodeId": "68:99730",
+      "from": "table-01 ",
+      "to": "table-01"
+    },
+    {
+      "nodeId": "68:93859",
+      "from": "taj-mahal ",
+      "to": "taj-mahal"
+    },
+    {
+      "nodeId": "68:97283",
+      "from": "taj-mahal ",
+      "to": "taj-mahal"
+    },
+    {
+      "nodeId": "68:92617",
+      "from": "teaching ",
+      "to": "teaching"
+    },
+    {
+      "nodeId": "68:101322",
+      "from": "teaching ",
+      "to": "teaching"
+    },
+    {
+      "nodeId": "68:93362",
+      "from": "telephone ",
+      "to": "telephone"
+    },
+    {
+      "nodeId": "68:101920",
+      "from": "telephone ",
+      "to": "telephone"
+    },
+    {
+      "nodeId": "68:93252",
+      "from": "time-quarter-pass ",
+      "to": "time-quarter-pass"
+    },
+    {
+      "nodeId": "68:99201",
+      "from": "time-quarter-pass ",
+      "to": "time-quarter-pass"
+    },
+    {
+      "nodeId": "68:90597",
+      "from": "touch-08 ",
+      "to": "touch-08"
+    },
+    {
+      "nodeId": "68:102829",
+      "from": "touch-08 ",
+      "to": "touch-08"
+    },
+    {
+      "nodeId": "68:88011",
+      "from": " truck-monster",
+      "to": "truck-monster"
+    },
+    {
+      "nodeId": "68:97104",
+      "from": " truck-monster",
+      "to": "truck-monster"
+    },
+    {
+      "nodeId": "68:87713",
+      "from": "tsunami ",
+      "to": "tsunami"
+    },
+    {
+      "nodeId": "68:100243",
+      "from": "tsunami ",
+      "to": "tsunami"
+    }
+  ],
+  "keptOverrideDuplicates": [],
+  "multicolorIcons": [
+    {
+      "componentName": "AlignKeyObjectSolidIcon",
+      "nodeId": "68:101624",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "ArcherSolidIcon",
+      "nodeId": "68:100057",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "BombSolidIcon",
+      "nodeId": "68:100027",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "CircleLockCheck02SolidIcon",
+      "nodeId": "68:96939",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "CookBookSolidIcon",
+      "nodeId": "68:99108",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "CraneSolidIcon",
+      "nodeId": "68:97184",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "CursorEdit01SolidIcon",
+      "nodeId": "68:100544",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "CursorInfo02SolidIcon",
+      "nodeId": "68:100532",
+      "colors": [
+        "#1e1e1e",
+        "#1e212c"
+      ]
+    },
+    {
+      "componentName": "DeliveryReturn02SolidIcon",
+      "nodeId": "68:102767",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "DiceSolidIcon",
+      "nodeId": "68:99993",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "Disability02SolidIcon",
+      "nodeId": "68:99696",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "Drag04SolidIcon",
+      "nodeId": "68:102990",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "FileZipSolidIcon",
+      "nodeId": "68:98531",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "GolfHoleSolidIcon",
+      "nodeId": "68:99965",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "HandSanitizerSolidIcon",
+      "nodeId": "68:99627",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "HangingClockSolidIcon",
+      "nodeId": "68:99768",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "HockeySolidIcon",
+      "nodeId": "68:99957",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "HotAirBalloonSolidIcon",
+      "nodeId": "68:97172",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "IncognitoSolidIcon",
+      "nodeId": "68:99496",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "LeftTriangleSolidIcon",
+      "nodeId": "68:101233",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "MailAtSign01SolidIcon",
+      "nodeId": "68:102078",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "MailboxSolid2Icon",
+      "nodeId": "68:102207",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "MailEdit01SolidIcon",
+      "nodeId": "68:102074",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "MailSearch01SolidIcon",
+      "nodeId": "68:102072",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "PaintBrush03SolidIcon",
+      "nodeId": "68:101790",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "RedditSolidIcon",
+      "nodeId": "68:96069",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "ShipmentTrackingSolidIcon",
+      "nodeId": "68:102717",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "Sink01SolidIcon",
+      "nodeId": "68:99748",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "SmartWatch03SolidIcon",
+      "nodeId": "68:99240",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "SunCloudFastWind01SolidIcon",
+      "nodeId": "68:100252",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "SunCloudSlowWind02SolidIcon",
+      "nodeId": "68:100269",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "TimeScheduleSolidIcon",
+      "nodeId": "68:99217",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "Toilet01SolidIcon",
+      "nodeId": "68:99703",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "UfoSolid2Icon",
+      "nodeId": "68:99113",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "UserBlock02SolidIcon",
+      "nodeId": "68:96614",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "UserLock01SolidIcon",
+      "nodeId": "68:96677",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "UserMinus01SolidIcon",
+      "nodeId": "68:96682",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "VolumeOff02SolidIcon",
+      "nodeId": "68:96997",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "VoucherSolidIcon",
+      "nodeId": "68:102691",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    },
+    {
+      "componentName": "Vynil03SolidIcon",
+      "nodeId": "68:96987",
+      "colors": [
+        "#1e212c",
+        "#ffffff"
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "nodeId": "68:196",
+      "name": "Colors",
+      "reason": "skip-frame"
+    },
+    {
+      "nodeId": "68:92865",
+      "name": "tag",
+      "reason": "skip-instance-name"
+    },
+    {
+      "nodeId": "68:92866",
+      "name": "tag",
+      "reason": "skip-instance-name"
+    },
+    {
+      "nodeId": "68:95251",
+      "name": "Header",
+      "reason": "skip-instance-name"
+    },
+    {
+      "nodeId": "68:95563",
+      "name": "Stroke",
+      "reason": "skip-frame"
+    },
+    {
+      "nodeId": "68:95566",
+      "name": "Header",
+      "reason": "skip-instance-name"
+    },
+    {
+      "nodeId": "68:95622",
+      "name": "Header",
+      "reason": "skip-instance-name"
+    },
+    {
+      "nodeId": "68:95703",
+      "name": "Header",
+      "reason": "skip-instance-name"
+    },
+    {
+      "nodeId": "68:95898",
+      "name": "Header",
+      "reason": "skip-instance-name"
+    },
+    {
+      "nodeId": "68:96158",
+      "name": "Header",
+      "reason": "skip-instance-name"
+    },
+    {
+      "nodeId": "68:96210",
+      "name": "Header",
+      "reason": "skip-instance-name"
+    },
+    {
+      "nodeId": "68:96244",
+      "name": "Header",
+      "reason": "skip-instance-name"
+    },
+    {
+      "nodeId": "68:96292",
+      "name": "Header",
+      "reason": "skip-instance-name"
+    },
+    {
+      "nodeId": "68:96489",
+      "name": "Header",
+      "reason": "skip-instance-name"
+    },
+    {
+      "nodeId": "68:97238",
+      "name": "Header",
+      "reason": "skip-instance-name"
+    },
+    {
+      "nodeId": "68:97501",
+      "name": "Header",
+      "reason": "skip-instance-name"
+    },
+    {
+      "nodeId": "68:97731",
+      "name": "Header",
+      "reason": "skip-instance-name"
+    },
+    {
+      "nodeId": "68:99167",
+      "name": "Header",
+      "reason": "skip-instance-name"
+    },
+    {
+      "nodeId": "68:101285",
+      "name": "Header",
+      "reason": "skip-instance-name"
+    },
+    {
+      "nodeId": "68:103453",
+      "name": "Solid",
+      "reason": "skip-frame"
+    },
+    {
+      "nodeId": "68:103455",
+      "name": "Frame 3472487",
+      "reason": "skip-frame"
+    },
+    {
+      "nodeId": "68:103459",
+      "name": "Frame 3472488",
+      "reason": "skip-frame"
+    },
+    {
+      "nodeId": "69:32325",
+      "name": "Usuage",
+      "reason": "skip-frame"
+    },
+    {
+      "nodeId": "195:33351",
+      "name": "start_from_scratch",
+      "reason": "skip-frame"
+    }
+  ]
+}

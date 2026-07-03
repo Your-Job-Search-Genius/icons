@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const BrainIcon = createIcon({"name":"BrainIcon","figmaName":"brain","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M16.998 7.127Q17.48 7 18 7a4 4 0 1 1-1.027 7.867M16.465 9A4 4 0 0 0 17 7a4 4 0 0 0-7.91-.85m7.883 8.717q.027-.18.027-.367a2.5 2.5 0 0 0-2-2.45m1.973 2.817A2.5 2.5 0 0 1 14.5 17H14a4 4 0 0 0-4 4m-5.465-9A4 4 0 0 1 4 10a4 4 0 0 1 5.09-3.85m0 0A4 4 0 0 1 11.465 8m-7.306 3.12A3.001 3.001 0 0 0 5 17a3 3 0 0 0 2.83-2"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M11.836 11.744c-.51.491-1.383.576-2.129.157-.746-.42-1.127-1.21-.972-1.901"}]]);

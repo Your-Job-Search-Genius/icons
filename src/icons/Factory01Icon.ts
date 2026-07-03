@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Factory01Icon = createIcon({"name":"Factory01Icon","figmaName":"factory-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M2 21h19"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M3 21c1.5-3 2.5-7 2.5-13h7c0 6 1 10 2.5 13"}],["path",{"fill":"currentColor","d":"M19.47 21.53a.75.75 0 1 0 1.06-1.06L20 21zM16.5 12h.75a.75.75 0 0 0-.75-.75zm0 0h-.75c0 4.201 1.58 7.391 3.72 9.53L20 21l.53-.53c-1.86-1.861-3.28-4.671-3.28-8.47zm0 0v-.75H12v1.5h4.5z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M12 4.265c1.17-1.637 2.668-1.637 3.838 0 .706 1.004 1.618.967 2.341-.037 1.153-1.637 2.65-1.637 3.821 0"}]]);

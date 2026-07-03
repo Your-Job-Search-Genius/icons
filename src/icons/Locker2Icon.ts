@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Locker2Icon = createIcon({"name":"Locker2Icon","figmaName":"locker","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M2 11c0-4.243 0-6.364 1.172-7.682S6.229 2 10 2h4c3.771 0 5.657 0 6.828 1.318S22 6.758 22 11s0 6.364-1.172 7.682S17.771 20 14 20h-4c-3.771 0-5.657 0-6.828-1.318S2 15.242 2 11Z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M6 20v2m12-2v2"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M12 7v13"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M9 13v1"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M15 13v1"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M2 7h20"}]]);

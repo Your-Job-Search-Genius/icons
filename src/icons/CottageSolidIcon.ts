@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const CottageSolidIcon = createIcon({"name":"CottageSolidIcon","figmaName":"cottage","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M2 20.75a1 1 0 0 1 1-1h18a1 1 0 1 1 0 2H3a1 1 0 0 1-1-1","clipRule":"evenodd"}],["path",{"fill":"currentColor","d":"M20 21.75a.75.75 0 0 0 .75-.75V11a8.75 8.75 0 1 0-17.5 0v10c0 .414.336.75.75.75zM12 10a2 2 0 1 1 0-4 2 2 0 0 1 0 4m3 11.75a.75.75 0 0 1-.75-.75v-4c0-.768-.222-1.312-.56-1.661-.336-.345-.874-.589-1.69-.589s-1.354.244-1.69.589c-.338.349-.56.893-.56 1.661v4a.75.75 0 0 1-1.5 0v-4c0-1.054.309-2.01.984-2.706.68-.7 1.642-1.044 2.766-1.044s2.086.345 2.766 1.044c.675.695.984 1.652.984 2.706v4a.75.75 0 0 1-.75.75"}]]);

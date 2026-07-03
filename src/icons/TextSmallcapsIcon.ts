@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const TextSmallcapsIcon = createIcon({"name":"TextSmallcapsIcon","figmaName":"text-smallcaps","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M10.571 18H5.43M8 3v15M8 3c-1.19 0-2.717.123-3.933.243-.514.052-.771.077-1 .167a1.72 1.72 0 0 0-.998 1.076C2 4.715 2 4.976 2 5.5M8 3c1.19 0 2.717.123 3.933.243.514.052.771.077 1 .167.473.188.854.599.998 1.076.069.229.069.49.069 1.014"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M19.714 21h-3.428M18 12v9m0-9c-.793 0-1.811.082-2.622.162-.343.034-.514.051-.666.111-.316.125-.57.4-.666.717-.046.153-.046.328-.046.677M18 12c.793 0 1.811.082 2.622.162.343.034.514.051.666.111.316.125.57.4.666.717.046.153.046.328.046.677"}]]);

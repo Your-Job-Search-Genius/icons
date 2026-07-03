@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const C2Icon = createIcon({"name":"C2Icon","figmaName":"c","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M8 20c-.514.697-.723.94-1.145.993s-.715-.19-1.3-.673C3.381 18.52 2 15.825 2 12.815 2 7.395 6.477 3 12 3s10 4.394 10 9.815c0 3.01-1.381 5.704-3.555 7.505-.585.484-.877.726-1.3.673-.422-.053-.631-.296-1.145-.993"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M13.5 10.5 18 5"}],["circle",{"cx":12,"cy":12,"r":1.5,"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5}]]);

@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Cordinate01SolidIcon = createIcon({"name":"Cordinate01SolidIcon","figmaName":"cordinate-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M19.648 13.337a.75.75 0 0 0-1.273.548v1.99H2.125a1 1 0 1 0 0 2h16.25v1.99a.75.75 0 0 0 1.273.547c.116-.113 1.366-1.117 1.69-1.37.346-.295.701-.62.975-.94a3 3 0 0 0 .37-.527c.097-.182.192-.424.192-.7s-.095-.518-.193-.7a3 3 0 0 0-.37-.527 9 9 0 0 0-.975-.94 78 78 0 0 1-1.69-1.37"}],["path",{"fill":"currentColor","d":"M3.587 4.352a.75.75 0 0 0 .548 1.273h1.99v16.25a1 1 0 1 0 2 0V5.625h1.99a.75.75 0 0 0 .547-1.273c-.112-.116-1.117-1.366-1.37-1.69a9 9 0 0 0-.94-.975 3 3 0 0 0-.527-.37 1.5 1.5 0 0 0-.7-.192c-.276 0-.518.095-.7.193-.188.1-.366.232-.527.37a9 9 0 0 0-.94.975 78 78 0 0 1-1.37 1.69"}]]);

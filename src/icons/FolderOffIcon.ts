@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const FolderOffIcon = createIcon({"name":"FolderOffIcon","figmaName":"folder-off","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M20 20a5 5 0 0 1-.222.157C18.517 21 16.76 21 13.25 21H12c-4.714 0-7.071 0-8.536-1.464C2 18.07 2 15.714 2 11V7.944c0-1.816 0-2.724.38-3.406A3 3 0 0 1 3.342 3.5"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M11 7h5.75c2.107 0 3.16 0 3.917.506a3 3 0 0 1 .827.827C22 9.09 22 10.143 22 12.25c0 2.14 0 3.629-.19 4.75M12 7l-.633-1.267c-.525-1.05-1.005-2.106-2.168-2.542-.42-.158-.891-.185-1.699-.19H7"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"m2 2 20 20"}]]);

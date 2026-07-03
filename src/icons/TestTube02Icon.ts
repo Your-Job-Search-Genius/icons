@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const TestTube02Icon = createIcon({"name":"TestTube02Icon","figmaName":"test-tube-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M16 2v16a4 4 0 0 1-8 0V2"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M8 8.556c.889-1.153 2.31-.322 4 .762 2.222 1.426 3.556.332 4-.703"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M7 2h10"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"m11 18.002.009-.002"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"m13 14.002.009-.002"}]]);

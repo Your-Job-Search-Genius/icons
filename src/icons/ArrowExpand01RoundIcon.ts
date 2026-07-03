@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const ArrowExpand01RoundIcon = createIcon({"name":"ArrowExpand01RoundIcon","figmaName":"arrow-expand-01-round","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M21.03 4.03a.75.75 0 0 0-1.06-1.06l.53.53zm-8.06 5.94a.75.75 0 0 0 1.06 1.06l-.53-.53zm.53.53.53.53 7-7-.53-.53-.53-.53-7 7z"}],["path",{"fill":"currentColor","d":"M2.97 19.97a.75.75 0 0 0 1.06 1.06l-.53-.53zm8.06-5.94a.75.75 0 0 0-1.06-1.06l.53.53zM3.5 20.5l.53.53 7-7-.53-.53-.53-.53-7 7z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M16.5 3.266c.844-.012 3.64-.593 4.234 0s.012 3.39 0 4.234"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M3.266 16.5c-.012.845-.593 3.641 0 4.234s3.39.012 4.234 0"}]]);

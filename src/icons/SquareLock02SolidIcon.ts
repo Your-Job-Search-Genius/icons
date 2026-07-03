@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const SquareLock02SolidIcon = createIcon({"name":"SquareLock02SolidIcon","figmaName":"square-lock-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M12 1.25a5.5 5.5 0 0 1 5.5 5.5v1.777a4.3 4.3 0 0 1 2.976 3.529c.148 1.1.274 2.256.274 3.444s-.126 2.344-.274 3.444c-.272 2.017-1.943 3.612-4.001 3.706-1.429.066-2.88.1-4.475.1a96 96 0 0 1-4.475-.1c-2.058-.094-3.729-1.689-4-3.706-.149-1.1-.275-2.256-.275-3.444s.126-2.344.274-3.444A4.3 4.3 0 0 1 6.5 8.527V6.75a5.5 5.5 0 0 1 5.5-5.5m0 12.25a1 1 0 0 0-1 1v2a1 1 0 1 0 2 0v-2a1 1 0 0 0-1-1m0-10.25a3.5 3.5 0 0 0-3.5 3.5v1.56c1.118-.04 2.265-.06 3.5-.06s2.382.02 3.5.06V6.75a3.5 3.5 0 0 0-3.5-3.5"}]]);

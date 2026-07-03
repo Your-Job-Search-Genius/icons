@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const ChartIcon = createIcon({"name":"ChartIcon","figmaName":"chart","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M2 21.5h20"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M18 15.5h.009m-.009 3h.009"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M6 18.5h.009M6 15.5h.009M6 12.5h.009M6 9.5h.009"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m7.79 5.392 8.428 4.198M8 4.5a2 2 0 1 1-4 0 2 2 0 0 1 4 0m12 6a2 2 0 1 1-4 0 2 2 0 0 1 4 0"}]]);

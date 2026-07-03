@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const SoftDrink01Icon = createIcon({"name":"SoftDrink01Icon","figmaName":"soft-drink-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M12 7V4.348c0-2.187.374-2.716 2.497-2.12L18 3.21"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"m6 7 1.14 11.16c.171 1.677.257 2.515.828 3.021 1.178 1.044 6.78 1.139 8.064 0 .571-.506.657-1.344.828-3.02L18 7"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M5 7h14"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M7 12h10"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M7 16h10"}]]);

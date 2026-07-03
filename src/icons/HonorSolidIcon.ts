@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const HonorSolidIcon = createIcon({"name":"HonorSolidIcon","figmaName":"honor","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M1.5 3a1 1 0 0 1 1-1h19a1 1 0 1 1 0 2h-19a1 1 0 0 1-1-1","clipRule":"evenodd"}],["path",{"fill":"currentColor","d":"M19.5 2.25a.75.75 0 0 1 .75.75v10.999c0 1.188-.104 2.128-.562 2.937-.459.81-1.211 1.383-2.23 1.994l-3.045 1.827c-.475.285-.879.527-1.233.694-.378.178-.754.297-1.18.297s-.802-.12-1.18-.297c-.354-.166-.758-.41-1.233-.694l-.03-.018h-.001l-3.014-1.81c-1.019-.61-1.771-1.183-2.23-1.992-.458-.81-.562-1.75-.562-2.938V3a.75.75 0 0 1 .75-.75zM9.5 12a1 1 0 1 0 0 2h5a1 1 0 1 0 0-2zm0-5a1 1 0 0 0 0 2h5a1 1 0 1 0 0-2z"}]]);

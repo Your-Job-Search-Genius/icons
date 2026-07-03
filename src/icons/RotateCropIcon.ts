@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const RotateCropIcon = createIcon({"name":"RotateCropIcon","figmaName":"rotate-crop","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M2 15c0 3.87 3.13 7 7 7l-1.05-1.75"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M22 9c0-3.87-3.13-7-7-7l1.05 1.75"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M7 5v7c0 2.357 0 3.536.732 4.268S9.643 17 12 17h7"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M17 19v-7c0-2.357 0-3.536-.732-4.268S14.357 7 12 7H5"}]]);

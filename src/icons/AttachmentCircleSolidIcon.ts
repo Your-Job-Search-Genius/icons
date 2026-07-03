@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const AttachmentCircleSolidIcon = createIcon({"name":"AttachmentCircleSolidIcon","figmaName":"attachment-circle","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M12 1.25c5.937 0 10.75 4.813 10.75 10.75S17.937 22.75 12 22.75 1.25 17.937 1.25 12 6.063 1.25 12 1.25m-.327 5.93a3.177 3.177 0 0 0-4.492 4.493l.857.857a.75.75 0 0 0 1.06-1.06l-.857-.859a1.676 1.676 0 1 1 2.37-2.37l5.148 5.148a1.676 1.676 0 1 1-2.37 2.37l-1.931-1.93c-.222-.222-.262-.409-.257-.53a.57.57 0 0 1 .195-.39.67.67 0 0 1 .46-.18c.16.001.377.064.614.301l1 1a.75.75 0 1 0 1.06-1.06l-1-1c-1.021-1.022-2.35-.899-3.147-.167a2.07 2.07 0 0 0-.68 1.435c-.025.588.211 1.168.695 1.652l1.93 1.93a3.176 3.176 0 1 0 4.491-4.493z"}]]);

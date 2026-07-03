@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const FastWindIcon = createIcon({"name":"FastWindIcon","figmaName":"fast-wind","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M2 5.941c3.5 3.432 8.576 1.961 9.732 0 .17-.288.268-.623.268-.98C12 3.878 11.105 3 10 3s-2 .878-2 1.961"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M17 8.928C17 7.311 18.12 6 19.5 6S22 7.311 22 8.928a3.23 3.23 0 0 1-.585 1.883C19.346 14.191 9.276 12.916 4 11.856"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M13.085 19.887c.206.649.762 1.113 1.415 1.113.828 0 1.5-.747 1.5-1.669 0-.313-.078-.607-.213-.857C14.5 15.992 8 14.324 2 18.774"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M19 15.5h2"}]]);

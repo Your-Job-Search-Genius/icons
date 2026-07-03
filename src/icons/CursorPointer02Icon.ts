@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const CursorPointer02Icon = createIcon({"name":"CursorPointer02Icon","figmaName":"cursor-pointer-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M7.051 16A7.157 7.157 0 1 1 16 7.051"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M6.444 10A2.55 2.55 0 0 1 6 8.557 2.55 2.55 0 0 1 8.546 6c.54 0 1.042.169 1.454.457"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M9.31 9.378C10.8 7.773 22.01 11.705 22 13.14c-.01 1.628-4.378 2.128-5.588 2.468-.728.204-.923.414-1.09 1.177-.761 3.457-1.143 5.176-2.012 5.215-1.387.061-5.455-11.055-4-12.622Z"}]]);

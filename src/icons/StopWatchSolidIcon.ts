@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const StopWatchSolidIcon = createIcon({"name":"StopWatchSolidIcon","figmaName":"stop-watch","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M4.293 3.918a1 1 0 0 1 1.414 0l1 1a1 1 0 0 1-1.414 1.414l-1-1a1 1 0 0 1 0-1.414m15.414 0a1 1 0 0 1 0 1.414l-1 1a1 1 0 1 1-1.414-1.414l1-1a1 1 0 0 1 1.414 0","clipRule":"evenodd"}],["path",{"fill":"currentColor","d":"M12 3.375c5.385 0 9.75 4.365 9.75 9.75s-4.365 9.75-9.75 9.75-9.75-4.365-9.75-9.75 4.365-9.75 9.75-9.75m0 5.25a1 1 0 0 0-1 1v4a1 1 0 0 0 .293.707l2 2a1 1 0 1 0 1.414-1.414L13 13.211V9.625a1 1 0 0 0-1-1"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M9 2.125a1 1 0 0 1 1-1h4a1 1 0 1 1 0 2h-1v.5a1 1 0 1 1-2 0v-.5h-1a1 1 0 0 1-1-1","clipRule":"evenodd"}]]);

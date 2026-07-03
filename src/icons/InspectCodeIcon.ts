@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const InspectCodeIcon = createIcon({"name":"InspectCodeIcon","figmaName":"inspect-code","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M17.5 17.5 22 22"}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":1.5,"d":"M20 11a9 9 0 1 0-18 0 9 9 0 0 0 18 0Z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m14.5 9.5.92.793c.387.333.58.5.58.707s-.193.374-.58.707l-.92.793"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m7.5 9.5-.92.793c-.387.333-.58.5-.58.707s.193.374.58.707l.92.793"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m12 8.5-2 5"}]]);

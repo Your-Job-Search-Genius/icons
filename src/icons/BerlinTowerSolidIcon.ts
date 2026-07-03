@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const BerlinTowerSolidIcon = createIcon({"name":"BerlinTowerSolidIcon","figmaName":"berlin-tower","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M7 9a5 5 0 1 1 10 0A5 5 0 0 1 7 9"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M12 1a1 1 0 0 1 1 1v3a1 1 0 1 1-2 0V2a1 1 0 0 1 1-1m-2 11a1 1 0 0 1 1 1c0 .766-.182 1.848-.45 3h2.901c-.269-1.152-.45-2.234-.45-3a1 1 0 1 1 2 0c0 .643.194 1.74.508 3a1 1 0 0 1 .513 1.853c.454 1.498.97 2.893 1.373 3.7a1 1 0 1 1-1.79.894c-.517-1.036-1.13-2.747-1.626-4.447h-3.957c-.496 1.7-1.11 3.411-1.627 4.447a1 1 0 1 1-1.79-.894c.404-.807.92-2.202 1.374-3.7A1 1 0 0 1 8.492 16c.314-1.26.508-2.357.508-3a1 1 0 0 1 1-1","clipRule":"evenodd"}]]);

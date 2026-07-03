@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const AnalysisTextLinkIcon = createIcon({"name":"AnalysisTextLinkIcon","figmaName":"analysis-text-link","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M21 21H10c-3.3 0-4.95 0-5.975-1.025S3 17.3 3 14V3"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M7 4h1"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M7 7h4"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M5 20c1.07-1.947 2.523-6.981 5.306-6.981 1.924 0 2.422 2.453 4.308 2.453C17.857 15.472 17.387 10 21 10"}]]);

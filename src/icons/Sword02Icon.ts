@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Sword02Icon = createIcon({"name":"Sword02Icon","figmaName":"sword-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M5.06 21.06a1.5 1.5 0 1 1-2.12-2.121 1.5 1.5 0 0 1 2.12 2.122Z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m8 16-2.5 2.5"}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":1.5,"d":"m9.5 16.5 10.573-9.297a1.73 1.73 0 0 0 .554-.92L21.5 2.5l-3.783.873a1.73 1.73 0 0 0-.92.554L7.5 14.5"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M4 13h.572a2 2 0 0 1 1.414.586l4.428 4.428A2 2 0 0 1 11 19.428V20"}]]);

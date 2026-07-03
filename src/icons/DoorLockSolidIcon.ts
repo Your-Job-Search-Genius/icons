@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const DoorLockSolidIcon = createIcon({"name":"DoorLockSolidIcon","figmaName":"door-lock","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M2 21.75a1 1 0 0 1 1-1h18a1 1 0 1 1 0 2H3a1 1 0 0 1-1-1","clipRule":"evenodd"}],["path",{"fill":"currentColor","d":"M15.429 1.25c.96 0 1.774.043 2.45.173.68.13 1.276.36 1.747.771.951.833 1.124 2.17 1.124 3.806v16a.75.75 0 0 1-.75.75H4a.75.75 0 0 1-.75-.75V6c0-1.635.173-2.973 1.124-3.806.47-.412 1.066-.64 1.746-.771.677-.13 1.492-.173 2.451-.173zM12 6.75c-1.465 0-2.679 1.168-2.679 2.64v1.587A3.64 3.64 0 0 0 8.25 13.56c0 2.052 1.693 3.69 3.75 3.69s3.75-1.638 3.75-3.69c0-1.01-.41-1.92-1.071-2.583V9.39c0-1.472-1.214-2.64-2.679-2.64m0 1.5c.665 0 1.178.524 1.179 1.14v.667a3.8 3.8 0 0 0-2.358 0V9.39c0-.616.514-1.14 1.179-1.14"}]]);

@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const LanguageCircleSolidIcon = createIcon({"name":"LanguageCircleSolidIcon","figmaName":"language-circle","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M12 1.25c5.937 0 10.75 4.813 10.75 10.75S17.937 22.75 12 22.75 1.25 17.937 1.25 12 6.063 1.25 12 1.25m-.5 5a.75.75 0 0 0-.75.75v.629H7a.75.75 0 0 0 0 1.5h6.457c-.446 1.136-1.102 2.239-1.864 3.276a22 22 0 0 1-.422-.566c-.338-.469-.588-.86-.684-1.065a.75.75 0 0 0-1.36.634c.162.347.49.84.827 1.308.217.3.453.611.682.898a32 32 0 0 1-2.751 2.834.75.75 0 0 0 1.015 1.104 34 34 0 0 0 2.748-2.813l1.347 1.402a.75.75 0 0 0 1.081-1.04L12.6 13.564c1.014-1.335 1.915-2.834 2.455-4.435H17a.75.75 0 0 0 0-1.5h-4.75V7a.75.75 0 0 0-.75-.75"}]]);

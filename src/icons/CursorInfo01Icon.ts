@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const CursorInfo01Icon = createIcon({"name":"CursorInfo01Icon","figmaName":"cursor-info-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M10 3.32c-3.25-.497-6.326-.464-7.235.445-2.172 2.172.66 16.729 3.77 16.426 1.706-.172 2.897-2.912 4.3-3.768.551-.337 1.041.005 1.387.455l3.347 4.357c.583.759.994.985 1.873.535 1.352-.692 2.636-1.979 3.328-3.328.45-.88.224-1.29-.535-1.873L18 14.852"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M15.698 5.334c0-.68.56-1.23 1.25-1.23s1.25.55 1.25 1.23c0 .245-.073.474-.198.665-.318.487-.856.954-1.01 1.501m.01 2h.009M22 7a5 5 0 1 1-10 0 5 5 0 0 1 10 0"}]]);

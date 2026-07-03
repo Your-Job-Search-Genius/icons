@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const ArrowLeftRightSharpIcon = createIcon({"name":"ArrowLeftRightSharpIcon","figmaName":"arrow-left-right-sharp","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M19 17H4"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M5 7h15"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m17 20 2.463-2.293c.358-.333.537-.5.537-.707s-.179-.374-.537-.707L17 14"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M7 4 4.537 6.293C4.18 6.626 4 6.793 4 7s.179.374.537.707L7 10"}]]);

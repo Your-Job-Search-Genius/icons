@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Folder03Icon = createIcon({"name":"Folder03Icon","figmaName":"folder-03","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M2.36 14.597c-.375-2.072-.563-3.108-.03-3.81q.054-.07.114-.135C3.037 10 4.087 10 6.186 10h11.628c2.1 0 3.15 0 3.742.652q.06.065.113.136c.534.701.346 1.737-.03 3.809-.54 2.978-.81 4.467-1.828 5.382q-.104.095-.215.18c-1.08.841-2.59.841-5.608.841h-3.976c-3.019 0-4.528 0-5.608-.841a4 4 0 0 1-.215-.18c-1.018-.915-1.288-2.404-1.828-5.382Z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M8.02 5.111h7.787c1.309 0 2.949-.188 3.79 1.037C20 6.737 20 8.361 20 10m-7.987-4.889-.763-1.487c-.268-.522-.519-1.154-1.067-1.44C9.83 2 9.403 2 8.551 2c-2 0-3 0-3.668.545-1.117.913-.857 2.785-.857 4.056V10"}]]);

@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const ScrollHorizontalIcon = createIcon({"name":"ScrollHorizontalIcon","figmaName":"scroll-horizontal","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M14 12a2 2 0 1 1-4 0 2 2 0 0 1 4 0Z"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M2 12.067c-.04-1.38 5.345-4.628 5.852-3.983.575.73-.8 2.902-1.11 3.594-.186.416-.181.596.03 1.012.96 1.881 1.436 2.818 1.14 3.224-.471.646-5.872-2.5-5.912-3.847Z"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M21.999 12.067c.04-1.38-5.344-4.628-5.852-3.983-.575.73.8 2.902 1.11 3.594.186.416.181.596-.03 1.012-.96 1.881-1.436 2.818-1.14 3.224.471.646 5.872-2.5 5.912-3.847Z"}]]);

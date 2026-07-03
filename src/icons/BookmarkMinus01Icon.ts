@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const BookmarkMinus01Icon = createIcon({"name":"BookmarkMinus01Icon","figmaName":"bookmark-minus-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M11 2C7.229 2 5.343 2 4.172 3.129 3 4.257 3 6.074 3 9.708v8.273c0 2.306 0 3.459.773 3.871 1.496.8 4.304-1.867 5.637-2.67.773-.465 1.16-.698 1.59-.698s.817.233 1.59.698c1.333.803 4.14 3.47 5.637 2.67.773-.412.773-1.565.773-3.871V12.5"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M3.5 7H10"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M13 5h8"}]]);

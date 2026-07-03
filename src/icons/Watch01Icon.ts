@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Watch01Icon = createIcon({"name":"Watch01Icon","figmaName":"watch-01","viewBox":"0 0 24 24","width":24,"height":24}, [["circle",{"cx":12,"cy":12,"r":7,"stroke":"currentColor","strokeWidth":1.5}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"m16 6-.272-1.09c-.335-1.338-.502-2.007-.978-2.42a2 2 0 0 0-.165-.129C14.07 2 13.38 2 12 2s-2.069 0-2.585.361q-.086.06-.165.129c-.476.413-.643 1.082-.978 2.42L8 6"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"m8 18 .272 1.09c.335 1.338.502 2.007.978 2.42q.08.069.165.129C9.93 22 10.62 22 12 22s2.069 0 2.585-.361q.085-.06.165-.129c.476-.413.643-1.082.978-2.42L16 18"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M12 10v2.005L13 13"}]]);

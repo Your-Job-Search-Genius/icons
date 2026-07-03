@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const TanSolidIcon = createIcon({"name":"TanSolidIcon","figmaName":"tan","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M11.5 6a1 1 0 0 1 .958.713l3 10a1 1 0 1 1-1.916.574L12.556 14h-2.112l-.986 3.287a1 1 0 0 1-1.916-.574l3-10A1 1 0 0 1 11.5 6m-.456 6h.912l-.456-1.52z","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M16.77 6.027a1 1 0 0 1 1.124.526L21 12.764V7a1 1 0 1 1 2 0v10a1 1 0 0 1-1.894.447L18 11.237V17a1 1 0 1 1-2 0V7a1 1 0 0 1 .77-.973","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M1 7a1 1 0 0 1 1-1h5a1 1 0 0 1 0 2H5.5v9a1 1 0 1 1-2 0V8H2a1 1 0 0 1-1-1","clipRule":"evenodd"}]]);

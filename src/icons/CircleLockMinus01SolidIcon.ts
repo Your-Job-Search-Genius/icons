@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const CircleLockMinus01SolidIcon = createIcon({"name":"CircleLockMinus01SolidIcon","figmaName":"circle-lock-minus-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M5.375 6.75a5.5 5.5 0 1 1 11 0v3a1 1 0 1 1-2 0v-3a3.5 3.5 0 1 0-7 0v3a1 1 0 1 1-2 0z","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M10.875 17a1 1 0 0 1 1-1h8a1 1 0 1 1 0 2h-8a1 1 0 0 1-1-1","clipRule":"evenodd"}],["path",{"fill":"currentColor","d":"M10.875 7.25a7.75 7.75 0 1 0 5.564 13.145c.342-.353.513-.529.435-.712-.077-.183-.336-.183-.854-.183h-4.145a2.5 2.5 0 0 1 0-5h6.095c.304 0 .456 0 .546-.104s.068-.247.026-.532a7.75 7.75 0 0 0-7.667-6.614"}]]);

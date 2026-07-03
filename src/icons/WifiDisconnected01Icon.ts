@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const WifiDisconnected01Icon = createIcon({"name":"WifiDisconnected01Icon","figmaName":"wifi-disconnected-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M8.5 16c.867-.867 1.92-1.358 3-1.474"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M5.5 12.5c3.173-3.173 7.122-3.83 10.5-1.968"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M2 8.5c6.316-5.333 13.684-5.333 20 0"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"m21 13.5-6 6m6 0-6-6"}]]);

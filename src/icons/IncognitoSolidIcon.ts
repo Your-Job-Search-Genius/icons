@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const IncognitoSolidIcon = createIcon({"name":"IncognitoSolidIcon","figmaName":"incognito","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"#fff","d":"M10 17.875a3 3 0 1 0-6 0 3 3 0 0 0 6 0"}],["path",{"fill":"#fff","d":"M20 17.875a3 3 0 1 0-6 0 3 3 0 0 0 6 0"}],["path",{"fill":"#1e212c","d":"M17 13.875a4 4 0 1 1-3.701 2.482 1.99 1.99 0 0 0-2.599 0 4 4 0 1 1-1.2-1.604 4 4 0 0 1 2.5-.878c.946 0 1.816.33 2.5.878a3.98 3.98 0 0 1 2.5-.878m-10 2a2 2 0 1 0 0 4 2 2 0 0 0 0-4m10 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4"}],["path",{"fill":"#1e212c","d":"M4.148 4.645a9 9 0 0 0-.199.696l-1.46 5.536H2a1 1 0 1 0 0 2h20a1 1 0 1 0 0-2h-.488l-1.46-5.536c-.086-.322-.142-.535-.2-.696-.843-2.346-3.63-3.279-5.66-1.827-.14.1-.624.511-.871.724a2.17 2.17 0 0 1-2.641 0 23 23 0 0 0-.87-.724C7.778 1.366 4.99 2.3 4.147 4.645"}]]);

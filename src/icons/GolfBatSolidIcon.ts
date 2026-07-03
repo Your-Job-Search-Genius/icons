@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const GolfBatSolidIcon = createIcon({"name":"GolfBatSolidIcon","figmaName":"golf-bat","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M2.942 16.91c.423-.975 1.289-1.867 2.629-1.86.522.004.957.17 1.38.43.388.237.806.58 1.287.974l4.566 3.74a.75.75 0 0 1 .06 1.105c-.335.348-.904.938-1.608 1.143-.374.11-.766.11-1.26.109H6.975c-.83 0-1.7-.131-2.458-.525-.78-.404-1.406-1.07-1.739-2.049-.317-.932-.25-2.11.165-3.068"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M17.227 8.884a1 1 0 0 1 .519 1.315l-4.67 10.763a1 1 0 0 1-1.835-.796l4.67-10.763a1 1 0 0 1 1.316-.52","clipRule":"evenodd"}],["path",{"fill":"currentColor","d":"M17.224 3.031a2.135 2.135 0 1 1 3.917 1.61l-2.864 5.011a1.385 1.385 0 0 1-2.54-1.044z"}]]);

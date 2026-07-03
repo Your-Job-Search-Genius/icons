@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Task01Icon = createIcon({"name":"Task01Icon","figmaName":"task-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M7.998 16h4m-4-5h8"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M7.5 3.5c-1.556.047-2.483.22-3.125.862-.879.88-.879 2.295-.879 5.126v6.506c0 2.832 0 4.247.879 5.127C5.253 22 6.668 22 9.496 22h5c2.829 0 4.243 0 5.121-.88.88-.879.88-2.294.88-5.126V9.488c0-2.83 0-4.246-.88-5.126-.641-.642-1.569-.815-3.125-.862"}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":1.5,"d":"M7.496 3.75c0-.966.784-1.75 1.75-1.75h5.5a1.75 1.75 0 1 1 0 3.5h-5.5a1.75 1.75 0 0 1-1.75-1.75Z"}]]);

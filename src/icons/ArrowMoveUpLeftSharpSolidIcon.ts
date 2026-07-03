@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const ArrowMoveUpLeftSharpSolidIcon = createIcon({"name":"ArrowMoveUpLeftSharpSolidIcon","figmaName":"arrow-move-up-left-sharp","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M5.125 5H5a1 1 0 0 0 0 2c2.242 0 4.074.003 4.9.122 4.675.676 8.252 4.002 8.97 8.134.126.73.13 1.624.13 3.667V21a1 1 0 1 0 2 0v-2.204c0-1.88 0-2.96-.16-3.882-.883-5.085-5.228-8.987-10.654-9.771C9.196 5 7.223 5 5.125 5","clipRule":"evenodd"}],["path",{"fill":"currentColor","d":"M7.4 2.083a1 1 0 0 0-1.081.185l-2.493 2.32a5 5 0 0 0-.465.472C3.202 5.253 3 5.567 3 6s.202.747.36.94c.134.163.314.33.466.471l2.493 2.32A1 1 0 0 0 8 9V3a1 1 0 0 0-.6-.917"}]]);

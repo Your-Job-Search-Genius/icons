@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Chair03SolidIcon = createIcon({"name":"Chair03SolidIcon","figmaName":"chair-03","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M7.593 4.88a1 1 0 0 1 .903 1.088l-.46 4.907h7.928l-.46-4.907a1 1 0 0 1 1.992-.186l1.5 16a1 1 0 1 1-1.992.186l-.57-6.093H7.566l-.571 6.093a1 1 0 1 1-1.992-.186l1.5-16a1 1 0 0 1 1.09-.903"}],["path",{"fill":"currentColor","d":"M12 1.125c1.608 0 3.292.307 4.614.717.715.222 1.273.798 1.625 1.407.357.616.574 1.383.495 2.12-.043.395-.23.731-.524.958-.28.216-.61.298-.908.298H6.698c-.297 0-.628-.082-.908-.298a1.37 1.37 0 0 1-.524-.959c-.08-.736.138-1.503.495-2.12.352-.608.91-1.184 1.625-1.405 1.322-.41 3.006-.718 4.614-.718"}]]);

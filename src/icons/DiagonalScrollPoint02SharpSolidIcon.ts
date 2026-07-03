@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const DiagonalScrollPoint02SharpSolidIcon = createIcon({"name":"DiagonalScrollPoint02SharpSolidIcon","figmaName":"diagonal-scroll-point-02-sharp","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M15 12a3 3 0 1 0-6 0 3 3 0 0 0 6 0"}],["path",{"fill":"currentColor","d":"M4.318 3.027a1.5 1.5 0 0 0-.879.412c-.29.29-.379.632-.412.88C3 4.522 3 4.76 3 4.96V10a1 1 0 0 0 1.707.707l6-6A1 1 0 0 0 10 3H4.96c-.2 0-.437 0-.642.027"}],["path",{"fill":"currentColor","d":"M20.383 13.076a1 1 0 0 0-1.09.217l-6 6A1 1 0 0 0 14 21h5.04c.2 0 .437 0 .642-.027.247-.033.589-.122.879-.412s.378-.632.412-.88c.027-.204.027-.442.027-.642V14a1 1 0 0 0-.617-.924"}]]);

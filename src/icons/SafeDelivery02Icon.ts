@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const SafeDelivery02Icon = createIcon({"name":"SafeDelivery02Icon","figmaName":"safe-delivery-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M12 2C7.582 2 4 5.134 4 9h16c0-3.866-3.582-7-8-7"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M8 17.333C8 15.403 8.345 15 10 15h4c1.655 0 2 .403 2 2.333v2.334c0 1.93-.345 2.333-2 2.333h-4c-1.655 0-2-.403-2-2.333z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M12.008 17.5h-.009"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m4 9 8 6 8-6"}]]);

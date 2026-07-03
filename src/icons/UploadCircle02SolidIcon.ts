@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const UploadCircle02SolidIcon = createIcon({"name":"UploadCircle02SolidIcon","figmaName":"upload-circle-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M12 1.25c5.937 0 10.75 4.813 10.75 10.75S17.937 22.75 12 22.75 1.25 17.937 1.25 12 6.063 1.25 12 1.25M12 10c-.495 0-.859.237-1.104.444a8 8 0 0 0-.666.679l-.67.744-.014.015c-.049.053-.145.16-.217.266-.064.096-.347.536-.11 1.07.239.535.753.62.868.636.127.019.271.018.344.018H11V17a1 1 0 1 0 2 0v-3.128h.57c.072 0 .216 0 .343-.018.114-.016.63-.1.867-.635.238-.535-.045-.975-.11-1.07a3 3 0 0 0-.216-.267l-.014-.015-.67-.744a8 8 0 0 0-.665-.679C12.859 10.237 12.495 10 12 10M9 6a1 1 0 0 0 0 2h6a1 1 0 1 0 0-2z"}]]);

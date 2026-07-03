@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Inequality01SolidIcon = createIcon({"name":"Inequality01SolidIcon","figmaName":"inequality-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M1.75 20c0-.69.56-1.25 1.25-1.25h18a1.25 1.25 0 1 1 0 2.5H3c-.69 0-1.25-.56-1.25-1.25","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M18.306 3.256a1.25 1.25 0 0 1-.26 1.748L6.35 13.673a54 54 0 0 0-1.399 1.057c.478.019 1.092.02 1.887.02H21a1.25 1.25 0 1 1 0 2.5H6.75c-1.115 0-2.072 0-2.775-.088-.363-.046-.766-.126-1.13-.302-.396-.193-.787-.525-.982-1.054a1.85 1.85 0 0 1 .087-1.468c.179-.371.455-.681.713-.93.498-.484 1.254-1.044 2.124-1.688l.075-.056 11.695-8.668a1.25 1.25 0 0 1 1.749.26","clipRule":"evenodd"}]]);

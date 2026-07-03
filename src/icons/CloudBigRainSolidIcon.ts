@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const CloudBigRainSolidIcon = createIcon({"name":"CloudBigRainSolidIcon","figmaName":"cloud-big-rain","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M8.5 18.421c0-1.674 1.474-3.327 2.51-4.282a1.456 1.456 0 0 1 1.98 0c1.036.955 2.51 2.608 2.51 4.282 0 1.641-1.325 3.329-3.5 3.329s-3.5-1.688-3.5-3.329"}],["path",{"fill":"currentColor","d":"M5.893 7.165a.32.32 0 0 1-.238.243A5.752 5.752 0 0 0 7 18.75a.01.01 0 0 0 .011-.012A5 5 0 0 1 7 18.421c0-1.261.546-2.39 1.121-3.246.588-.876 1.307-1.618 1.871-2.139a2.956 2.956 0 0 1 4.016 0c.564.521 1.283 1.263 1.87 2.139.576.857 1.122 1.985 1.122 3.246v.007c0 .174.136.322.31.322h.19a5.25 5.25 0 0 0 .996-10.406.324.324 0 0 1-.262-.293 6.25 6.25 0 0 0-12.341-.886"}]]);

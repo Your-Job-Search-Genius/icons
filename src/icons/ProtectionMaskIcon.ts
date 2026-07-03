@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const ProtectionMaskIcon = createIcon({"name":"ProtectionMaskIcon","figmaName":"protection-mask","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M4.276 22v-3.55c0-1.278-.341-1.933-1.011-3.039A8.7 8.7 0 0 1 2 10.89C2 5.979 6.076 2 11.103 2c4.364 0 8.01 2.998 8.897 7"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m15.075 14.845 3.916-2.43c.092-.058.138-.087.184-.11.046-.022.1-.041.207-.08.551-.202 1.162-.42 1.657 0 .262.22.385.61.632 1.389.194.614.41 1.221.299 1.873-.058.341-.21.661-.513 1.301l-1.43 3.014c-.553 1.168-.83 1.752-1.751 2.059-.92.306-1.328.075-2.141-.389-3.686-2.1-10.825-8.212-8.77-10.984.775-1.047 2.758-.753 7.71 4.357m0 0L14.01 20.08"}]]);

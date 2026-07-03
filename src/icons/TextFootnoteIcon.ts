@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const TextFootnoteIcon = createIcon({"name":"TextFootnoteIcon","figmaName":"text-footnote","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M12 21H6"}],["path",{"fill":"currentColor","d":"M9.75 3a.75.75 0 0 0-1.5 0zm-1.5 18a.75.75 0 0 0 1.5 0zM9 3h-.75v18h1.5V3z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M16 6c0-.628 0-.942-.08-1.217a2.04 2.04 0 0 0-1.166-1.29c-.265-.109-.566-.14-1.166-.2C12.17 3.146 10.388 3 9 3s-3.17.147-4.588.292c-.6.061-.9.092-1.166.2a2.04 2.04 0 0 0-1.165 1.29C2 5.059 2 5.373 2 6"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M19.75 6v2.835m0 0L22 7.819m-2.25 1.018L17.5 7.818m2.25 1.018L17.95 11m1.8-2.165L21.55 11"}]]);

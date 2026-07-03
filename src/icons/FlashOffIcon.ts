@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const FlashOffIcon = createIcon({"name":"FlashOffIcon","figmaName":"flash-off","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m16 16-4.333 5.654c-.539.702-1.548.265-1.548-.671V14.03c0-.56-.396-1.015-.884-1.015h-3.35c-.76 0-1.165-1.03-.663-1.686L7.774 8"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m10 5.727 2.497-3.377c.525-.71 1.51-.268 1.51.678v7.031c0 .567.386 1.026.862 1.026h3.267c.742 0 1.138 1.042.647 1.705L17.888 14"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"m2 2 20 20"}]]);

@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const KidIcon = createIcon({"name":"KidIcon","figmaName":"kid","viewBox":"0 0 24 24","width":24,"height":24}, [["circle",{"cx":12,"cy":12,"r":10,"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M14 5.738s-1.115.5-1.898.119c-.956-.466-1.903-2.41-.01-3.857"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M8.009 9H8m8 0h-.009"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M8 15a5 5 0 0 0 4 2 5 5 0 0 0 4-2"}]]);

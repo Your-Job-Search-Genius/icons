@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const FolderCloudIcon = createIcon({"name":"FolderCloudIcon","figmaName":"folder-cloud","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M7.001 6.504h9.753c2.107 0 3.16 0 3.917.507.328.219.61.5.828.828.506.758.501 2.063.501 4.172m-9.997-5.507-.634-1.268c-.525-1.05-1.005-2.108-2.168-2.545C8.691 2.5 8.11 2.5 6.946 2.5c-1.817 0-2.726 0-3.408.38A3 3 0 0 0 2.38 4.04C2 4.722 2 5.63 2 7.45v3.059c0 4.72 0 7.079 1.465 8.545 1.114 1.115 2.745 1.382 5.537 1.446"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M12 18.833c0 1.473 1.12 2.667 2.5 2.667h5.25c1.243 0 2.25-1.075 2.25-2.4 0-1.442-1.18-2.406-2.261-2.4.138-1.64-1.095-3.2-2.739-3.2-1.438 0-2.619 1.178-2.74 2.679-1.268.129-2.26 1.268-2.26 2.654"}]]);

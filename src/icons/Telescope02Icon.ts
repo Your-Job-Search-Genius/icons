@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Telescope02Icon = createIcon({"name":"Telescope02Icon","figmaName":"telescope-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m19 22-5-9-5 9"}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":1.5,"d":"M15.92 4 7.027 9.256c-.982.58-1.319 1.866-.752 2.872l1.027 1.82a2.03 2.03 0 0 0 2.806.77L19 9.462"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M16.22 4.456a1.637 1.637 0 0 1 2.834-1.637l2.727 4.725a1.637 1.637 0 0 1-2.834 1.637z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m3.476 17-.738-1.368L2 14.265m.738 1.367L6.5 13.5"}]]);

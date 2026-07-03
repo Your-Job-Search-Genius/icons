@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const SourceCodeCircleIcon = createIcon({"name":"SourceCodeCircleIcon","figmaName":"source-code-circle","viewBox":"0 0 24 24","width":24,"height":24}, [["circle",{"cx":12,"cy":12,"r":10,"stroke":"currentColor","strokeWidth":1.5}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m16 10 1.227 1.057c.515.445.773.667.773.943s-.258.498-.773.943L16 14"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m8 10-1.227 1.057C6.258 11.502 6 11.724 6 12s.258.498.773.943L8 14"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m13 9-2 6"}]]);

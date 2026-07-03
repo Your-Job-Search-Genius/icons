@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Scooter04Icon = createIcon({"name":"Scooter04Icon","figmaName":"scooter-04","viewBox":"0 0 24 24","width":24,"height":24}, [["circle",{"cx":4,"cy":18,"r":2,"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5}],["circle",{"cx":20,"cy":18,"r":2,"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M15 4c.937 0 1.405 0 1.793.173a2 2 0 0 1 .73.554c.27.328.395.78.646 1.682l1.53 5.509c.134.481.2.722.11.896s-.359.27-.896.462a6 6 0 0 0-3.413 3.093c-.415.88-.622 1.32-.867 1.476S14.02 18 13.289 18H6.514m9.878-3L4 16"}]]);

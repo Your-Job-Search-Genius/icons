@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const MedalFirstPlaceIcon = createIcon({"name":"MedalFirstPlaceIcon","figmaName":"medal-first-place","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M5 15c0-3.866 3.022-7 6.75-7h.5C15.978 8 19 11.134 19 15s-3.022 7-6.75 7h-.5C8.022 22 5 18.866 5 15Z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M12.5 18v-5.052c0-.574 0-.862-.23-.933-.507-.157-1.27.984-1.27.984m1.5 5H11m1.5 0H14"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M13.56 2 11 7.898M18 2l-2.821 6.5"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M10.44 2 12 5.594M6 2l2.821 6.5"}]]);

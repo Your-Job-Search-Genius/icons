@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Apple2Icon = createIcon({"name":"Apple2Icon","figmaName":"apple","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":1.5,"d":"M15.177 5.177c-1.083 1.084-3.14.785-3.14.785s-.298-2.056.786-3.14c1.083-1.083 3.14-.784 3.14-.784s.298 2.056-.786 3.14Z"}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":1.5,"d":"M4 14.06c0 3.281 2.196 7.05 4.419 7.847.77.276 1.567-.105 2.229-.58.502-.36 1.11-.703 1.602-.703.49 0 1.1.343 1.601.703.662.475 1.459.856 2.23.58 1.579-.566 3.145-2.633 3.919-4.96-1.5-.43-2.594-1.786-2.594-3.393 0-1.472.919-2.734 2.226-3.265C18.79 8.793 17.414 8 15.859 8c-.804 0-1.544.324-2.14.713-.954.62-1.985.62-2.938 0C10.184 8.324 9.445 8 8.641 8 6.077 8 4 10.155 4 14.06Z"}]]);

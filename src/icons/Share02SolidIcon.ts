@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Share02SolidIcon = createIcon({"name":"Share02SolidIcon","figmaName":"share-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M9.325 5.446C6.206 6.518 4 9.397 4 12.752c0 1.066.222 2.08.623 3.003l-1.834.797a9.5 9.5 0 0 1-.789-3.8c0-4.265 2.803-7.867 6.675-9.197zM20 12.752c0-3.355-2.206-6.234-5.325-7.306l.65-1.891C19.198 4.885 22 8.487 22 12.75a9.5 9.5 0 0 1-.572 3.258l-1.88-.683A7.5 7.5 0 0 0 20 12.75M7.99 19.458A8.16 8.16 0 0 0 12 20.5c1.464 0 2.833-.38 4.01-1.042l.98 1.744A10.16 10.16 0 0 1 12 22.5c-1.814 0-3.52-.471-4.99-1.298z","clipRule":"evenodd"}],["path",{"fill":"currentColor","d":"M12 1a4 4 0 1 0 0 8 4 4 0 0 0 0-8"}],["path",{"fill":"currentColor","d":"M5 15a4 4 0 1 0 0 8 4 4 0 0 0 0-8"}],["path",{"fill":"currentColor","d":"M19 15a4 4 0 1 0 0 8 4 4 0 0 0 0-8"}]]);

@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const InsertBottomImageIcon = createIcon({"name":"InsertBottomImageIcon","figmaName":"insert-bottom-image","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M3 3h16"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M3 7h9"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M3 16c0-2.357 0-3.536.732-4.268S5.643 11 8 11h8c2.357 0 3.535 0 4.268.732S21 13.643 21 16s0 3.535-.732 4.268C19.535 21 18.357 21 16 21H8c-2.357 0-3.536 0-4.268-.732C3 19.535 3 18.357 3 16"}]]);

@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const WalletAdd01Icon = createIcon({"name":"WalletAdd01Icon","figmaName":"wallet-add-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M16.002 13.5a1.5 1.5 0 1 0 3 0 1.5 1.5 0 0 0-3 0Z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M2.002 11c0-3.771 0-5.657 1.172-6.828S6.23 3 10.002 3h4c.93 0 1.395 0 1.776.102A3 3 0 0 1 17.9 5.224c.102.381.102.846.102 1.776m-8 0h6c2.828 0 4.243 0 5.121.879.879.878.879 2.293.879 5.121v2c0 2.828 0 4.243-.879 5.121-.878.879-2.293.879-5.121.879h-3.501"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M10 17H6m0 0H2m4 0v4m0-4v-4"}]]);

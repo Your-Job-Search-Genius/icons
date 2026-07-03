@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const CircleArrowReload02SharpSolidIcon = createIcon({"name":"CircleArrowReload02SharpSolidIcon","figmaName":"circle-arrow-reload-02-sharp","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M12 1.25c5.937 0 10.75 4.813 10.75 10.75S17.937 22.75 12 22.75 1.25 17.937 1.25 12 6.063 1.25 12 1.25M8.002 11.502a1.08 1.08 0 0 0-1.08 1.08v1.12a2.08 2.08 0 0 0 2.08 2.08h4.143v.72a1.08 1.08 0 0 0 1.947.643l1.333-1.8a1.08 1.08 0 0 0-.867-1.723H9.082v-1.04a1.08 1.08 0 0 0-1.08-1.08m2.116-5.025a1.08 1.08 0 0 0-1.206.382l-1.334 1.8a1.08 1.08 0 0 0 .868 1.723h6.476v.54a1.08 1.08 0 0 0 2.16 0v-.62a2.08 2.08 0 0 0-2.08-2.08h-4.143v-.72c0-.466-.298-.88-.74-1.025"}]]);

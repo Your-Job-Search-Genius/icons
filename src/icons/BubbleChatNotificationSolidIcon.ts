@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const BubbleChatNotificationSolidIcon = createIcon({"name":"BubbleChatNotificationSolidIcon","figmaName":"bubble-chat-notification","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M14.75 5.5a4.25 4.25 0 1 1 8.5 0 4.25 4.25 0 0 1-8.5 0"}],["path",{"fill":"currentColor","d":"M11.5 1.25c.777 0 1.537.08 2.269.23.388.08.582.121.644.265s-.057.334-.295.715a5.75 5.75 0 0 0 7.206 8.3c.422-.186.633-.279.768-.194s.14.288.153.694q.005.153.005.306c0 5.729-4.845 10.318-10.75 10.318-.696 0-1.39-.064-2.073-.193a12 12 0 0 0-.5-.087.35.35 0 0 0-.2.035 13 13 0 0 0-.5.26 7.25 7.25 0 0 1-4.713.73.75.75 0 0 1-.445-1.21c.468-.574.79-1.268.932-2.014.038-.205-.049-.484-.316-.756C1.87 16.807.75 14.314.75 11.566.75 5.838 5.595 1.25 11.5 1.25M7.5 11a1 1 0 1 0 0 2h.009a1 1 0 1 0 0-2zm3.995 0a1 1 0 0 0 0 2h.01a1 1 0 0 0 0-2z"}]]);

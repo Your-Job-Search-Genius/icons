@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const DashboardCircleSettingsIcon = createIcon({"name":"DashboardCircleSettingsIcon","figmaName":"dashboard-circle-settings","viewBox":"0 0 24 24","width":24,"height":24}, [["circle",{"cx":6.25,"cy":6.25,"r":4.25,"stroke":"currentColor","strokeWidth":1.5}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M18 9.357V10.5m0-1.143a2.93 2.93 0 0 1-2.427-1.272m4.854-3.17a2.8 2.8 0 0 1 0 3.17A2.93 2.93 0 0 1 18 9.357m0-5.714a2.93 2.93 0 0 1 2.427 1.272M18 3.643a2.93 2.93 0 0 0-2.427 1.272M18 3.643V2.5m3.5 1.714-1.073.701M14.5 8.785l1.073-.7M14.5 4.215l1.073.7m5.927 3.87-1.073-.7m-4.854-3.17a2.8 2.8 0 0 0 0 3.17"}],["circle",{"cx":17.75,"cy":17.75,"r":4.25,"stroke":"currentColor","strokeWidth":1.5}],["circle",{"cx":6.25,"cy":17.75,"r":4.25,"stroke":"currentColor","strokeWidth":1.5}]]);

@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const ArrowVerticalSharpSolidIcon = createIcon({"name":"ArrowVerticalSharpSolidIcon","figmaName":"arrow-vertical-sharp","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M12 21a1 1 0 0 1-1-1V4a1 1 0 1 1 2 0v16a1 1 0 0 1-1 1","clipRule":"evenodd"}],["path",{"fill":"currentColor","d":"M8.083 17.6A1 1 0 0 1 9 17h6a1 1 0 0 1 .732 1.681l-2.32 2.493a5 5 0 0 1-.472.465c-.193.159-.507.361-.94.361s-.747-.202-.94-.36a5 5 0 0 1-.471-.466l-2.32-2.493a1 1 0 0 1-.186-1.08"}],["path",{"fill":"currentColor","d":"M8.083 6.4a1 1 0 0 1 .185-1.081l2.32-2.493c.142-.152.309-.332.472-.465.193-.159.507-.361.94-.361s.747.202.94.36c.163.134.33.314.471.466l2.32 2.493A1 1 0 0 1 15 7H9a1 1 0 0 1-.917-.6"}]]);

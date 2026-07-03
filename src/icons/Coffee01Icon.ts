@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Coffee01Icon = createIcon({"name":"Coffee01Icon","figmaName":"coffee-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"m5 7 1.76 10.405c.306 1.808.46 2.713 1 3.337 1.454 1.677 7.026 1.677 8.48 0 .54-.624.694-1.529 1-3.337L19 7"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"m5 7 .743-1.712c.609-1.404.913-2.106 1.548-2.502 1.59-.993 7.654-1.102 9.418 0 .635.396.94 1.098 1.548 2.502L19 7"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M4 7h16"}],["ellipse",{"cx":12,"cy":14.5,"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"rx":2,"ry":2.5}]]);

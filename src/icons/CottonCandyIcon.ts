@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const CottonCandyIcon = createIcon({"name":"CottonCandyIcon","figmaName":"cotton-candy","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M16.314 3.95a2.927 2.927 0 0 0-5.403-.282c-.31.65-1.089 1.242-1.807 1.308a3.415 3.415 0 0 0-.816 6.625m8.026-7.652a2.93 2.93 0 0 1-.69 3.048m.807 4.711a2.93 2.93 0 0 0 2.382 1.653 2.927 2.927 0 0 0 2.33-4.985c-.307-.307-.307-1.072 0-1.38a2.927 2.927 0 1 0-4.83-3.047m-4.139 7.877a2.927 2.927 0 1 0 0 4.139.222.222 0 0 1 .353.061 3.415 3.415 0 0 0 6.286-2.665"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"m2 22 6-6"}]]);

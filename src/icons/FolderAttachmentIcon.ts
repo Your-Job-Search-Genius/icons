@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const FolderAttachmentIcon = createIcon({"name":"FolderAttachmentIcon","figmaName":"folder-attachment","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M12.5 20.5H12c-4.714 0-7.071 0-8.536-1.465C2 17.572 2 15.215 2 10.5V7.444c0-1.816 0-2.724.38-3.406A3 3 0 0 1 3.538 2.88c.682-.38 1.59-.38 3.406-.38 1.164 0 1.746 0 2.255.191 1.163.436 1.643 1.493 2.168 2.542L12 6.5m-5 0h9.75c2.107 0 3.16 0 3.917.506a3 3 0 0 1 .827.827C22 8.59 22 9.393 22 11.5"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M21 15.962v2.461c0 1.7-1.343 3.077-3 3.077s-3-1.378-3-3.077V15.04c0-.85.672-1.539 1.5-1.539s1.5.689 1.5 1.539v3.384"}]]);

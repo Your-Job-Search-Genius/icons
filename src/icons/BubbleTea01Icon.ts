@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const BubbleTea01Icon = createIcon({"name":"BubbleTea01Icon","figmaName":"bubble-tea-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"m18 9-1.478 9.414c-.25 1.585-.374 2.378-.936 2.85-1.2 1.009-6.039.953-7.172 0-.562-.472-.687-1.265-.936-2.85L6 9"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"m6 9 .514-1.286a5.908 5.908 0 0 1 10.972 0L18 9"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M5 9h14"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"m13 9 3-7"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10.009 16.5H10m4 1.5h-.009m-.98-4h-.009"}]]);

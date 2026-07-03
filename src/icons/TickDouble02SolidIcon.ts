@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const TickDouble02SolidIcon = createIcon({"name":"TickDouble02SolidIcon","figmaName":"tick-double-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M17.19 5.777a1 1 0 0 1 .033 1.413l-6.063 6.352a1 1 0 1 1-1.446-1.38l6.063-6.352a1 1 0 0 1 1.414-.033M1.81 13.11a1 1 0 0 1 1.413.033l2.81 2.943a1 1 0 0 1 1.202 1.568l-.512.537a1 1 0 0 1-1.446 0l-3.5-3.667a1 1 0 0 1 .033-1.414","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M22.19 5.777a1 1 0 0 1 .033 1.413l-10.5 11a1 1 0 0 1-1.446 0l-3.5-3.666a1 1 0 1 1 1.446-1.381L11 16.052 20.777 5.81a1 1 0 0 1 1.413-.033","clipRule":"evenodd"}]]);

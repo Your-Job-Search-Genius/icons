@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const ColorPickerIcon = createIcon({"name":"ColorPickerIcon","figmaName":"color-picker","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m14.29 13.276-5.898 5.897c-.901.901-1.352 1.352-1.925 1.59C5.893 21 5.256 21 3.98 21H3v-.98c0-1.276 0-1.913.237-2.487.238-.573.689-1.024 1.59-1.925l2.332-2.332L13.435 7m-6.276 6.276h7.13m0 0L17 10.565"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M15.611 4.791 19.21 8.39 20.82 10m-1.611-1.611.861-.862c.293-.293.44-.439.541-.582a2.1 2.1 0 0 0 0-2.434c-.102-.143-.248-.289-.54-.582-.293-.292-.44-.438-.582-.54a2.1 2.1 0 0 0-2.434 0c-.143.102-.29.248-.582.54l-.862.862M14 3.18l1.611 1.611"}]]);

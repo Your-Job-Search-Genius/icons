@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const LocationShare01SolidIcon = createIcon({"name":"LocationShare01SolidIcon","figmaName":"location-share-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M3.232 6.084A1 1 0 0 1 3.749 7.4a9.03 9.03 0 0 0 0 7.202 1 1 0 0 1-1.833.8 11.03 11.03 0 0 1 0-8.801 1 1 0 0 1 1.316-.517m17.536 0a1 1 0 0 1 1.316.517c1.221 2.8 1.221 6 0 8.8a1 1 0 0 1-1.833-.799 9.03 9.03 0 0 0 0-7.202 1 1 0 0 1 .517-1.316","clipRule":"evenodd"}],["path",{"fill":"currentColor","d":"M12.001 3.25c3.05 0 5.948 1.855 7.158 4.766 1.126 2.706.515 5.018-.749 6.987-1.043 1.626-2.57 3.074-3.93 4.361v.001q-.36.342-.702.67a2.563 2.563 0 0 1-3.555 0l-.001-.003q-.361-.348-.745-.712c-1.345-1.278-2.851-2.712-3.884-4.318-1.266-1.967-1.878-4.277-.751-6.986C6.052 5.105 8.95 3.25 12 3.25M12 8a3 3 0 1 0 0 6 3 3 0 0 0 0-6"}]]);

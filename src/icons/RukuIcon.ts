@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const RukuIcon = createIcon({"name":"RukuIcon","figmaName":"ruku","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m15.5 7.762 2.388.227c1.399.132 2.612-.908 2.612-2.24 0-1.242-1.064-2.249-2.375-2.249H15.5"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m12.091 6.5-2.07 3.883v4.515m0 0V18.5c-3.236 0-5.174-.667-6.521-1V9.61c0-3.927 3.217-7.11 7.185-7.11 1.563 0 2.745.19 3.572.42.931.257 1.475 1.096 1.664 2.034a4 4 0 0 1-.128 2.054z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M8.5 18.5v3m0 0h-1c-.943 0-1.414 0-1.707-.293S5.5 20.443 5.5 19.5v-1m3 3H10"}]]);

@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const StepOverIcon = createIcon({"name":"StepOverIcon","figmaName":"step-over","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m14 14 1.586 1.84c.667.773 1 1.16 1.414 1.16s.747-.387 1.414-1.16L20 14"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M17 17v-6c0-2.809 0-4.213-.674-5.222a4 4 0 0 0-1.104-1.104C14.213 4 12.81 4 10 4s-4.213 0-5.222.674a4 4 0 0 0-1.104 1.104C3 6.787 3 8.19 3 11v6"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M7 20h6"}]]);

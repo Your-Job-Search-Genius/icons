@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const DressingTable01SolidIcon = createIcon({"name":"DressingTable01SolidIcon","figmaName":"dressing-table-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M12 3a5 5 0 0 0-5 5v6a1 1 0 1 1-2 0V8a7 7 0 0 1 14 0v6a1 1 0 1 1-2 0V8a5 5 0 0 0-5-5","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M11.53 4.47a.75.75 0 0 1 0 1.06l-1 1a.75.75 0 1 1-1.06-1.06l1-1a.75.75 0 0 1 1.06 0m2 1a.75.75 0 0 1 0 1.06l-2 2a.75.75 0 1 1-1.06-1.06l2-2a.75.75 0 0 1 1.06 0","clipRule":"evenodd"}],["path",{"fill":"currentColor","d":"M19 23a1 1 0 0 0 1-1v-7a1 1 0 1 0 0-2H4a1 1 0 1 0 0 2v7a1 1 0 1 0 2 0v-2.25h12V22a1 1 0 0 0 1 1m-7.5-5.75a.75.75 0 0 1 0-1.5h1a.75.75 0 0 1 0 1.5z"}]]);

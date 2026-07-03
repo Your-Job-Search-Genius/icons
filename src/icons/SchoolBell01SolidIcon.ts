@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const SchoolBell01SolidIcon = createIcon({"name":"SchoolBell01SolidIcon","figmaName":"school-bell-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M10.5 1.25a8.75 8.75 0 0 1 8.227 5.763c.113.31.17.466.1.588-.071.12-.26.153-.639.218a4.751 4.751 0 0 0-2.405 8.176c.281.26.423.389.416.528-.006.14-.138.24-.401.44A8.75 8.75 0 1 1 10.5 1.25m0 6.75a2 2 0 1 0 0 4 2 2 0 0 0 0-4"}],["path",{"fill":"currentColor","d":"M19 9.25a3.25 3.25 0 0 0-3.25 3.253 3.252 3.252 0 0 0 3.88 3.192c-1.271 2.826-4.394 4.75-8.38 5.033v-2.965a1 1 0 1 0-2 0v3.04c0 .202 0 .447.03.658.037.261.138.609.445.897.3.28.643.362.911.384.21.018.45.002.64-.011l.04-.003c5.847-.388 10.793-4.052 10.931-9.72l.003-.004v-.5A3.25 3.25 0 0 0 19 9.25"}]]);

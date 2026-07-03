@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const MoneyAdd01Icon = createIcon({"name":"MoneyAdd01Icon","figmaName":"money-add-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M22 11c0-3.537 0-5.306-1.053-6.487a4.4 4.4 0 0 0-.555-.522C19.138 3 17.26 3 13.5 3h-3c-3.759 0-5.638 0-6.893.99q-.301.24-.554.523C2 5.693 2 7.463 2 11s0 5.306 1.053 6.487q.253.284.554.522C4.862 19 6.741 19 10.5 19H12"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M18.5 21v-7M15 17.5h7"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M5.5 11h-.009"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M14.5 11a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0Z"}]]);

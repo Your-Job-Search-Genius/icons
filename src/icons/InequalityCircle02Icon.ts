@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const InequalityCircle02Icon = createIcon({"name":"InequalityCircle02Icon","figmaName":"inequality-circle-02","viewBox":"0 0 24 24","width":24,"height":24}, [["circle",{"cx":12,"cy":12,"r":10,"stroke":"currentColor","strokeWidth":1.5}],["path",{"fill":"currentColor","d":"M16 17.25a.75.75 0 0 0 0-1.5zm-8-1.5a.75.75 0 0 0 0 1.5zm0-3a.75.75 0 0 0 0 1.5zm7.838-.104.506-.554-.01-.008zm-5.342-5.709a.75.75 0 1 0-.992 1.126L10 7.5zM16 16.5v-.75H8v1.5h8zm-8-3v.75h7.45v-1.5H8zm7.838-.854.496-.562-5.838-5.147L10 7.5l-.496.563 5.838 5.146zm-.387.854v.75a1.29 1.29 0 0 0 1.189-.748c.206-.454.13-1.02-.296-1.41l-.506.554-.505.555a.27.27 0 0 1-.078-.148.3.3 0 0 1 .02-.172c.043-.095.127-.131.175-.131z"}]]);

@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Upload05SolidIcon = createIcon({"name":"Upload05SolidIcon","figmaName":"upload-05","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M4 5a1 1 0 0 0 1 1h14a1 1 0 1 0 0-2H5a1 1 0 0 0-1 1","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M13.006 19a1 1 0 0 1-2 0v-6.5h-.594c-.176 0-.392 0-.568-.022H9.84c-.127-.016-.703-.088-.977-.653-.275-.567.027-1.067.092-1.176l.002-.004c.093-.153.227-.323.337-.464l.024-.03c.294-.376.676-.86 1.057-1.251.19-.195.407-.397.638-.556.205-.14.555-.344.986-.344s.78.203.986.344c.231.16.448.36.638.556.38.39.762.875 1.057 1.25l.024.03c.11.142.244.312.337.465l.002.004c.065.109.367.609.092 1.176-.274.565-.85.637-.976.653h-.004c-.176.022-.392.022-.568.022h-.582z","clipRule":"evenodd"}]]);

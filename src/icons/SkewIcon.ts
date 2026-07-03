@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const SkewIcon = createIcon({"name":"SkewIcon","figmaName":"skew","viewBox":"0 0 24 24","width":24,"height":24}, [["circle",{"cx":9,"cy":4,"r":2,"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5}],["circle",{"cx":19,"cy":7,"r":2,"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5}],["circle",{"cx":20,"cy":20,"r":2,"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5}],["circle",{"cx":4,"cy":18,"r":2,"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"m10.917 4.575 6.168 1.85m2.07 2.57.693 9.011m-1.832 1.746-12.03-1.504M8.328 5.884 4.674 16.116"}]]);

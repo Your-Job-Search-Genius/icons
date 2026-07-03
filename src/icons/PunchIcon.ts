@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const PunchIcon = createIcon({"name":"PunchIcon","figmaName":"punch","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M6.6 13.782v-2.283m0 2.283a1.79 1.79 0 0 1-1.8 1.778A1.79 1.79 0 0 1 3 13.782v-.783c0-3.75 0-5.624.955-6.938A5 5 0 0 1 5.06 4.954C6.375 4 8.251 4 12 4s5.625 0 6.939.954a5 5 0 0 1 1.106 1.107C21 7.375 21 9.26 21 13.029c0 1.527 0 2.29-.157 2.919a5.37 5.37 0 0 1-3.95 3.904c-.408.099-1.11.134-1.968.147-.846 0-1.575.076-1.575-1 0-1.016.327-2.105 1.575-2.105h.675m-9-3.112v1.334a1.79 1.79 0 0 0 1.8 1.778c.994 0 1.8-.796 1.8-1.778m0 0v-4.002m0 4.002v.796A1.79 1.79 0 0 0 12 17.69c.994 0 1.8-.796 1.8-1.778v-.796m3.6-3.617v3.617a1.79 1.79 0 0 1-1.8 1.778m-1.8-1.778v-4.002m0 4.002a1.79 1.79 0 0 0 1.8 1.778"}]]);

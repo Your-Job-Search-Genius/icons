@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const PathfinderDivideIcon = createIcon({"name":"PathfinderDivideIcon","figmaName":"pathfinder-divide","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M2 8.5c0-2.816 0-4.225.764-5.182a3.5 3.5 0 0 1 .554-.554C4.275 2 5.684 2 8.5 2s4.225 0 5.182.764q.309.245.554.554C15 4.275 15 5.684 15 8.5s0 4.225-.764 5.182a3.5 3.5 0 0 1-.554.554C12.725 15 11.316 15 8.5 15s-4.225 0-5.182-.764a3.5 3.5 0 0 1-.554-.554C2 12.725 2 11.316 2 8.5Z"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M9 15.5c0-2.816 0-4.225.764-5.182a3.5 3.5 0 0 1 .554-.554C11.275 9 12.684 9 15.5 9s4.225 0 5.182.764q.308.245.554.554C22 11.275 22 12.684 22 15.5s0 4.225-.764 5.182a3.5 3.5 0 0 1-.554.554C19.725 22 18.317 22 15.5 22c-2.816 0-4.225 0-5.182-.764a3.5 3.5 0 0 1-.554-.554C9 19.725 9 18.317 9 15.5Z"}]]);

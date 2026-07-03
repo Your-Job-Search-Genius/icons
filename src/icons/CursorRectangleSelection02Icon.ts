@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const CursorRectangleSelection02Icon = createIcon({"name":"CursorRectangleSelection02Icon","figmaName":"cursor-rectangle-selection-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M9.31 9.378C10.8 7.773 22.01 11.705 22 13.14c-.01 1.628-4.378 2.128-5.588 2.468-.728.204-.923.414-1.09 1.177-.761 3.457-1.143 5.176-2.012 5.215-1.387.061-5.455-11.055-4-12.622Z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M2 9.2v3.6M12.8 2H9.2M7.5 20h1M20 7.5v1M2.133 4.699c.155-.727.415-1.274.854-1.712.426-.426.954-.684 1.652-.84m15.228 2.552c-.155-.727-.415-1.274-.854-1.712-.417-.417-.932-.673-1.608-.83M4.64 19.853c-.698-.156-1.226-.414-1.652-.84-.43-.43-.69-.965-.845-1.673"}]]);

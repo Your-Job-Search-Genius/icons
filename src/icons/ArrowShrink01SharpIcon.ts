@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const ArrowShrink01SharpIcon = createIcon({"name":"ArrowShrink01SharpIcon","figmaName":"arrow-shrink -01-sharp","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M10.5 10.5 3 3"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M13.5 13.5 21 21"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m7 10.817 3.035.167c.469.026.703.039.845-.105.142-.143.13-.379.104-.85L10.818 7"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m13.187 17-.17-3.039c-.027-.466-.04-.7.103-.841.142-.142.377-.13.846-.104L17 13.18"}]]);

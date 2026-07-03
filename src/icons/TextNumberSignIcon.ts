@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const TextNumberSignIcon = createIcon({"name":"TextNumberSignIcon","figmaName":"text-number-sign","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M2 20V7.022C2 5.105 2 4 2.439 4c.521 0 .896.66 1.811 2.273l6.5 11.454C11.665 19.34 12.023 20 12.56 20c.44 0 .44-1.105.44-3.022V4"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M16 13h6"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M16.58 4.58c.775-.773 4.065-.773 4.84 0 .773.775.773 4.066 0 4.84-.775.774-4.065.774-4.84 0-.773-.774-.773-4.065 0-4.84"}]]);

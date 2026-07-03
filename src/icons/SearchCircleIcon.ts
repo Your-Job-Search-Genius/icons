@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const SearchCircleIcon = createIcon({"name":"SearchCircleIcon","figmaName":"search-circle","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":1.5,"d":"M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12s4.477 10 10 10 10-4.477 10-10Z"}],["path",{"fill":"currentColor","d":"M15.47 16.53a.75.75 0 1 0 1.06-1.06L16 16zM14.4 14.4l-.53.53 1.6 1.6L16 16l.53-.53-1.6-1.6zm.8-2.8h.75a4.35 4.35 0 0 0-4.35-4.35v1.5a2.85 2.85 0 0 1 2.85 2.85zM11.6 8v-.75a4.35 4.35 0 0 0-4.35 4.35h1.5a2.85 2.85 0 0 1 2.85-2.85zM8 11.6h-.75a4.35 4.35 0 0 0 4.35 4.35v-1.5a2.85 2.85 0 0 1-2.85-2.85zm3.6 3.6v.75a4.35 4.35 0 0 0 4.35-4.35h-1.5a2.85 2.85 0 0 1-2.85 2.85z"}]]);

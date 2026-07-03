@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const BabyBed01SolidIcon = createIcon({"name":"BabyBed01SolidIcon","figmaName":"baby-bed-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M8 6a1 1 0 0 1 1 1v8a1 1 0 1 1-2 0V7a1 1 0 0 1 1-1m4 0a1 1 0 0 1 1 1v8a1 1 0 1 1-2 0V7a1 1 0 0 1 1-1m4 0a1 1 0 0 1 1 1v8a1 1 0 1 1-2 0V7a1 1 0 0 1 1-1","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M1 4a1 1 0 0 1 1-1 3 3 0 0 1 3 3v14a1 1 0 1 1-2 0V6a1 1 0 0 0-1-1 1 1 0 0 1-1-1m18 2a3 3 0 0 1 3-3 1 1 0 1 1 0 2 1 1 0 0 0-1 1v14a1 1 0 1 1-2 0z","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M3 7a1 1 0 0 1 1-1h16a1 1 0 1 1 0 2H4a1 1 0 0 1-1-1","clipRule":"evenodd"}],["path",{"fill":"currentColor","d":"M3 15a1 1 0 0 1 1-1h16a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"}]]);

@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const BorderRight02Icon = createIcon({"name":"BorderRight02Icon","figmaName":"border-right-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M6.333 2.751c-1.048.194-1.82.536-2.43 1.14-.61.605-.954 1.37-1.15 2.409M14 2.505q-.883-.006-1.917-.005-1.034-.001-1.916.005M2.505 10.1q-.006.875-.005 1.9-.001 1.025.005 1.9m.249 3.8c.195 1.04.54 1.804 1.15 2.409s1.381.946 2.43 1.14m7.666.246q-.883.006-1.917.005-1.034.001-1.916-.005"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M17.5 2.5c1.094.199 1.899.55 2.535 1.17C21.5 5.1 21.5 7.4 21.5 12s0 6.9-1.465 8.33c-.636.62-1.441.972-2.535 1.17"}]]);

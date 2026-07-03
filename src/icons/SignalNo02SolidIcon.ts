@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const SignalNo02SolidIcon = createIcon({"name":"SignalNo02SolidIcon","figmaName":"signal-no-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M3 18a1 1 0 1 0 0 2h3a1 1 0 1 0 0-2z"}],["path",{"fill":"currentColor","d":"M9.5 19a1 1 0 0 1 1-1h3a1 1 0 1 1 0 2h-3a1 1 0 0 1-1-1"}],["path",{"fill":"currentColor","d":"M17 19a1 1 0 0 1 1-1h3a1 1 0 1 1 0 2h-3a1 1 0 0 1-1-1"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M6.793 4.293a1 1 0 0 1 1.414 0L11.5 7.586l3.293-3.293a1 1 0 1 1 1.414 1.414L12.914 9l3.293 3.293a1 1 0 0 1-1.414 1.414L11.5 10.414l-3.293 3.293a1 1 0 0 1-1.414-1.414L10.086 9 6.793 5.707a1 1 0 0 1 0-1.414","clipRule":"evenodd"}]]);

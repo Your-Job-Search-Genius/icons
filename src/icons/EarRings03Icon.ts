@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const EarRings03Icon = createIcon({"name":"EarRings03Icon","figmaName":"ear-rings-03","viewBox":"0 0 24 24","width":24,"height":24}, [["circle",{"cx":17,"cy":7,"r":4,"stroke":"currentColor","strokeWidth":1.5}],["circle",{"cx":7,"cy":17,"r":4,"stroke":"currentColor","strokeWidth":1.5}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M13 7H3"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M21 17H11"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M5 4.5c.275-1.572 3 .924 3 2.5s-2.725 4.072-3 2.5"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M19 14.5c-.275-1.572-3 .924-3 2.5s2.725 4.072 3 2.5"}]]);

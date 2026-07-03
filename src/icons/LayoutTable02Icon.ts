@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const LayoutTable02Icon = createIcon({"name":"LayoutTable02Icon","figmaName":"layout-table-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M20.107 20.109c-1.391 1.391-3.63 1.391-8.109 1.391-4.478 0-6.717 0-8.109-1.391C2.5 18.717 2.5 16.479 2.5 12c-.001-4.478-.001-6.718 1.39-8.109S7.52 2.5 11.998 2.5s6.718 0 8.109 1.391 1.391 3.63 1.391 8.109c0 4.478 0 6.718-1.391 8.109"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M8.998 21.5v-19"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M21.498 8h-19"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M21.498 16h-19"}]]);

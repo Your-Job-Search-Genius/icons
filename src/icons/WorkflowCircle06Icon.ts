@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const WorkflowCircle06Icon = createIcon({"name":"WorkflowCircle06Icon","figmaName":"workflow-circle-06","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M9 5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M21 14a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M9 19a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M6 8v8"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M15 14h-3a6 6 0 0 1-6-6"}]]);

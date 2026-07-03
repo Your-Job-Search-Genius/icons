@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const SwipeUp07Icon = createIcon({"name":"SwipeUp07Icon","figmaName":"swipe-up-07","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M18.5 12v2.667c0 2.173 0 3.26-.331 4.125a5 5 0 0 1-2.867 2.876C14.44 22 13.356 22 11.19 22c-1.137 0-1.705 0-2.233-.117a5 5 0 0 1-2.183-1.094c-.41-.355-.75-.81-1.433-1.722l-3.004-4.018a1.696 1.696 0 0 1 .033-2.073 1.683 1.683 0 0 1 2.51-.14l1.62 1.626V4.5a1.5 1.5 0 1 1 3 0V8m0 0h1a2 2 0 0 1 2 2m-3-2v3m3-1v1m0-1V9h1a2 2 0 0 1 2 2m0 0v1m0-1v-1l1.329.222a2 2 0 0 1 1.671 1.972V13"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M18.5 2v6m0-6c-.7 0-2.009 1.994-2.5 2.5M18.5 2c.7 0 2.009 1.994 2.5 2.5"}]]);

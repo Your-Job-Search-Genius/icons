@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const GitMergeIcon = createIcon({"name":"GitMergeIcon","figmaName":"git-merge","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M7.75 8a.75.75 0 0 0-1.5 0zm-1.5 8a.75.75 0 0 0 1.5 0zM15 12.75a.75.75 0 0 0 0-1.5zM7.102 9.776l.725-.194zm2.122 2.122-.195.724zM7 8h-.75v8h1.5V8zm4 4v.75h4v-1.5h-4zM7 8h-.75c0 .882-.006 1.47.128 1.97l.724-.194.725-.194C7.757 9.32 7.75 8.978 7.75 8zm4 4v-.75c-.978 0-1.32-.006-1.582-.077l-.194.725-.195.724c.501.134 1.09.128 1.971.128zM7.102 9.776l-.724.195a3.75 3.75 0 0 0 2.651 2.651l.195-.724.194-.725a2.25 2.25 0 0 1-1.591-1.59z"}],["circle",{"cx":7,"cy":18,"r":2,"stroke":"currentColor","strokeWidth":1.5}],["circle",{"cx":7,"cy":6,"r":2,"stroke":"currentColor","strokeWidth":1.5}],["circle",{"cx":17,"cy":12,"r":2,"stroke":"currentColor","strokeWidth":1.5}]]);

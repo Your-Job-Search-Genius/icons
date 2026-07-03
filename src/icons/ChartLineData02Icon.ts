@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const ChartLineData02Icon = createIcon({"name":"ChartLineData02Icon","figmaName":"chart-line-data-02","viewBox":"0 0 24 24","width":24,"height":24}, [["circle",{"cx":8.5,"cy":10.5,"r":1.5,"stroke":"currentColor","strokeWidth":1.5}],["circle",{"cx":14.5,"cy":15.5,"r":1.5,"stroke":"currentColor","strokeWidth":1.5}],["circle",{"cx":18.5,"cy":7.5,"r":1.5,"stroke":"currentColor","strokeWidth":1.5}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M15.434 14.296 18 9m-8.417 2.568 3.62 2.728M3 19l4.59-7.12"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M20 21H9c-3.3 0-4.95 0-5.975-1.025S2 17.3 2 14V3"}]]);

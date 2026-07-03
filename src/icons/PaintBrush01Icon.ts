@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const PaintBrush01Icon = createIcon({"name":"PaintBrush01Icon","figmaName":"paint-brush-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M3.89 20.873 3 21l.127-.89c.194-1.356.29-2.034.591-2.635s.785-1.085 1.753-2.053L16.983 3.91c.423-.423.635-.635.863-.748a1.55 1.55 0 0 1 1.38 0c.229.113.44.325.864.748.424.424.635.635.749.864.215.435.215.945 0 1.38-.114.228-.325.44-.75.863L8.58 18.53c-.969.968-1.453 1.452-2.054 1.753s-1.279.397-2.634.59"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m6 15 3 3m-.5-5.5 3 3"}]]);

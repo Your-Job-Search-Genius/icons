@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const ChartRoseIcon = createIcon({"name":"ChartRoseIcon","figmaName":"chart-rose","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M9.713 7.975c-3.108 0-5.628 2.255-5.628 5.038h5.628z"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M2.535 15.926c1.238 2.442 3.986 4.14 7.177 4.14v-7.053h-4.84c-1.464 0-2.196 0-2.64.719-.446.72-.196 1.21.303 2.194Z"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M12.714 21.677c4.129-1.146 7.128-4.592 7.128-8.664H9.712v6.046c0 1.473 0 2.21.6 2.664.601.453 1.202.287 2.402-.046Z"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M21.64 10.034c-1.187-3.82-4.602-6.809-8.913-7.774-1.25-.28-1.874-.42-2.445.034s-.57 1.188-.57 2.658v8.06h9.342c1.48 0 2.22 0 2.675-.614.456-.614.274-1.197-.088-2.364Z"}]]);

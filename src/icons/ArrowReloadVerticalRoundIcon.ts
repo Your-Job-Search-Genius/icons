@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const ArrowReloadVerticalRoundIcon = createIcon({"name":"ArrowReloadVerticalRoundIcon","figmaName":"arrow-reload-vertical-round","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M5.5 3.5v11c0 3.713 2.685 6.5 6.5 6.5"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M18.5 20.5v-11C18.5 5.786 15.815 3 12 3"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M21 18s-1.841 2.5-2.5 2.5S16 18 16 18"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M8 5.5S6.159 3 5.5 3 3 5.5 3 5.5"}]]);

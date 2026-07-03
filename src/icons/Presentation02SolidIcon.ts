@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Presentation02SolidIcon = createIcon({"name":"Presentation02SolidIcon","figmaName":"presentation-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M2.25 17.5h19.5V7.6c0-3.111 0-4.667-.952-5.633S18.314 1 15.25 1h-6.5c-3.064 0-4.596 0-5.548.967-.952.966-.952 2.522-.952 5.633z"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M1 17a1 1 0 0 1 1-1h20a1 1 0 1 1 0 2H2a1 1 0 0 1-1-1","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M11 22v-5h2v5a1 1 0 1 1-2 0","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M11.486 18.143a1 1 0 0 1 1.029 0l5 3a1 1 0 0 1-1.03 1.715L12 20.166l-4.485 2.692a1 1 0 0 1-1.03-1.716z","clipRule":"evenodd"}]]);

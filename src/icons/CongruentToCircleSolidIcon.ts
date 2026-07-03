@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const CongruentToCircleSolidIcon = createIcon({"name":"CongruentToCircleSolidIcon","figmaName":"congruent-to-circle","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M12 1.25c5.937 0 10.75 4.813 10.75 10.75S17.937 22.75 12 22.75 1.25 17.937 1.25 12 6.063 1.25 12 1.25M7.5 15a1 1 0 0 0 0 2h9a1 1 0 1 0 0-2zm0-3a1 1 0 0 0 0 2h9a1 1 0 1 0 0-2zm1.936-4.986c-1.199.107-2.244.83-2.836 2.055a1 1 0 0 0 1.8.87c.308-.636.763-.892 1.214-.933.484-.044 1.109.152 1.69.716q.034.033.071.063c.908.849 2.054 1.307 3.19 1.205 1.198-.107 2.243-.83 2.835-2.055a1 1 0 1 0-1.8-.87c-.308.636-.762.892-1.214.933-.484.043-1.109-.152-1.69-.716a1 1 0 0 0-.071-.063c-.908-.849-2.054-1.307-3.19-1.205"}]]);

@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const CrowdfundingSolidIcon = createIcon({"name":"CrowdfundingSolidIcon","figmaName":"crowdfunding","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M8.5 5a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"}],["circle",{"cx":12,"cy":20.5,"r":2,"fill":"currentColor"}],["circle",{"cx":20,"cy":20.5,"r":2,"fill":"currentColor"}],["circle",{"cx":4,"cy":20.5,"r":2,"fill":"currentColor"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M12 10.5a1 1 0 0 1 1 1v1h4.5c1.713 0 3.5 1.146 3.5 3a1 1 0 1 1-2 0c0-.356-.452-1-1.5-1H13v1a1 1 0 1 1-2 0v-1H6.5c-1.048 0-1.5.644-1.5 1a1 1 0 1 1-2 0c0-1.854 1.787-3 3.5-3H11v-1a1 1 0 0 1 1-1","clipRule":"evenodd"}]]);

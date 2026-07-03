@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const ImageAdd01Icon = createIcon({"name":"ImageAdd01Icon","figmaName":"image-add-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M22 6.75a.75.75 0 0 0 0-1.5zm-8-1.5a.75.75 0 0 0 0 1.5zM18.75 2a.75.75 0 0 0-1.5 0zm-1.5 8a.75.75 0 0 0 1.5 0zM22 6v-.75h-4v1.5h4zm-4 0v-.75h-4v1.5h4zm0-4h-.75v4h1.5V2zm0 4h-.75v4h1.5V6z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M11.5 3C7.022 3 4.782 3 3.391 4.391S2 8.021 2 12.5c0 4.478 0 6.718 1.391 8.109S7.021 22 11.5 22c4.478 0 6.718 0 8.109-1.391S21 16.979 21 12.5V12"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M5 21c4.21-4.751 8.941-11.052 16-6.327"}]]);

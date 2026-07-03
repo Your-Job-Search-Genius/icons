@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Attachment01SolidIcon = createIcon({"name":"Attachment01SolidIcon","figmaName":"attachment-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M9.749 4.986A3.368 3.368 0 1 0 4.986 9.75l1.544 1.544a1 1 0 1 1-1.414 1.414l-1.544-1.544a5.368 5.368 0 0 1 7.591-7.59l9.265 9.264a5.368 5.368 0 0 1-7.591 7.59l-3.474-3.474a3.73 3.73 0 0 1 5.274-5.274l1.93 1.93a1 1 0 0 1-1.414 1.414l-1.93-1.93a1.73 1.73 0 0 0-2.446 2.446l3.474 3.475a3.368 3.368 0 0 0 4.763-4.763z","clipRule":"evenodd"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"m15.86 14.316-1.93-1.93a2.73 2.73 0 1 0-3.861 3.86l3.474 3.474a4.37 4.37 0 0 0 6.177 0"}]]);

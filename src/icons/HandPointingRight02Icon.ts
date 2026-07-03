@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const HandPointingRight02Icon = createIcon({"name":"HandPointingRight02Icon","figmaName":"hand-pointing-right-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M10 7.416h3.5m0 0h6.25a1.75 1.75 0 1 1 0 3.5H14.5l-.478 3.077c-.289 1.929-.434 2.893-.84 3.572-.673 1.122-1.682 1.935-3.156 1.935-1.026 0-1.715-.254-3.565-.87-1.174-.392-1.76-.587-2.225-.906a4 4 0 0 1-1.58-2.193c-.156-.541-.156-1.16-.156-2.397v-1.405c0-1.785 0-2.677.335-3.443a4 4 0 0 1 .593-.96c.535-.642 1.333-1.04 2.93-1.839 1.294-.647 1.94-.97 2.612-.986a3 3 0 0 1 .895.115c.646.184 1.19.66 2.28 1.614z"}]]);

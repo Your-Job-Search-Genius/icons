@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const SquareArrowReload02SharpIcon = createIcon({"name":"SquareArrowReload02SharpIcon","figmaName":"square-arrow-reload-02-sharp","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M2.5 12c0-4.478 0-6.718 1.391-8.109S7.521 2.5 12 2.5c4.478 0 6.718 0 8.109 1.391S21.5 7.521 21.5 12c0 4.478 0 6.718-1.391 8.109S16.479 21.5 12 21.5c-4.478 0-6.718 0-8.109-1.391S2.5 16.479 2.5 12Z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M16.5 11.5V11c0-.943 0-1.414-.293-1.707S15.443 9 14.5 9H10c-.873 0-1.309 0-1.447-.276-.138-.277.123-.626.647-1.324l.3-.4m-2 5.5v.5c0 .943 0 1.414.293 1.707S8.557 15 9.5 15H14c.873 0 1.309 0 1.447.276.138.277-.123.626-.647 1.324l-.3.4"}]]);

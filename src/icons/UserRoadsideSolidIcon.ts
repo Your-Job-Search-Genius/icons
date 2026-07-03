@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const UserRoadsideSolidIcon = createIcon({"name":"UserRoadsideSolidIcon","figmaName":"user-roadside","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M12 .75a3 3 0 0 1 3 3 3 3 0 0 1-1.416 2.544c2.939.412 4.726 3.679 3.55 6.564a1.67 1.67 0 0 1-1.542 1.059H15.1l-.828 3.485c-.254 1.065-1.175 1.848-2.272 1.848s-2.018-.783-2.271-1.848L8.9 13.917h-.492a1.67 1.67 0 0 1-1.543-1.059c-1.174-2.885.612-6.151 3.55-6.564A3 3 0 0 1 9 3.75a3 3 0 0 1 3-3"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M6 15.25h1a1 1 0 1 1 0 2H6a1 1 0 1 1 0-2m10 1a1 1 0 0 1 1-1h1a1 1 0 1 1 0 2h-1a1 1 0 0 1-1-1m-4 4a1 1 0 0 1 1 1v1a1 1 0 1 1-2 0v-1a1 1 0 0 1 1-1","clipRule":"evenodd"}]]);

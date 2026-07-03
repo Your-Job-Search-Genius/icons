@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const SunCloudLittleRain01Icon = createIcon({"name":"SunCloudLittleRain01Icon","figmaName":"sun-cloud-little-rain-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M17.478 9.045h.022c2.485 0 4.5 2.03 4.5 4.534 0 1.78-1.018 3.18-2.5 3.921m-3.257-5.433A5.54 5.54 0 0 0 17.5 8.541C17.5 5.481 15.038 3 12 3 9.123 3 6.762 5.225 6.52 8.06m0 0C3.984 8.303 2 10.456 2 13.075A5.04 5.04 0 0 0 4.609 17.5M6.52 8.06q.237-.023.48-.023c1.126 0 2.165.375 3 1.008"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M9 3.655A3.84 3.84 0 0 0 5.844 2 3.85 3.85 0 0 0 2 5.857C2 7.154 2.638 8.3 3.616 9"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M12.001 14.5V16M9 17.5V19m6-1.5V19m-8.5 1.5V22m11-1.5V22M12 20.5V22"}]]);

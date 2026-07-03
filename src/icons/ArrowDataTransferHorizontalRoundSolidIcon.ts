@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const ArrowDataTransferHorizontalRoundSolidIcon = createIcon({"name":"ArrowDataTransferHorizontalRoundSolidIcon","figmaName":"arrow-data-transfer-horizontal-round","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M19 8a1 1 0 1 1 0 2H6.74c-.472 0-.936 0-1.294-.056-.342-.053-1.046-.222-1.34-1.007-.291-.774.09-1.424.293-1.723.216-.317.542-.677.877-1.046l.653-.72c.343-.379.676-.746.969-.99.27-.225.882-.667 1.617-.343.735.323.886 1.102.934 1.468.051.395.051.91.051 1.439V8z"}],["path",{"fill":"currentColor","d":"M5 16a1 1 0 1 1 0-2h12.26c.472 0 .936 0 1.294.056.342.053 1.046.222 1.34 1.007.291.773-.09 1.424-.293 1.723-.216.317-.543.677-.877 1.046l-.653.72c-.343.379-.676.746-.969.99-.27.225-.882.667-1.617.343-.735-.323-.886-1.102-.934-1.468-.051-.395-.051-.91-.051-1.439V16z"}]]);

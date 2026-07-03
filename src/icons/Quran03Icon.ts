@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Quran03Icon = createIcon({"name":"Quran03Icon","figmaName":"quran-03","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M20.5 17H6a2.5 2.5 0 0 0 0 5h14.5"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M20.5 22a2.5 2.5 0 0 1 0-5"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M14.934 11A3.23 3.23 0 1 1 10.5 6.566"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M13.5 8h.009"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M3.5 19.5v-14A3.5 3.5 0 0 1 7 2h10a3.5 3.5 0 0 1 3.5 3.5V17"}]]);

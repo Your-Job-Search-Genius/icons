@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const MoreVerticalSquare02Icon = createIcon({"name":"MoreVerticalSquare02Icon","figmaName":"more-vertical-square-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M11.992 12h.009"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M11.984 16h.01"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M12 8h.009"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M2.484 12c0-4.478 0-6.718 1.392-8.109C5.266 2.5 7.506 2.5 11.984 2.5s6.718 0 8.11 1.391c1.39 1.391 1.39 3.63 1.39 8.109 0 4.478 0 6.718-1.39 8.109-1.392 1.391-3.631 1.391-8.11 1.391s-6.717 0-8.108-1.391S2.484 16.479 2.484 12Z"}]]);

@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Lamp02Icon = createIcon({"name":"Lamp02Icon","figmaName":"lamp-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":1.5,"d":"M19.924 12.102c.464-.664-1.336-2.896-1.85-3.29-.469-.36-1.074-.538-2.284-.894S13.287 7 12 7s-2.581.562-3.79.918-1.815.535-2.284.894c-.514.394-2.314 2.627-1.85 3.29.888 1.271 15.065 1.121 15.848 0Z"}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":1.5,"d":"M9 13a3 3 0 1 0 6 0"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M12 20v2m3-3 2 1.5M9 19l-2 1.5"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M12 7V2"}]]);

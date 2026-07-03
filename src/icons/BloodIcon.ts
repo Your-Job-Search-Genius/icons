@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const BloodIcon = createIcon({"name":"BloodIcon","figmaName":"blood","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M5.5 15.5C3.288 14.617 2 12.433 2 10.175 2 7.245 4.317 4.35 5.943 2.68c.883-.908 2.23-.908 3.114 0 .492.505.908 1.122 1.443 1.819"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M8 14.926c0-3.556 2.949-7.07 5.019-9.1 1.124-1.101 2.838-1.101 3.962 0 2.07 2.03 5.019 5.544 5.019 9.1C22 18.413 19.35 22 15 22s-7-3.587-7-7.074Z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M18.5 15.5c0 2.21-1.5 3-3 3"}]]);

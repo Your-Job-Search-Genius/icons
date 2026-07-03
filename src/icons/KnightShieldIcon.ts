@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const KnightShieldIcon = createIcon({"name":"KnightShieldIcon","figmaName":"knight-shield","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M11.998 2c-2.85 0-4.697 2.019-6.882 2.755-.888.3-1.333.449-1.512.66-.18.21-.233.519-.338 1.135-1.127 6.596 1.336 12.694 7.209 15.068.631.255.947.382 1.526.382s.896-.128 1.527-.383c5.873-2.373 8.333-8.471 7.206-15.067-.106-.616-.158-.925-.338-1.136s-.624-.36-1.512-.659C16.698 4.019 14.848 2 11.998 2"}],["path",{"fill":"currentColor","d":"M19.53 5.53a.75.75 0 0 0-1.06-1.06L19 5zM5.47 17.47a.75.75 0 1 0 1.06 1.06L6 18zM19 5l-.53-.53-13 13L6 18l.53.53 13-13z"}]]);

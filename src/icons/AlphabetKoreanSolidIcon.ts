@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const AlphabetKoreanSolidIcon = createIcon({"name":"AlphabetKoreanSolidIcon","figmaName":"alphabet-korean","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M12.002 7.026c-.16-.023-.393-.026-.846-.026H5a1 1 0 1 1 0-2h6.212c.384 0 .779 0 1.111.052.398.062.815.211 1.161.583.33.352.463.75.504 1.148.033.32.008.686-.016 1.024l-.003.055c-.258 3.766-2.21 9.913-8.649 12.086a1 1 0 1 1-.64-1.896c5.32-1.795 7.06-6.915 7.293-10.326.014-.198.024-.35.029-.48.003-.1.002-.17 0-.22","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M16 2a1 1 0 0 1 1 1v8h2a1 1 0 1 1 0 2h-2v8a1 1 0 1 1-2 0V3a1 1 0 0 1 1-1","clipRule":"evenodd"}]]);

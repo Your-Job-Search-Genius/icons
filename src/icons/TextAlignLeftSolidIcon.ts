@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const TextAlignLeftSolidIcon = createIcon({"name":"TextAlignLeftSolidIcon","figmaName":"text-align-left","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M8 4.5a1 1 0 0 1 1-1h10a1 1 0 1 1 0 2H9a1 1 0 0 1-1-1","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M8 9.5a1 1 0 0 1 1-1h5a1 1 0 1 1 0 2H9a1 1 0 0 1-1-1","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M8 14.5a1 1 0 0 1 1-1h10a1 1 0 1 1 0 2H9a1 1 0 0 1-1-1","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M8 19.5a1 1 0 0 1 1-1h5a1 1 0 1 1 0 2H9a1 1 0 0 1-1-1","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M5 2a1 1 0 0 1 1 1v18a1 1 0 1 1-2 0V3a1 1 0 0 1 1-1","clipRule":"evenodd"}]]);

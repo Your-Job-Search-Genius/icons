@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Tap03Icon = createIcon({"name":"Tap03Icon","figmaName":"tap-03","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m6.702 13.162 2.009 1.733V6.158c0-.916.737-1.658 1.647-1.658s1.647.742 1.647 1.658v4.473l2.812.453c1.815.274 2.723.41 3.362.796 1.056.637 1.821 1.593 1.821 2.99 0 .972-.239 1.624-.82 3.377-.367 1.112-.552 1.668-.852 2.108a3.77 3.77 0 0 1-2.063 1.497c-.51.148-1.092.148-2.257.148h-.987c-1.549 0-2.323 0-3.012-.286a4 4 0 0 1-.362-.174c-.655-.358-1.143-.962-2.12-2.172l-3.16-3.916a1.656 1.656 0 0 1-.008-2.068 1.63 1.63 0 0 1 2.343-.222"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M14.316 6a4 4 0 0 0-8 0"}]]);

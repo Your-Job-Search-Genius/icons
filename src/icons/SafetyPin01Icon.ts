@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const SafetyPin01Icon = createIcon({"name":"SafetyPin01Icon","figmaName":"safety-pin-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M13.546 3.794 12.293 5.41c-1.071 1.383 1.06 3.057 2.147 1.666l.374-.48c.693-.888 1.998-.978 2.783-.193s.694 2.09-.193 2.783l-.48.374c-1.391 1.087.283 3.218 1.666 2.147l1.616-1.253c2.226-1.725 2.409-5.031.39-7.05s-5.325-1.836-7.05.39"}],["circle",{"cx":4.5,"cy":19.5,"r":2.5,"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M3 17.41 12 7M6.59 21 17 12"}]]);

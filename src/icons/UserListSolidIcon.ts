@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const UserListSolidIcon = createIcon({"name":"UserListSolidIcon","figmaName":"user-list","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M4.443 14.655a9.81 9.81 0 0 1 10.115 0q.147.088.356.207c.612.35 1.558.893 2.204 1.536.405.402.8.942.87 1.608.077.711-.23 1.374-.83 1.955-1.017.984-2.253 1.789-3.861 1.789H5.703c-1.608 0-2.844-.805-3.86-1.79-.601-.58-.908-1.243-.831-1.954.071-.666.465-1.206.87-1.608.647-.643 1.592-1.185 2.205-1.536a19 19 0 0 0 .356-.207"}],["path",{"fill":"currentColor","d":"M4.75 7a4.75 4.75 0 1 1 9.5 0 4.75 4.75 0 0 1-9.5 0"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M16 5a1 1 0 0 1 1-1h5a1 1 0 1 1 0 2h-5a1 1 0 0 1-1-1m0 3a1 1 0 0 1 1-1h5a1 1 0 1 1 0 2h-5a1 1 0 0 1-1-1m3 3a1 1 0 0 1 1-1h2a1 1 0 1 1 0 2h-2a1 1 0 0 1-1-1","clipRule":"evenodd"}]]);

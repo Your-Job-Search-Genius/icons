@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const CursorProgress04Icon = createIcon({"name":"CursorProgress04Icon","figmaName":"cursor-progress-04","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M17 17a5 5 0 0 0-3.537-3.538M17 17a5 5 0 0 0 1.296-4.834M17 17a5 5 0 0 0 4.834-1.295M17 17a5 5 0 0 0 3.537 3.539M17 17a5 5 0 0 0-1.296 4.834M17 17a5 5 0 0 0-4.834 1.296m3.538 3.538a5.01 5.01 0 0 1-3.538-3.538 5.05 5.05 0 0 1 1.297-4.834m2.242 8.372a5.05 5.05 0 0 0 4.832-1.295 5.05 5.05 0 0 0 1.297-4.834 5.01 5.01 0 0 0-3.538-3.539 5.05 5.05 0 0 0-4.833 1.296"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M2.38 2.466C4.216.49 18.012 5.329 18 7.096c-.013 2.003-5.388 2.62-6.878 3.037-.896.251-1.135.51-1.342 1.449-.936 4.254-1.405 6.37-2.476 6.418C5.598 18.075.591 4.393 2.381 2.466Z"}]]);

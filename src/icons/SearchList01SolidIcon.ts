@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const SearchList01SolidIcon = createIcon({"name":"SearchList01SolidIcon","figmaName":"search-list-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M9 14.4a6.4 6.4 0 1 1 11.577 3.763l2.13 2.13a1 1 0 0 1-1.414 1.414l-2.13-2.13A6.4 6.4 0 0 1 9 14.4m6.4-4.4a4.4 4.4 0 1 0 0 8.8 4.4 4.4 0 0 0 0-8.8","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M1 10a1 1 0 0 1 1-1h5a1 1 0 1 1 0 2H2a1 1 0 0 1-1-1","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M1 17a1 1 0 0 1 1-1h5a1 1 0 1 1 0 2H2a1 1 0 0 1-1-1","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M1 3a1 1 0 0 1 1-1h17a1 1 0 1 1 0 2H2a1 1 0 0 1-1-1","clipRule":"evenodd"}]]);

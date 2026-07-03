@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Target03SolidIcon = createIcon({"name":"Target03SolidIcon","figmaName":"target-03","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M12 1a1 1 0 0 1 1 1v4a1 1 0 1 1-2 0V2a1 1 0 0 1 1-1M1 12a1 1 0 0 1 1-1h4a1 1 0 1 1 0 2H2a1 1 0 0 1-1-1m16 0a1 1 0 0 1 1-1h4a1 1 0 1 1 0 2h-4a1 1 0 0 1-1-1m-5 5a1 1 0 0 1 1 1v4a1 1 0 1 1-2 0v-4a1 1 0 0 1 1-1","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M12 21a9 9 0 1 1 0-18 9 9 0 0 1 0 18M1 12c0 6.075 4.925 11 11 11s11-4.925 11-11S18.075 1 12 1 1 5.925 1 12","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M10.496 12a1.5 1.5 0 0 1 1.5-1.5h.01a1.5 1.5 0 0 1 0 3h-.01a1.5 1.5 0 0 1-1.5-1.5","clipRule":"evenodd"}]]);

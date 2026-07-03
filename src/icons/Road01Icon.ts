@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Road01Icon = createIcon({"name":"Road01Icon","figmaName":"road-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":1.5,"d":"M5.172 3.172C4 4.343 4 6.229 4 10v4c0 3.771 0 5.657 1.172 6.828m0-17.656C6.343 2 8.229 2 12 2s5.657 0 6.828 1.172m-13.656 0Zm0 17.656C6.343 22 8.229 22 12 22s5.657 0 6.828-1.172m0 0C20 19.657 20 17.771 20 14v-4c0-3.771 0-5.657-1.172-6.828m0 17.656Zm0-17.656Z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M12 11v2"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M12 5.5v2"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M12 16.5v2"}]]);

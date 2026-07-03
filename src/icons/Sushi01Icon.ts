@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Sushi01Icon = createIcon({"name":"Sushi01Icon","figmaName":"sushi-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M20 13c0 3.002 0 4.504-.879 5.436-2.087 2.215-12.405 1.95-14.242 0C4 17.504 4 16.002 4 13"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M12.04 4C4.453 4 2.477 8.796 2.039 12.633c-.188 1.642.3 1.616 1.653.908 2.068-1.083 4.817-1.775 8.348-1.775 3.526 0 6.224.69 8.268 1.77 1.35.713 1.836.738 1.656-.904C21.544 8.796 19.627 4 12.04 4Z"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M6.996 12c0-2.528.887-7.436 6-8"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M15 12c0-1.939.512-5.264 3-7"}]]);

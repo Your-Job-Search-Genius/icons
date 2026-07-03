@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const ThreeFinger01Icon = createIcon({"name":"ThreeFinger01Icon","figmaName":"three-finger-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M14.182 5.5c0-.828.65-1.5 1.454-1.5s1.455.672 1.455 1.5V11m-5.818-1V3.5c0-.828.65-1.5 1.454-1.5s1.455.672 1.455 1.5V11m3.878 11v-1.165c0-.531.209-1.039.548-1.439.393-.462.884-1.102 1.07-1.604.322-.865.322-1.952.322-4.125v-1.473c0-.978-.685-1.812-1.62-1.973l-.332-.057c-.501-.086-.957.313-.957.836v1m-5.818-7c0-.828-.652-1.5-1.455-1.5S8.364 4.173 8.364 5v8.462l-1.572-1.625a1.6 1.6 0 0 0-2.434.14 1.74 1.74 0 0 0-.03 2.072l3.49 4.598c.668.88 1.03 2.236 1.03 3.353"}]]);

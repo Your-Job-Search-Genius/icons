@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const FolderSyncIcon = createIcon({"name":"FolderSyncIcon","figmaName":"folder-sync","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M7 6.5h9.75c2.107 0 3.16 0 3.917.506a3 3 0 0 1 .827.827C22 8.59 22 9.393 22 11.5m-10-5-.633-1.267c-.525-1.05-1.005-2.106-2.168-2.542C8.69 2.5 8.108 2.5 6.944 2.5c-1.816 0-2.724 0-3.406.38A3 3 0 0 0 2.38 4.038C2 4.72 2 5.628 2 7.444V10.5c0 4.714 0 7.071 1.464 8.535 1.398 1.398 3.608 1.462 7.903 1.465"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m19.993 17.492.755.4c.53.28.794.421 1.04.26.246-.162.227-.415.19-.922-.218-2.912-3.824-4.91-6.318-2.944m.345 3.206-.755-.4c-.529-.28-.793-.42-1.04-.257-.246.162-.226.415-.186.92.23 2.888 3.816 4.912 6.248 2.99"}]]);

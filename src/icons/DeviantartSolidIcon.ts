@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const DeviantartSolidIcon = createIcon({"name":"DeviantartSolidIcon","figmaName":"deviantart","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M18.643 1.25c.916 0 1.107.186 1.107 1.075v3.374c0 .326-.001.33-.19.601l-3.627 5.218c-.512.737-.768 1.106-.612 1.391s.614.285 1.53.285h1.792c.916 0 1.107.186 1.107 1.075v2.628c0 .89-.191 1.075-1.107 1.075h-6.02c-1.153 0-1.19.02-1.835.947l-2.334 3.357c-.322.464-.341.474-.917.474h-2.18c-.916 0-1.107-.186-1.107-1.075v-3.374c0-.326.001-.33.19-.601l3.627-5.218c.512-.737.768-1.106.612-1.391s-.614-.285-1.53-.285H5.357c-.916 0-1.107-.186-1.107-1.075V7.103c0-.89.191-1.075 1.107-1.075h6.02c1.153 0 1.19-.02 1.835-.947l2.334-3.357c.322-.464.341-.474.918-.474z","clipRule":"evenodd"}]]);

@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const TimeManagementCircleIcon = createIcon({"name":"TimeManagementCircleIcon","figmaName":"time-management-circle","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M7 19.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0Z"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M22 19.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0Z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M19.5 17c-.168-2.453-1.105-3-4.273-3H8.773c-3.168 0-4.105.547-4.273 3"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M12 6.5 13 5m3.5 1.5a4.5 4.5 0 1 1-9 0 4.5 4.5 0 0 1 9 0Z"}]]);

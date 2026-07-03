@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const ArrowExpand02SharpIcon = createIcon({"name":"ArrowExpand02SharpIcon","figmaName":"arrow-expand-02-sharp","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m13.496 13.502 7 7"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m3.496 3.502 7 7"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m7 3.186-3.05-.17c-.462-.025-.693-.038-.833.103-.14.142-.127.375-.1.84L3.19 7"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m20.813 17 .17 3.034c.027.47.04.705-.103.847s-.379.129-.85.101L17 20.804"}]]);

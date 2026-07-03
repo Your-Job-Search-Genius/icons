@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const HierarchyCircle01Icon = createIcon({"name":"HierarchyCircle01Icon","figmaName":"hierarchy-circle-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M15 5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M8 19a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M22 19a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M12 8v4m0 0H8.5c-1.65 0-2.475 0-2.987.44C5 12.878 5 13.585 5 15v1m7-4h3.5c1.65 0 2.475 0 2.987.44C19 12.878 19 13.585 19 15v1"}]]);

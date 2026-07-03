@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Forward01SolidIcon = createIcon({"name":"Forward01SolidIcon","figmaName":"forward-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"m16.105 6.892.089.057c1.317.847 2.363 1.52 3.107 2.135.756.626 1.314 1.283 1.493 2.136a3.8 3.8 0 0 1 0 1.56c-.18.853-.737 1.51-1.494 2.137-.743.615-1.79 1.288-3.106 2.134l-.09.058c-1.433.921-2.568 1.651-3.495 2.099-.932.45-1.818.7-2.693.432a3.5 3.5 0 0 1-1.383-.807c-.661-.623-.917-1.518-1.038-2.576-.12-1.054-.12-2.443-.12-4.206v-.102c0-1.762 0-3.152.12-4.206.12-1.057.377-1.953 1.038-2.576.394-.372.867-.65 1.383-.807.875-.268 1.761-.018 2.693.433.927.447 2.062 1.177 3.496 2.099","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M4.125 4a1 1 0 0 0-1 1v14a1 1 0 1 0 2 0V5a1 1 0 0 0-1-1","clipRule":"evenodd"}]]);

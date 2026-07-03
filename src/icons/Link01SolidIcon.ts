@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Link01SolidIcon = createIcon({"name":"Link01SolidIcon","figmaName":"link-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M15.809 11.191a4.067 4.067 0 0 0-5.63-.116 1 1 0 0 1-1.357-1.47 6.067 6.067 0 0 1 8.401 8.752l-2.866 2.866a6.067 6.067 0 1 1-8.58-8.58l.464-.464a1 1 0 1 1 1.415 1.414l-.465.464a4.067 4.067 0 1 0 5.752 5.752l2.866-2.866a4.067 4.067 0 0 0 0-5.752","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M16.809 4.191a4.067 4.067 0 0 0-5.752 0L8.191 7.057a4.067 4.067 0 0 0 5.63 5.868 1 1 0 0 1 1.357 1.47 6.067 6.067 0 0 1-8.401-8.752l2.866-2.866a6.067 6.067 0 0 1 8.58 8.58l-.464.464a1 1 0 1 1-1.415-1.414l.465-.464a4.067 4.067 0 0 0 0-5.752","clipRule":"evenodd"}]]);

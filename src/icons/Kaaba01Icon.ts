@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Kaaba01Icon = createIcon({"name":"Kaaba01Icon","figmaName":"kaaba-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M3 22V5.99c0-.732 0-1.099.204-1.367.204-.27.556-.367 1.26-.563l7-1.949c.267-.074.4-.111.536-.111s.27.037.535.111l7 1.949c.705.196 1.057.294 1.261.563S21 5.258 21 5.99V22"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M2 22h20"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"m3 9 8.566-1.951c.286-.065.582-.065.868 0L21 9"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M19.65 12.7 21 13m-5.4-1.2.9.2m-3.6-.8L12 11l-.9.2m-6.75 1.5L3 13m5.4-1.2-.9.2"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M12 7v15"}]]);

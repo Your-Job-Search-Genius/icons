@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const MinusPlus02SolidIcon = createIcon({"name":"MinusPlus02SolidIcon","figmaName":"minus-plus-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M21.884 2.116a1.25 1.25 0 0 1 0 1.768l-18 18a1.25 1.25 0 0 1-1.768-1.768l18-18a1.25 1.25 0 0 1 1.768 0","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M17 11.75c.69 0 1.25.56 1.25 1.25v2.75H21a1.25 1.25 0 1 1 0 2.5h-2.75V21a1.25 1.25 0 1 1-2.5 0v-2.75H13a1.25 1.25 0 1 1 0-2.5h2.75V13c0-.69.56-1.25 1.25-1.25","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M1.75 7c0-.69.56-1.25 1.25-1.25h8a1.25 1.25 0 1 1 0 2.5H3c-.69 0-1.25-.56-1.25-1.25","clipRule":"evenodd"}]]);

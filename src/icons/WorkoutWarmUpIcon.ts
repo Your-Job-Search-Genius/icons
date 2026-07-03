@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const WorkoutWarmUpIcon = createIcon({"name":"WorkoutWarmUpIcon","figmaName":"workout-warm-up","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M14.5 4.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0Z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m19 21-.456-3.47c-.254-1.928-.38-2.892-1.053-3.4-.672-.509-1.619-.357-3.513-.054l-1.838.295-.507.081c-1.386.222-2.08.333-2.441-.081-.362-.415-.169-1.099.217-2.467l.668-2.372c.222-.788.333-1.182.638-1.388.304-.206.705-.158 1.508-.062l1.755.21L19 8.89m-5.022-.6-1.838 6.08"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m10 17-.553 1.106a3 3 0 0 1-1.341 1.341L5 21"}]]);

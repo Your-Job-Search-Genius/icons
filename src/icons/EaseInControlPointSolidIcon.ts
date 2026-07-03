@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const EaseInControlPointSolidIcon = createIcon({"name":"EaseInControlPointSolidIcon","figmaName":"ease-in-control-point","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"m19.084 2.6-.003.007-.014.03a17 17 0 0 1-.288.613 39 39 0 0 1-.92 1.767 41 41 0 0 1-3.522 5.367C11.251 14.334 7.011 18 2 18a1 1 0 1 0 0 2c5.99 0 10.749-4.334 13.913-8.384a43 43 0 0 0 3.697-5.633 41 41 0 0 0 1.217-2.385l.065-.143.017-.038.005-.011.002-.004L20 3l.916.402a1 1 0 0 0-1.832-.803","clipRule":"evenodd"}],["path",{"fill":"currentColor","d":"M17.17 18a3.001 3.001 0 1 1 0 2H16a1 1 0 1 1 0-2z"}],["path",{"fill":"currentColor","d":"M10 19a1 1 0 0 1 1-1h2a1 1 0 1 1 0 2h-2a1 1 0 0 1-1-1"}]]);

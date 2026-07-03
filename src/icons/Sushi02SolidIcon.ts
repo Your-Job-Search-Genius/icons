@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Sushi02SolidIcon = createIcon({"name":"Sushi02SolidIcon","figmaName":"sushi-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M15 3.25a5.75 5.75 0 1 1 0 11.5 5.75 5.75 0 0 1 0-11.5m0 3a2.75 2.75 0 1 0 0 5.5 2.75 2.75 0 0 0 0-5.5m0 1.5a1.25 1.25 0 1 1 0 2.5 1.25 1.25 0 0 1 0-2.5"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M11.765 1.036a1 1 0 0 0-1.23.7l-3.962 14.41a1 1 0 0 0 1.929.53l3.963-14.412a1 1 0 0 0-.7-1.229m-4.675 17a1 1 0 0 0-1.23.7l-.824 3a1 1 0 0 0 1.928.53l.825-3a1 1 0 0 0-.7-1.23","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M22.964 12.235a1 1 0 0 0-1.23-.699l-20 5.5a1 1 0 0 0 .53 1.928l20-5.5a1 1 0 0 0 .7-1.229","clipRule":"evenodd"}]]);

@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const PointingLeft05Icon = createIcon({"name":"PointingLeft05Icon","figmaName":"pointing-left-05","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M8 13v1a2 2 0 0 0 2 2m0 0h1m-1 0a1 1 0 0 0-1 1 2 2 0 0 0 2 2m0 0h1m-1 0a.847.847 0 0 0-.836.986l.058.343a2 2 0 0 0 1.972 1.67h1.473c2.173 0 3.26 0 4.125-.33.502-.193 1.142-.7 1.604-1.104a2.2 2.2 0 0 1 1.44-.566H22m-12-7H3.5a1.5 1.5 0 0 1 0-3h9.962l-1.625-1.62a1.683 1.683 0 0 1 .14-2.51 1.696 1.696 0 0 1 2.072-.032l4.598 3.6c.88.688 2.236 1.063 3.353 1.063"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M2 4.5h6m-6 0C2 3.8 3.994 2.492 4.5 2M2 4.5C2 5.2 3.994 6.508 4.5 7"}]]);

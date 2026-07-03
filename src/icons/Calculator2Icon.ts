@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Calculator2Icon = createIcon({"name":"Calculator2Icon","figmaName":"calculator","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":1.5,"d":"M3 10h18"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M15 6h2"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M21 13v-2c0-4.243 0-6.364-1.318-7.682S16.242 2 12 2 5.636 2 4.318 3.318 3 6.758 3 11v2c0 4.243 0 6.364 1.318 7.682S7.758 22 12 22s6.364 0 7.682-1.318S21 17.242 21 13Z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M7 14h.526m4.21 0h.527m4.21 0H17"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M7 18h.526m4.21 0h.527m4.21 0H17"}]]);

@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const InternetAntenna03SolidIcon = createIcon({"name":"InternetAntenna03SolidIcon","figmaName":"internet-antenna-03","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M12 3a9 9 0 0 0-9 9c0 2.028.67 3.896 1.8 5.4a1 1 0 0 1-1.6 1.202A10.96 10.96 0 0 1 1 12C1 5.925 5.925 1 12 1s11 4.925 11 11a10.96 10.96 0 0 1-2.2 6.602 1 1 0 0 1-1.6-1.202A8.96 8.96 0 0 0 21 12a9 9 0 0 0-9-9","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M12 7a5 5 0 0 0-3.727 8.333 1 1 0 1 1-1.49 1.334 7 7 0 1 1 10.435 0 1 1 0 1 1-1.49-1.334A5 5 0 0 0 12 7","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M12 11a1 1 0 0 1 1 1v9h2a1 1 0 1 1 0 2H9a1 1 0 1 1 0-2h2v-9a1 1 0 0 1 1-1","clipRule":"evenodd"}]]);

@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Atom02Icon = createIcon({"name":"Atom02Icon","figmaName":"atom-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fillRule":"evenodd","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M20.354 3.646C18.51 1.8 13.272 4.045 8.658 8.658c-4.613 4.614-6.858 9.85-5.012 11.696 1.845 1.846 7.082-.398 11.696-5.012s6.858-9.85 5.012-11.696","clipRule":"evenodd"}],["path",{"fillRule":"evenodd","stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M3.646 3.646C1.8 5.49 4.045 10.728 8.658 15.342c4.614 4.614 9.85 6.858 11.696 5.012 1.846-1.845-.398-7.082-5.012-11.696S5.492 1.8 3.646 3.646","clipRule":"evenodd"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M12.009 12H12"}]]);

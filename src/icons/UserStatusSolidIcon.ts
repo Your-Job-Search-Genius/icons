@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const UserStatusSolidIcon = createIcon({"name":"UserStatusSolidIcon","figmaName":"user-status","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M1.25 12C1.25 6.063 6.063 1.25 12 1.25S22.75 6.063 22.75 12c0 .744-.076 1.47-.22 2.172-.088.432-.133.648-.286.707-.154.059-.358-.093-.766-.396a5 5 0 0 0-6.995 6.995c.303.408.455.612.396.766s-.275.198-.707.287A11 11 0 0 1 12 22.75C6.063 22.75 1.25 17.937 1.25 12m10.742-5.75A3.25 3.25 0 0 0 8.738 9.5a3.25 3.25 0 0 0 3.254 3.25 3.25 3.25 0 0 0 3.253-3.25 3.25 3.25 0 0 0-3.253-3.25m.006 9.625a.75.75 0 1 0-.013-1.5c-1.844.016-3.706.723-5.027 2.107a.75.75 0 0 0 1.084 1.036c1.011-1.059 2.471-1.63 3.956-1.643","clipRule":"evenodd"}],["circle",{"cx":18.5,"cy":18.5,"r":3.5,"fill":"currentColor"}]]);

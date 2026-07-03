@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const RouteBlockSolidIcon = createIcon({"name":"RouteBlockSolidIcon","figmaName":"route-block","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M14.525 1.525a.937.937 0 0 1 1.325 0L18 3.675l2.15-2.15a.937.937 0 1 1 1.325 1.325L19.325 5l2.15 2.15a.938.938 0 0 1-1.325 1.325L18 6.325l-2.15 2.15a.937.937 0 1 1-1.325-1.325L16.675 5l-2.15-2.15a.94.94 0 0 1 0-1.325","clipRule":"evenodd"}],["path",{"fill":"currentColor","d":"M2.25 19a3.75 3.75 0 1 1 7.5 0 3.75 3.75 0 0 1-7.5 0"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M4 8.5A4.5 4.5 0 0 1 8.5 4H12a1 1 0 1 1 0 2H8.5a2.5 2.5 0 0 0 0 5h7a4.5 4.5 0 1 1 0 9H12a1 1 0 1 1 0-2h3.5a2.5 2.5 0 0 0 0-5h-7A4.5 4.5 0 0 1 4 8.5","clipRule":"evenodd"}]]);

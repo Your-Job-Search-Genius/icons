@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Chemistry01SolidIcon = createIcon({"name":"Chemistry01SolidIcon","figmaName":"chemistry-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M5 2a1 1 0 0 1 1 1v5h5a1 1 0 1 1 0 2H6v3c0 1.914.002 3.249.138 4.256.131.978.372 1.496.74 1.865.37.37.888.61 1.866.742C9.751 19.998 11.086 20 13 20h8a1 1 0 1 1 0 2h-8.073c-1.823 0-3.293 0-4.45-.155-1.2-.162-2.21-.507-3.012-1.31-.803-.802-1.148-1.812-1.31-3.013C4 16.366 4 14.897 4 13.073V10H3a1 1 0 0 1 0-2h1V3a1 1 0 0 1 1-1m11 7a1 1 0 0 1 1-1h3a1 1 0 1 1 0 2h-3a1 1 0 0 1-1-1","clipRule":"evenodd"}],["path",{"fill":"currentColor","d":"M10 3a1 1 0 0 0 0 2h.25v9.786c0 2.14 1.631 3.964 3.75 3.964s3.75-1.824 3.75-3.964V5H18a1 1 0 1 0 0-2z"}]]);

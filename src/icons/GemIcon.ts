@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const GemIcon = createIcon({"name":"GemIcon","figmaName":"gem","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m9.852 21.01-4.41-2.783c-1.816-1.145-2.723-1.717-2.91-2.658-.185-.94.43-1.846 1.66-3.657L8.603 5.42C10.152 3.14 10.926 2 12 2s1.848 1.14 3.397 3.42l4.411 6.492c1.23 1.811 1.845 2.716 1.66 3.657-.187.94-1.094 1.513-2.91 2.658l-4.41 2.783c-1.047.66-1.57.99-2.148.99s-1.101-.33-2.148-.99"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m12 2 2 12m7 1.569L14 14m-2 8 2-8M3 15.569 14 14"}]]);

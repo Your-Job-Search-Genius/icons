@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Notebook02Icon = createIcon({"name":"Notebook02Icon","figmaName":"notebook-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M22 14v-4c0-3.771 0-5.657-1.172-6.828S17.771 2 14 2h-2C8.229 2 6.343 2 5.172 3.172S4 6.229 4 10v4c0 3.771 0 5.657 1.172 6.828S8.229 22 12 22h2c3.771 0 5.657 0 6.828-1.172S22 17.771 22 14Z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M5 6H2m3 6H2m3 6H2"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M17.5 7h-4m2 4h-2"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M9 22V2"}]]);

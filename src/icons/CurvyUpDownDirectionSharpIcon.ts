@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const CurvyUpDownDirectionSharpIcon = createIcon({"name":"CurvyUpDownDirectionSharpIcon","figmaName":"curvy-up-down-direction-sharp","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M11 21.5v-1.456c0-2.256 1.79-4.085 4-4.085h2.084c1.058 0 1.916-.875 1.916-1.956s-.858-1.956-1.916-1.956H6.965C5.88 12.047 5 11.15 5 10.04s.88-2.007 1.965-2.007H9c2.21 0 4-1.828 4-4.084V2.5"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m15 4-1.293-1.293c-.333-.333-.5-.5-.707-.5s-.374.167-.707.5L11 4"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m13 20-1.293 1.293c-.333.333-.5.5-.707.5s-.374-.167-.707-.5L9 20"}]]);

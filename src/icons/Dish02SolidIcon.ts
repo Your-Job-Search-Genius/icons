@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Dish02SolidIcon = createIcon({"name":"Dish02SolidIcon","figmaName":"dish-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M21 2.25a.75.75 0 0 1 .75.75v2.7a.3.3 0 0 1-.3.3H21a6 6 0 0 0 0 12h.45a.3.3 0 0 1 .3.3V21a.75.75 0 0 1-.75.75c-5.385 0-9.75-4.365-9.75-9.75S15.615 2.25 21 2.25m.75 13.45a.3.3 0 0 1-.3.3H21a4 4 0 0 1 0-8h.45a.3.3 0 0 1 .3.3z"}],["path",{"fill":"currentColor","d":"M3.25 2a1 1 0 0 1 1 1v3.5a.5.5 0 0 0 1 0V3a1 1 0 0 1 2 0v3.5a.5.5 0 0 0 1 0V3a1 1 0 0 1 2 0v4.352c0 1.427-.444 2.594-1.203 3.415a3.8 3.8 0 0 1-1.578 1.03.32.32 0 0 0-.219.297V21a1 1 0 1 1-2 0v-8.906a.32.32 0 0 0-.219-.296 3.8 3.8 0 0 1-1.578-1.03c-.76-.822-1.203-1.99-1.203-3.416V3a1 1 0 0 1 1-1"}]]);

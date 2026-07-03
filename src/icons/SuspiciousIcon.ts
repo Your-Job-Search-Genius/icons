@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const SuspiciousIcon = createIcon({"name":"SuspiciousIcon","figmaName":"suspicious","viewBox":"0 0 24 24","width":24,"height":24}, [["circle",{"cx":12,"cy":12,"r":10,"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M9 17c.836-.628 1.874-1 3-1s2.164.372 3 1"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M7 8.01s1.41-.127 2.196.498m0 0-.263.835c-.104.329.167.657.543.657.396 0 .657-.357.453-.665a3.6 3.6 0 0 0-.733-.827M14 8.011s1.41-.128 2.196.497m0 0-.263.835c-.104.329.167.657.543.657.396 0 .657-.357.453-.665a3.6 3.6 0 0 0-.733-.827"}]]);

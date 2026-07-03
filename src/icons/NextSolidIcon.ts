@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const NextSolidIcon = createIcon({"name":"NextSolidIcon","figmaName":"next","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"m11.855 6.892.089.057c1.317.847 2.363 1.52 3.106 2.135.757.626 1.315 1.283 1.494 2.136a3.8 3.8 0 0 1 0 1.56c-.18.853-.737 1.51-1.494 2.137-.743.615-1.79 1.288-3.106 2.134l-.09.058c-1.433.921-2.568 1.651-3.495 2.099-.932.45-1.818.7-2.693.432a3.5 3.5 0 0 1-1.383-.807c-.661-.623-.917-1.518-1.038-2.576-.12-1.054-.12-2.443-.12-4.206v-.102c0-1.762 0-3.152.12-4.206.12-1.057.377-1.953 1.038-2.576.394-.372.867-.65 1.383-.807.875-.268 1.761-.018 2.693.433.927.447 2.062 1.177 3.496 2.099","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M19.875 3a1 1 0 0 0-1 1v16a1 1 0 1 0 2 0V4a1 1 0 0 0-1-1","clipRule":"evenodd"}]]);

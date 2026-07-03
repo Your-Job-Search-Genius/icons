@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const WorkoutSportIcon = createIcon({"name":"WorkoutSportIcon","figmaName":"workout-sport","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M16 4.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0Z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m5 12 1.476-2.326c.26-.41.391-.616.562-.783.17-.167.374-.29.782-.534l.922-.553c.862-.518 1.293-.777 1.77-.802s.93.187 1.839.61l1.695.792c.373.174.56.26.723.383q.174.13.318.295c.135.156.24.34.45.708.37.647.555.97.816 1.199.184.16.394.285.62.368.32.118.68.118 1.398.118H19"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m6.5 21 2.636-2.307a2 2 0 0 0 .31-2.667L8 14l3.5-6.5M8 14h3.5m5.5 4-2.4-3.2A2 2 0 0 0 13 14h-1.5m0 0L15 9"}]]);

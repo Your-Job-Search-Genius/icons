@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const SubmergeIcon = createIcon({"name":"SubmergeIcon","figmaName":"submerge","viewBox":"0 0 24 24","width":24,"height":24}, [["circle",{"cx":12,"cy":14,"r":4,"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M7 2v1m0 2.5v1M7 9v1m10-8v1m0 2.5v1M17 9v1m-5-8v1m0 2.5v1"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M2 12v4c0 2.828 0 4.243.879 5.121C3.757 22 5.172 22 8 22h8c2.828 0 4.243 0 5.121-.879C22 20.243 22 18.828 22 16v-4"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M2 14.872c2.264 1.914 4.174.857 6.022-.039 1.575-.764 3.104-1.411 4.768 0 3.257 2.714 6.12-.08 9.21-.635"}]]);

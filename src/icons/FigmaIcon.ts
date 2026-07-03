@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const FigmaIcon = createIcon({"name":"FigmaIcon","figmaName":"figma","viewBox":"0 0 24 24","width":24,"height":24}, [["circle",{"cx":15,"cy":12,"r":3,"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":1.5}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":1.5,"d":"M9 21a3 3 0 0 0 3-3v-3H9a3 3 0 1 0 0 6Z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M12 9v6H9a3 3 0 1 1 0-6z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M12 3v6H9a3 3 0 0 1 0-6z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M12 3v6h3a3 3 0 1 0 0-6z"}]]);

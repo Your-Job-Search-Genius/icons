@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Gps01SolidIcon = createIcon({"name":"Gps01SolidIcon","figmaName":"gps-01","viewBox":"0 0 24 24","width":24,"height":24}, [["g",{"fill":"currentColor","clipPath":"url(#a)"},[["path",{"d":"M12 19.5a1 1 0 0 1 1 1v2a1 1 0 1 1-2 0v-2a1 1 0 0 1 1-1M3.5 11a1 1 0 1 1 0 2h-2a1 1 0 1 1 0-2zm19 0a1 1 0 1 1 0 2h-2a1 1 0 1 1 0-2zM12 .5a1 1 0 0 1 1 1v2a1 1 0 1 1-2 0v-2a1 1 0 0 1 1-1"}],["path",{"d":"M8.25 12a3.75 3.75 0 1 1 7.5 0 3.75 3.75 0 0 1-7.5 0"}],["path",{"fillRule":"evenodd","d":"M12.014 4.5a7.5 7.5 0 1 0 0 15 7.5 7.5 0 0 0 0-15m-9.5 7.5a9.5 9.5 0 1 1 19 0 9.5 9.5 0 0 1-19 0","clipRule":"evenodd"}]]],["defs",{},[["clipPath",{"id":"a"},[["rect",{"width":24,"height":24,"fill":"#fff"}]]]]]]);

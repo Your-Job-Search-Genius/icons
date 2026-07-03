@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const ArrowReloadVerticalSharpIcon = createIcon({"name":"ArrowReloadVerticalSharpIcon","figmaName":"arrow-reload-vertical-sharp","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M5.5 3.5v11c0 3.713 2.685 6.5 6.5 6.5"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M18.5 20.5v-11C18.5 5.786 15.815 3 12 3"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M8 5.5 6.207 3.545C5.874 3.182 5.707 3 5.5 3s-.374.182-.707.545L3 5.5"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m16 18.5 1.793 1.955c.333.363.5.545.707.545s.374-.182.707-.545L21 18.5"}]]);

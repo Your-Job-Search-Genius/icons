@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const SquareUnlock02SolidIcon = createIcon({"name":"SquareUnlock02SolidIcon","figmaName":"square-unlock-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M12 8.25c1.596 0 3.046.034 4.475.1 2.058.094 3.729 1.689 4 3.706.149 1.1.275 2.256.275 3.444s-.126 2.344-.274 3.444c-.272 2.017-1.943 3.612-4.001 3.706-1.429.066-2.88.1-4.475.1a96 96 0 0 1-4.475-.1c-2.058-.094-3.729-1.689-4-3.706-.149-1.1-.275-2.256-.275-3.444s.126-2.344.274-3.444c.272-2.017 1.943-3.612 4.001-3.706A96 96 0 0 1 12 8.25m0 5.25a1 1 0 0 0-1 1v2a1 1 0 1 0 2 0v-2a1 1 0 0 0-1-1"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M12 3.25a3.5 3.5 0 0 0-3.5 3.5v2.5a1 1 0 0 1-2 0v-2.5a5.5 5.5 0 0 1 5.5-5.5c2.48 0 4.344 1.869 4.949 3.684a1 1 0 0 1-1.898.632C14.656 4.381 13.438 3.25 12 3.25","clipRule":"evenodd"}]]);

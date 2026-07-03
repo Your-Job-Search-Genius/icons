@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const UserSearch02SolidIcon = createIcon({"name":"UserSearch02SolidIcon","figmaName":"user-search-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M4.801 14.65c3.183-1.866 7.215-1.866 10.398 0q.154.088.37.207c.632.352 1.604.891 2.27 1.532.415.4.825.941.9 1.615.08.721-.243 1.387-.86 1.965-1.05.985-2.317 1.781-3.96 1.781H6.081c-1.642 0-2.91-.796-3.96-1.78-.617-.579-.939-1.245-.859-1.966.075-.674.484-1.214.9-1.615.665-.64 1.637-1.18 2.27-1.532q.216-.119.369-.208"}],["path",{"fill":"currentColor","d":"M5.25 7a4.75 4.75 0 1 1 9.5 0 4.75 4.75 0 0 1-9.5 0"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M15.25 5.7a3.45 3.45 0 1 1 6.364 1.848l.918.923a.75.75 0 0 1-1.064 1.058l-.913-.92A3.45 3.45 0 0 1 15.25 5.7m3.45-1.95a1.95 1.95 0 1 0 0 3.9 1.95 1.95 0 0 0 0-3.9","clipRule":"evenodd"}]]);

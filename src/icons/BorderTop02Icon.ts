@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const BorderTop02Icon = createIcon({"name":"BorderTop02Icon","figmaName":"border-top-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M2.753 17.667c.194 1.048.536 1.82 1.14 2.43.605.61 1.37.954 2.409 1.15M2.507 10q-.006.883-.005 1.917-.001 1.034.005 1.916m7.595 7.662q.875.006 1.9.005 1.025.001 1.9-.005m3.8-.249c1.04-.195 1.804-.54 2.409-1.15s.946-1.381 1.14-2.43M21.496 10q.006.883.005 1.917.001 1.034-.005 1.916"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M2.5 6.5c.199-1.094.55-1.899 1.17-2.536C5.1 2.5 7.4 2.5 12 2.5s6.9 0 8.33 1.464c.62.637.972 1.442 1.17 2.536"}]]);

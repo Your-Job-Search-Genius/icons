@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const HangingClockSolidIcon = createIcon({"name":"HangingClockSolidIcon","figmaName":"hanging-clock","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"#fff","d":"M14 8C7.373 8 2 13.373 2 20V8z"}],["path",{"fill":"#1e212c","d":"M15.25 4.5a2.25 2.25 0 1 1 4.5 0 2.25 2.25 0 0 1-4.5 0"}],["path",{"fill":"#1e212c","fillRule":"evenodd","d":"M17.5 5a1 1 0 0 1 1 1v5a1 1 0 1 1-2 0V6a1 1 0 0 1 1-1","clipRule":"evenodd"}],["path",{"fill":"#1e212c","d":"M2 5a1 1 0 0 1 1 1v1h17a1 1 0 1 1 0 2h-6C7.925 9 3 13.925 3 20v1a1 1 0 1 1-2 0V6a1 1 0 0 1 1-1"}],["path",{"fill":"#1e212c","d":"M17.5 20.75a5.25 5.25 0 1 0 0-10.5 5.25 5.25 0 0 0 0 10.5m1.67-3.915a.75.75 0 0 1-1.006.336l-1-.5A.75.75 0 0 1 16.75 16v-2a.75.75 0 0 1 1.5 0v1.536l.585.293a.75.75 0 0 1 .336 1.006"}]]);

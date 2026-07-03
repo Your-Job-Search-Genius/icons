@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const LocationUpdate01Icon = createIcon({"name":"LocationUpdate01Icon","figmaName":"location-update-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M12.808 16.684A1.18 1.18 0 0 1 12 17c-.302 0-.591-.113-.808-.317-1.986-1.87-4.647-3.96-3.349-6.993C8.545 8.05 10.23 7 12 7s3.456 1.05 4.157 2.69c1.296 3.03-1.358 5.13-3.349 6.993Z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M12 11.5h.009"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m20 11 2 1c0-5.523-4.477-10-10-10-4.1 0-7.625 2.468-9.168 6M4 13l-2-1c0 5.523 4.477 10 10 10 4.1 0 7.625-2.468 9.168-6"}]]);

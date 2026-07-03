@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const CursorRemoveSelection01Icon = createIcon({"name":"CursorRemoveSelection01Icon","figmaName":"cursor-remove-selection-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M15 7h4m3 0a5 5 0 1 1-10 0 5 5 0 0 1 10 0"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M10 3.32c-3.25-.497-6.326-.464-7.235.445-2.172 2.172.66 16.729 3.77 16.426 1.706-.172 2.897-2.912 4.3-3.768.551-.337 1.041.005 1.387.455l3.347 4.357c.583.759.994.985 1.873.535 1.352-.692 2.636-1.979 3.328-3.328.45-.88.224-1.29-.535-1.873L18 14.852"}]]);

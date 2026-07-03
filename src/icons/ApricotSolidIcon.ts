@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const ApricotSolidIcon = createIcon({"name":"ApricotSolidIcon","figmaName":"apricot","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M13.48 4.1c-.35.647-.48 1.47-.48 2.025a1 1 0 1 1-2 0c0-.779.17-1.955.72-2.975.574-1.064 1.618-2.025 3.28-2.025a1 1 0 1 1 0 2c-.738 0-1.194.372-1.52.975","clipRule":"evenodd"}],["path",{"fill":"currentColor","d":"M14.501 5.375c4.142 0 7.25 4.07 7.25 8.75s-3.108 8.75-7.25 8.75c-.884 0-1.726-.19-2.501-.532a6.2 6.2 0 0 1-2.5.532c-4.142 0-7.25-4.07-7.25-8.75s3.108-8.75 7.25-8.75a6.2 6.2 0 0 1 2.492.53 6.2 6.2 0 0 1 2.509-.53m-3.615 1.994a1 1 0 0 0-1.413.044c-1.345 1.43-2.245 3.409-2.468 5.61a1 1 0 0 0 1.99.203c.182-1.794.91-3.354 1.935-4.444a1 1 0 0 0-.044-1.413"}]]);

@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const GrapesIcon = createIcon({"name":"GrapesIcon","figmaName":"grapes","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M14.83 18a3 3 0 1 1-5.659 0"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M11.236 13a3 3 0 1 1-4.472 0"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M17.236 13a3 3 0 1 1-4.472 0"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M15 10a3 3 0 1 0 6 0 3 3 0 0 0-6 0Z"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M9 10a3 3 0 1 0 6 0 3 3 0 0 0-6 0Z"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M3 10a3 3 0 1 0 6 0 3 3 0 0 0-6 0Z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M12 7c0-1.667.8-5 4-5"}]]);

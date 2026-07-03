@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Train02Icon = createIcon({"name":"Train02Icon","figmaName":"train-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M20 10c0 4.418-3.582 10-8 10s-8-5.582-8-10a8 8 0 1 1 16 0"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M8 18c.939-1.22 2.382-2 4-2s3.061.78 4 2"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M9.249 9.604A9.8 9.8 0 0 0 12 10c.966 0 1.893-.145 2.751-.396 1.16-.34 1.668-.994.844-2.016-1.705-2.117-5.485-2.117-7.19 0-.824 1.022-.315 1.676.844 2.016"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m5 19-2 3m16-3 2 3"}]]);

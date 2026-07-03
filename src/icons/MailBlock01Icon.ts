@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const MailBlock01Icon = createIcon({"name":"MailBlock01Icon","figmaName":"mail-block-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M21.993 11.5c.012-.826.009-.649-.009-1.476-.065-3.065-.098-4.598-1.229-5.733-1.131-1.136-2.705-1.175-5.854-1.254a115 115 0 0 0-5.802 0c-3.149.079-4.723.118-5.854 1.254-1.131 1.135-1.164 2.668-1.23 5.733a69 69 0 0 0 0 2.952c.066 3.065.099 4.598 1.23 5.733 1.131 1.136 2.705 1.175 5.854 1.254Q10.553 20 12 20"}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":1.5,"d":"m2 5.5 6.913 3.925c2.526 1.433 3.648 1.433 6.174 0L22 5.5"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M16.05 15A3.5 3.5 0 1 0 21 19.95M16.05 15A3.5 3.5 0 0 1 21 19.95M16.05 15 21 19.95"}]]);

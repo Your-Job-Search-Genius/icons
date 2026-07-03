@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Cupcake03Icon = createIcon({"name":"Cupcake03Icon","figmaName":"cupcake-03","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M12 4a2 2 0 1 1 0 4 2 2 0 0 1 0-4m0 0c0-.5.4-1.6 2-2"}],["path",{"stroke":"currentColor","strokeLinejoin":"round","strokeWidth":1.5,"d":"M10 6c-2.209 0-4.098 2.493-2.75 4.081C5.622 9.74 4 10.946 4 12.534c0 2.952 4.662 3.374 5.28.503.564 2.617 4.876 2.617 5.44 0 .618 2.87 5.28 2.449 5.28-.503 0-1.588-1.623-2.794-3.25-2.453C18.099 8.493 16.21 6 14 6"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"m6 15 1.171 4.099c.4 1.396.599 2.094 1.133 2.498C8.84 22 9.565 22 11.017 22h1.966c1.452 0 2.178 0 2.713-.403.534-.404.734-1.102 1.133-2.498L18 15"}]]);

@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const ClearCircleHalfDotSolidIcon = createIcon({"name":"ClearCircleHalfDotSolidIcon","figmaName":"clear-circle-half-dot","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M17 12a1 1 0 0 1-1 1H8a1 1 0 1 1 0-2h8a1 1 0 0 1 1 1","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M11 2a1 1 0 0 1 1-1c6.075 0 11 4.925 11 11s-4.925 11-11 11S1 18.075 1 12a1 1 0 1 1 2 0 9 9 0 1 0 9-9 1 1 0 0 1-1-1m-1.566.144a1 1 0 0 1-.578 1.29 9 9 0 0 0-.499.207 1 1 0 0 1-.82-1.824q.3-.135.607-.251a1 1 0 0 1 1.29.578m-3.63 1.82a1 1 0 0 1-.041 1.414 9 9 0 0 0-.387.387A1 1 0 0 1 3.92 4.393q.228-.241.469-.47a1 1 0 0 1 1.413.042M3.141 7.03a1 1 0 0 1 .502 1.322 9 9 0 0 0-.21.504 1 1 0 0 1-1.868-.712q.118-.31.254-.612a1 1 0 0 1 1.322-.502","clipRule":"evenodd"}]]);

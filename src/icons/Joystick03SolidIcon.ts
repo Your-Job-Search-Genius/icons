@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const Joystick03SolidIcon = createIcon({"name":"Joystick03SolidIcon","figmaName":"joystick-03","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M4.246 5a3.75 3.75 0 1 1 7.5 0 3.75 3.75 0 0 1-7.5 0"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M7.996 7a1 1 0 0 1 1 1v8a1 1 0 1 1-2 0V8a1 1 0 0 1 1-1","clipRule":"evenodd"}],["path",{"fill":"currentColor","fillRule":"evenodd","d":"M17.996 13a1 1 0 0 1-1 1h-3a1 1 0 1 1 0-2h3a1 1 0 0 1 1 1","clipRule":"evenodd"}],["path",{"fill":"currentColor","d":"M8.342 15.25h7.317c1.088 0 1.844 0 2.535.286s1.226.82 1.995 1.59l.804.805c.472.495.757 1.125.757 2.2a2.75 2.75 0 0 1-2.617 2.616H4.867a2.75 2.75 0 0 1-2.617-2.616c0-1.115.285-1.705.757-2.2l.803-.805c.77-.77 1.304-1.304 1.996-1.59.691-.287 1.447-.287 2.536-.286"}]]);

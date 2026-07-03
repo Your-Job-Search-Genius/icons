@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const ChartBubble01SolidIcon = createIcon({"name":"ChartBubble01SolidIcon","figmaName":"chart-bubble-01","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","fillRule":"evenodd","d":"M3 2a1 1 0 0 1 1 1v11c0 1.678.002 2.836.12 3.707.112.842.316 1.265.612 1.56.296.297.719.5 1.56.614.872.117 2.03.119 3.708.119h11a1 1 0 1 1 0 2H9.928c-1.589 0-2.882 0-3.902-.137-1.064-.143-1.979-.452-2.708-1.181s-1.038-1.644-1.18-2.708C2 16.954 2 15.66 2 14.072V3a1 1 0 0 1 1-1","clipRule":"evenodd"}],["circle",{"cx":8,"cy":8,"r":2,"fill":"currentColor"}],["circle",{"cx":11.5,"cy":15.5,"r":2.5,"fill":"currentColor"}],["circle",{"cx":17.5,"cy":7.5,"r":3.5,"fill":"currentColor"}]]);

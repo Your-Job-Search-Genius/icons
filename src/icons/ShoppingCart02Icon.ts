@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const ShoppingCart02Icon = createIcon({"name":"ShoppingCart02Icon","figmaName":"shopping-cart-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"m8 16 8.72-.727c2.729-.227 3.341-.823 3.643-3.544L21 6"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M6 6h16"}],["circle",{"cx":6,"cy":20,"r":2,"stroke":"currentColor","strokeWidth":1.5}],["circle",{"cx":17,"cy":20,"r":2,"stroke":"currentColor","strokeWidth":1.5}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M8 20h7"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M2 2h.966c.945 0 1.768.625 1.997 1.515L7.94 15.076a1.96 1.96 0 0 1-.35 1.686L6.631 18"}]]);

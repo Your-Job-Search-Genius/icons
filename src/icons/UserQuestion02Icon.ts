@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const UserQuestion02Icon = createIcon({"name":"UserQuestion02Icon","figmaName":"user-question-02","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M6.18 15.296c-1.258.738-4.555 2.243-2.547 4.126.981.92 2.074 1.578 3.448 1.578h7.838c1.374 0 2.467-.658 3.447-1.578 2.009-1.883-1.288-3.389-2.546-4.126a9.61 9.61 0 0 0-9.64 0"}],["path",{"stroke":"currentColor","strokeWidth":1.5,"d":"M15 7a4 4 0 1 1-8 0 4 4 0 0 1 8 0Z"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeWidth":1.5,"d":"M18 5.538C18 4.688 18.672 4 19.5 4s1.5.689 1.5 1.538c0 .307-.087.592-.238.832-.448.714-1.262 1.396-1.262 2.245V9"}],["path",{"stroke":"currentColor","strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M19.5 11h.009"}]]);

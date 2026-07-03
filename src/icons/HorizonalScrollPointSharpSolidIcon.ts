@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT. Run `npm run generate` to regenerate.
+import { createIcon } from '../createIcon.js';
+
+export const HorizonalScrollPointSharpSolidIcon = createIcon({"name":"HorizonalScrollPointSharpSolidIcon","figmaName":"horizonal-scroll-point-sharp","viewBox":"0 0 24 24","width":24,"height":24}, [["path",{"fill":"currentColor","d":"M9 12a3 3 0 1 0 6 0 3 3 0 0 0-6 0"}],["path",{"fill":"currentColor","d":"M.828 11.13c-.15.188-.328.479-.328.87s.178.681.328.87c.125.157.292.318.433.452l3.542 3.399c.284.272.712.354 1.083.206a.95.95 0 0 0 .614-.88V7.953a.95.95 0 0 0-.614-.881 1.02 1.02 0 0 0-1.083.206l-3.543 3.4a5 5 0 0 0-.433.451"}],["path",{"fill":"currentColor","d":"M18.114 7.073a.95.95 0 0 0-.614.88v8.093c0 .386.242.734.614.881.371.148.799.066 1.083-.206l3.543-3.399c.14-.134.307-.295.432-.451.15-.19.328-.48.328-.871s-.178-.681-.328-.87a5 5 0 0 0-.433-.452l-3.542-3.399a1.02 1.02 0 0 0-1.083-.206"}]]);
