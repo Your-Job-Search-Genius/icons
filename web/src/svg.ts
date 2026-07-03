@@ -37,7 +37,7 @@ function nodesToString(nodes: IconNode[]): string {
  */
 export function iconToSvgString(icon: ExplorerIcon, color: string, size: number): string {
   const body = nodesToString(icon.nodes);
-  const resolved = icon.multicolor ? body : body.replaceAll('currentColor', color);
+  const resolved = icon.multicolor ? body : body.replace(/currentColor/g, color);
   return (
     `<svg xmlns="http://www.w3.org/2000/svg" viewBox="${icon.viewBox}" ` +
     `width="${size}" height="${size}" fill="none">${resolved}</svg>`
