@@ -1,9 +1,29 @@
-# @writesea/odyssey-icons
+# @your-job-search-genius/icons
 
 React icon library generated from the [Writesea Odyssey Figma file](https://www.figma.com/design/L1Tjy8S8lUAbQNQnvr4bJN/Writesea-Odyssey?node-id=68-195) (Huge Icon Set v2.0). Every icon ships in two variants: **stroke** (outline, the default name) and **solid** (filled, `Solid` suffix).
 
+## Install
+
+This is a **private package on GitHub Packages**. Point the `@your-job-search-genius`
+scope at the GitHub registry and authenticate with a token that has `read:packages`.
+Add an `.npmrc` (in the consuming project or your home directory):
+
+```ini
+@your-job-search-genius:registry=https://npm.pkg.github.com
+//npm.pkg.github.com/:_authToken=${GITHUB_TOKEN}
+```
+
+Then export a personal access token (classic, `read:packages` scope) and install:
+
+```sh
+export GITHUB_TOKEN=ghp_...
+npm install @your-job-search-genius/icons
+```
+
+## Usage
+
 ```tsx
-import { AddCircleIcon, AddCircleSolidIcon } from '@writesea/odyssey-icons';
+import { AddCircleIcon, AddCircleSolidIcon } from '@your-job-search-genius/icons';
 
 // Inherits the surrounding text color and renders at its Figma size (24px)
 <AddCircleIcon />
@@ -23,7 +43,7 @@ Deep imports also work and keep bundles minimal (the barrel is tree-shakeable
 either way thanks to `sideEffects: false`):
 
 ```tsx
-import { AddCircleIcon } from '@writesea/odyssey-icons/icons/AddCircleIcon';
+import { AddCircleIcon } from '@your-job-search-genius/icons/AddCircleIcon';
 ```
 
 ## Accessibility
