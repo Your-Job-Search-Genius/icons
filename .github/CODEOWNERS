@@ -1,0 +1,16 @@
+# SOC 2 release-sensitive files
+/.github/workflows/ @Your-Job-Search-Genius/production-release-managers
+/.github/actions/ @Your-Job-Search-Genius/production-release-managers
+/.github/CODEOWNERS @Your-Job-Search-Genius/production-release-managers
+/helm-charts/ @Your-Job-Search-Genius/production-release-managers
+/Dockerfile* @Your-Job-Search-Genius/production-release-managers
+/config/ @Your-Job-Search-Genius/production-release-managers
+/exceptions/ @Your-Job-Search-Genius/production-release-managers
+/scripts/gate-check.js @Your-Job-Search-Genius/production-release-managers
+/scripts/sbom-* @Your-Job-Search-Genius/production-release-managers
+/package.json @Your-Job-Search-Genius/production-release-managers
+/package-lock.json @Your-Job-Search-Genius/production-release-managers
+/pnpm-lock.yaml @Your-Job-Search-Genius/production-release-managers
+/yarn.lock @Your-Job-Search-Genius/production-release-managers
+/pyproject.toml @Your-Job-Search-Genius/production-release-managers
+/requirements.txt @Your-Job-Search-Genius/production-release-managers
